@@ -1,0 +1,53 @@
+{
+  "lost_opportunities_2025": {
+    "january": {
+      "lost_quotes": 42,
+      "total_value": "€845,000",
+      "avg_response_time": "98 minutes",
+      "competitor_wins": 38,
+      "main_reason": "Slow response time"
+    },
+    "february": {
+      "lost_quotes": 38,
+      "total_value": "€712,000",
+      "avg_response_time": "102 minutes",
+      "competitor_wins": 35,
+      "main_reason": "Pricing delays"
+    },
+    "march": {
+      "lost_quotes": 45,
+      "total_value": "€923,000",
+      "avg_response_time": "110 minutes",
+      "competitor_wins": 41,
+      "main_reason": "Manual processes"
+    },
+    "april": {
+      "lost_quotes": 51,
+      "total_value": "€1,125,000",
+      "avg_response_time": "115 minutes",
+      "competitor_wins": 47,
+      "main_reason": "System inefficiencies"
+    },
+    "may": {
+      "lost_quotes": 47,
+      "total_value": "€987,000",
+      "avg_response_time": "108 minutes",
+      "competitor_wins": 44,
+      "main_reason": "Lack of automation"
+    },
+    "june": {
+      "lost_quotes": 49,
+      "total_value": "€1,045,000",
+      "avg_response_time": "112 minutes",
+      "competitor_wins": 46,
+      "main_reason": "Competitive response time"
+    }
+  },
+  "ytd_summary": {
+    "total_lost_quotes": 272,
+    "total_lost_revenue": "€5,637,000",
+    "average_response_time": "108 minutes",
+    "competitor_success_rate": "94%",
+    "projected_annual_loss": "€11.27M"
+  }
+}

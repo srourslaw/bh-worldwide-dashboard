@@ -1,0 +1,5444 @@
+[
+    {
+        "part_number": "PART-52115-34",
+        "stock_levels_per_location": {
+            "London": 5,
+            "Frankfurt": 10,
+            "Dubai": 8,
+            "Singapore": 4,
+            "New York": 1,
+            "Hong Kong": 0
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 8,
+            "Dubai": 3,
+            "Singapore": 3,
+            "New York": 1,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-25"
+            }
+        }
+    },
+    {
+        "part_number": "PART-57163-31",
+        "stock_levels_per_location": {
+            "London": 3,
+            "Frankfurt": 0,
+            "Dubai": 8,
+            "Singapore": 3,
+            "New York": 1,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 0,
+            "Dubai": 8,
+            "Singapore": 2,
+            "New York": 1,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 4,
+                "arrival_date": "2025-07-23"
+            },
+            "Dubai": {
+                "quantity": 2,
+                "arrival_date": "2025-07-15"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-19"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-11763-90",
+        "stock_levels_per_location": {
+            "London": 8,
+            "Frankfurt": 6,
+            "Dubai": 6,
+            "Singapore": 6,
+            "New York": 4,
+            "Hong Kong": 5
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 2,
+            "Dubai": 3,
+            "Singapore": 6,
+            "New York": 3,
+            "Hong Kong": 5
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-26"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 1,
+                "arrival_date": "2025-07-21"
+            },
+            "Singapore": {
+                "quantity": 5,
+                "arrival_date": "2025-07-18"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-50338-13",
+        "stock_levels_per_location": {
+            "London": 2,
+            "Frankfurt": 3,
+            "Dubai": 6,
+            "Singapore": 6,
+            "New York": 10,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 1,
+            "Dubai": 4,
+            "Singapore": 2,
+            "New York": 10,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 1,
+                "arrival_date": "2025-07-21"
+            },
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-18"
+            },
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-17"
+            },
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-16"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-16443-26",
+        "stock_levels_per_location": {
+            "London": 3,
+            "Frankfurt": 7,
+            "Dubai": 3,
+            "Singapore": 2,
+            "New York": 0,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 4,
+            "Dubai": 1,
+            "Singapore": 2,
+            "New York": 0,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 3,
+                "arrival_date": "2025-07-24"
+            },
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-20"
+            },
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-35070-15",
+        "stock_levels_per_location": {
+            "London": 6,
+            "Frankfurt": 9,
+            "Dubai": 4,
+            "Singapore": 2,
+            "New York": 7,
+            "Hong Kong": 7
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 2,
+            "Dubai": 4,
+            "Singapore": 1,
+            "New York": 0,
+            "Hong Kong": 6
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 3,
+                "arrival_date": "2025-07-26"
+            },
+            "Frankfurt": {
+                "quantity": 2,
+                "arrival_date": "2025-07-30"
+            },
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 4,
+                "arrival_date": "2025-07-15"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 5,
+                "arrival_date": "2025-07-26"
+            }
+        }
+    },
+    {
+        "part_number": "PART-29841-51",
+        "stock_levels_per_location": {
+            "London": 3,
+            "Frankfurt": 4,
+            "Dubai": 9,
+            "Singapore": 10,
+            "New York": 2,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 2,
+            "Dubai": 8,
+            "Singapore": 8,
+            "New York": 2,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 4,
+                "arrival_date": "2025-07-16"
+            },
+            "New York": {
+                "quantity": 1,
+                "arrival_date": "2025-07-23"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-69919-59",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 1,
+            "Dubai": 2,
+            "Singapore": 9,
+            "New York": 4,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 0,
+            "Dubai": 0,
+            "Singapore": 3,
+            "New York": 3,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-18"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-12080-40",
+        "stock_levels_per_location": {
+            "London": 0,
+            "Frankfurt": 9,
+            "Dubai": 3,
+            "Singapore": 6,
+            "New York": 1,
+            "Hong Kong": 9
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 2,
+            "Dubai": 1,
+            "Singapore": 0,
+            "New York": 0,
+            "Hong Kong": 3
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-15"
+            },
+            "Frankfurt": {
+                "quantity": 2,
+                "arrival_date": "2025-07-19"
+            },
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-23"
+            },
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-15"
+            },
+            "New York": {
+                "quantity": 4,
+                "arrival_date": "2025-07-27"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-26549-88",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 4,
+            "Dubai": 0,
+            "Singapore": 9,
+            "New York": 10,
+            "Hong Kong": 8
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 0,
+            "Dubai": 0,
+            "Singapore": 7,
+            "New York": 4,
+            "Hong Kong": 6
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-30"
+            },
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-30"
+            },
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-29"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-19"
+            },
+            "Hong Kong": {
+                "quantity": 1,
+                "arrival_date": "2025-07-29"
+            }
+        }
+    },
+    {
+        "part_number": "PART-99093-90",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 10,
+            "Dubai": 8,
+            "Singapore": 0,
+            "New York": 9,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 5,
+            "Dubai": 5,
+            "Singapore": 0,
+            "New York": 3,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-15"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-24"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 1,
+                "arrival_date": "2025-07-17"
+            },
+            "Hong Kong": {
+                "quantity": 5,
+                "arrival_date": "2025-07-27"
+            }
+        }
+    },
+    {
+        "part_number": "PART-72597-36",
+        "stock_levels_per_location": {
+            "London": 9,
+            "Frankfurt": 4,
+            "Dubai": 8,
+            "Singapore": 3,
+            "New York": 9,
+            "Hong Kong": 5
+        },
+        "reserved_inventory_per_location": {
+            "London": 9,
+            "Frankfurt": 1,
+            "Dubai": 4,
+            "Singapore": 1,
+            "New York": 7,
+            "Hong Kong": 5
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-26"
+            },
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-30"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 5,
+                "arrival_date": "2025-07-16"
+            }
+        }
+    },
+    {
+        "part_number": "PART-87769-59",
+        "stock_levels_per_location": {
+            "London": 8,
+            "Frankfurt": 2,
+            "Dubai": 3,
+            "Singapore": 6,
+            "New York": 1,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 2,
+            "Dubai": 2,
+            "Singapore": 5,
+            "New York": 1,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 4,
+                "arrival_date": "2025-07-29"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 3,
+                "arrival_date": "2025-07-30"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-18"
+            },
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-28"
+            }
+        }
+    },
+    {
+        "part_number": "PART-27654-22",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 2,
+            "Dubai": 4,
+            "Singapore": 5,
+            "New York": 7,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 7,
+            "Frankfurt": 1,
+            "Dubai": 3,
+            "Singapore": 4,
+            "New York": 4,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 4,
+                "arrival_date": "2025-07-24"
+            }
+        }
+    },
+    {
+        "part_number": "PART-59657-32",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 7,
+            "Dubai": 9,
+            "Singapore": 4,
+            "New York": 2,
+            "Hong Kong": 5
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 5,
+            "Dubai": 5,
+            "Singapore": 2,
+            "New York": 1,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-24"
+            },
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 3,
+                "arrival_date": "2025-07-24"
+            },
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-15"
+            },
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-26"
+            }
+        }
+    },
+    {
+        "part_number": "PART-59407-34",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 3,
+            "Dubai": 2,
+            "Singapore": 4,
+            "New York": 5,
+            "Hong Kong": 10
+        },
+        "reserved_inventory_per_location": {
+            "London": 4,
+            "Frankfurt": 1,
+            "Dubai": 0,
+            "Singapore": 0,
+            "New York": 1,
+            "Hong Kong": 4
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-25"
+            },
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-16"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 1,
+                "arrival_date": "2025-07-24"
+            }
+        }
+    },
+    {
+        "part_number": "PART-58799-11",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 2,
+            "Dubai": 9,
+            "Singapore": 2,
+            "New York": 5,
+            "Hong Kong": 7
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 0,
+            "Dubai": 1,
+            "Singapore": 2,
+            "New York": 5,
+            "Hong Kong": 4
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 2,
+                "arrival_date": "2025-07-22"
+            },
+            "Singapore": {
+                "quantity": 4,
+                "arrival_date": "2025-07-24"
+            },
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-24"
+            },
+            "Hong Kong": {
+                "quantity": 2,
+                "arrival_date": "2025-07-17"
+            }
+        }
+    },
+    {
+        "part_number": "PART-70840-25",
+        "stock_levels_per_location": {
+            "London": 5,
+            "Frankfurt": 1,
+            "Dubai": 1,
+            "Singapore": 5,
+            "New York": 6,
+            "Hong Kong": 5
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 1,
+            "Dubai": 1,
+            "Singapore": 3,
+            "New York": 4,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-22"
+            },
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-22"
+            },
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-23"
+            },
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-24"
+            },
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-24"
+            },
+            "Hong Kong": {
+                "quantity": 5,
+                "arrival_date": "2025-07-25"
+            }
+        }
+    },
+    {
+        "part_number": "PART-22516-43",
+        "stock_levels_per_location": {
+            "London": 9,
+            "Frankfurt": 8,
+            "Dubai": 1,
+            "Singapore": 3,
+            "New York": 2,
+            "Hong Kong": 0
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 0,
+            "Dubai": 1,
+            "Singapore": 0,
+            "New York": 0,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-23"
+            },
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-16"
+            },
+            "Hong Kong": {
+                "quantity": 1,
+                "arrival_date": "2025-07-16"
+            }
+        }
+    },
+    {
+        "part_number": "PART-97086-49",
+        "stock_levels_per_location": {
+            "London": 10,
+            "Frankfurt": 0,
+            "Dubai": 0,
+            "Singapore": 4,
+            "New York": 4,
+            "Hong Kong": 7
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 0,
+            "Dubai": 0,
+            "Singapore": 2,
+            "New York": 0,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-16"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 2,
+                "arrival_date": "2025-07-23"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-16"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-39212-96",
+        "stock_levels_per_location": {
+            "London": 9,
+            "Frankfurt": 2,
+            "Dubai": 9,
+            "Singapore": 2,
+            "New York": 5,
+            "Hong Kong": 3
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 1,
+            "Dubai": 3,
+            "Singapore": 2,
+            "New York": 5,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 2,
+                "arrival_date": "2025-07-24"
+            },
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 4,
+                "arrival_date": "2025-07-17"
+            },
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-15"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-21705-80",
+        "stock_levels_per_location": {
+            "London": 10,
+            "Frankfurt": 3,
+            "Dubai": 8,
+            "Singapore": 6,
+            "New York": 0,
+            "Hong Kong": 9
+        },
+        "reserved_inventory_per_location": {
+            "London": 6,
+            "Frankfurt": 0,
+            "Dubai": 6,
+            "Singapore": 4,
+            "New York": 0,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 3,
+                "arrival_date": "2025-07-19"
+            },
+            "Frankfurt": {
+                "quantity": 5,
+                "arrival_date": "2025-07-20"
+            },
+            "Dubai": {
+                "quantity": 1,
+                "arrival_date": "2025-07-17"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 1,
+                "arrival_date": "2025-07-15"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-41033-21",
+        "stock_levels_per_location": {
+            "London": 9,
+            "Frankfurt": 6,
+            "Dubai": 8,
+            "Singapore": 5,
+            "New York": 4,
+            "Hong Kong": 7
+        },
+        "reserved_inventory_per_location": {
+            "London": 6,
+            "Frankfurt": 1,
+            "Dubai": 2,
+            "Singapore": 5,
+            "New York": 4,
+            "Hong Kong": 4
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-28"
+            }
+        }
+    },
+    {
+        "part_number": "PART-61827-42",
+        "stock_levels_per_location": {
+            "London": 6,
+            "Frankfurt": 4,
+            "Dubai": 3,
+            "Singapore": 1,
+            "New York": 1,
+            "Hong Kong": 10
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 4,
+            "Dubai": 0,
+            "Singapore": 0,
+            "New York": 1,
+            "Hong Kong": 10
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 2,
+                "arrival_date": "2025-07-15"
+            },
+            "Dubai": {
+                "quantity": 2,
+                "arrival_date": "2025-07-17"
+            },
+            "Singapore": {
+                "quantity": 5,
+                "arrival_date": "2025-07-21"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-35978-32",
+        "stock_levels_per_location": {
+            "London": 8,
+            "Frankfurt": 3,
+            "Dubai": 1,
+            "Singapore": 8,
+            "New York": 8,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 3,
+            "Dubai": 1,
+            "Singapore": 5,
+            "New York": 5,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-23"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-21"
+            },
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-29"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-24322-89",
+        "stock_levels_per_location": {
+            "London": 5,
+            "Frankfurt": 6,
+            "Dubai": 2,
+            "Singapore": 6,
+            "New York": 5,
+            "Hong Kong": 7
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 6,
+            "Dubai": 0,
+            "Singapore": 3,
+            "New York": 0,
+            "Hong Kong": 3
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 1,
+                "arrival_date": "2025-07-23"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 3,
+                "arrival_date": "2025-07-26"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 1,
+                "arrival_date": "2025-07-15"
+            },
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-27"
+            }
+        }
+    },
+    {
+        "part_number": "PART-38623-42",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 10,
+            "Dubai": 1,
+            "Singapore": 2,
+            "New York": 10,
+            "Hong Kong": 0
+        },
+        "reserved_inventory_per_location": {
+            "London": 5,
+            "Frankfurt": 5,
+            "Dubai": 1,
+            "Singapore": 0,
+            "New York": 10,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 2,
+                "arrival_date": "2025-07-16"
+            },
+            "Dubai": {
+                "quantity": 2,
+                "arrival_date": "2025-07-26"
+            },
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-22"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 2,
+                "arrival_date": "2025-07-15"
+            }
+        }
+    },
+    {
+        "part_number": "PART-43484-19",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 3,
+            "Dubai": 0,
+            "Singapore": 0,
+            "New York": 5,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 4,
+            "Frankfurt": 2,
+            "Dubai": 0,
+            "Singapore": 0,
+            "New York": 4,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 3,
+                "arrival_date": "2025-07-19"
+            },
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-34506-91",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 7,
+            "Dubai": 10,
+            "Singapore": 2,
+            "New York": 2,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 2,
+            "Dubai": 6,
+            "Singapore": 2,
+            "New York": 0,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 3,
+                "arrival_date": "2025-07-21"
+            },
+            "Frankfurt": {
+                "quantity": 5,
+                "arrival_date": "2025-07-29"
+            },
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-24"
+            },
+            "Singapore": {
+                "quantity": 3,
+                "arrival_date": "2025-07-19"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 5,
+                "arrival_date": "2025-07-26"
+            }
+        }
+    },
+    {
+        "part_number": "PART-86946-16",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 9,
+            "Dubai": 4,
+            "Singapore": 3,
+            "New York": 6,
+            "Hong Kong": 8
+        },
+        "reserved_inventory_per_location": {
+            "London": 4,
+            "Frankfurt": 0,
+            "Dubai": 1,
+            "Singapore": 1,
+            "New York": 0,
+            "Hong Kong": 7
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-27"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-99856-20",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 6,
+            "Dubai": 1,
+            "Singapore": 0,
+            "New York": 8,
+            "Hong Kong": 4
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 3,
+            "Dubai": 0,
+            "Singapore": 0,
+            "New York": 3,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 1,
+                "arrival_date": "2025-07-17"
+            },
+            "Singapore": {
+                "quantity": 5,
+                "arrival_date": "2025-07-21"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 4,
+                "arrival_date": "2025-07-15"
+            }
+        }
+    },
+    {
+        "part_number": "PART-47858-45",
+        "stock_levels_per_location": {
+            "London": 10,
+            "Frankfurt": 1,
+            "Dubai": 1,
+            "Singapore": 9,
+            "New York": 3,
+            "Hong Kong": 3
+        },
+        "reserved_inventory_per_location": {
+            "London": 9,
+            "Frankfurt": 0,
+            "Dubai": 0,
+            "Singapore": 5,
+            "New York": 1,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-26"
+            },
+            "Frankfurt": {
+                "quantity": 4,
+                "arrival_date": "2025-07-15"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": {
+                "quantity": 3,
+                "arrival_date": "2025-07-30"
+            },
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-29"
+            }
+        }
+    },
+    {
+        "part_number": "PART-17025-11",
+        "stock_levels_per_location": {
+            "London": 3,
+            "Frankfurt": 4,
+            "Dubai": 5,
+            "Singapore": 7,
+            "New York": 2,
+            "Hong Kong": 10
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 3,
+            "Dubai": 2,
+            "Singapore": 3,
+            "New York": 2,
+            "Hong Kong": 5
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 5,
+                "arrival_date": "2025-07-16"
+            },
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 3,
+                "arrival_date": "2025-07-27"
+            },
+            "New York": {
+                "quantity": 1,
+                "arrival_date": "2025-07-28"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-34997-77",
+        "stock_levels_per_location": {
+            "London": 5,
+            "Frankfurt": 0,
+            "Dubai": 6,
+            "Singapore": 0,
+            "New York": 1,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 5,
+            "Frankfurt": 0,
+            "Dubai": 1,
+            "Singapore": 0,
+            "New York": 1,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 4,
+                "arrival_date": "2025-07-26"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-29"
+            },
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 5,
+                "arrival_date": "2025-07-22"
+            }
+        }
+    },
+    {
+        "part_number": "PART-66881-42",
+        "stock_levels_per_location": {
+            "London": 9,
+            "Frankfurt": 4,
+            "Dubai": 6,
+            "Singapore": 4,
+            "New York": 10,
+            "Hong Kong": 3
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 0,
+            "Dubai": 3,
+            "Singapore": 0,
+            "New York": 7,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-30"
+            },
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-25"
+            },
+            "Hong Kong": {
+                "quantity": 5,
+                "arrival_date": "2025-07-20"
+            }
+        }
+    },
+    {
+        "part_number": "PART-94743-12",
+        "stock_levels_per_location": {
+            "London": 8,
+            "Frankfurt": 2,
+            "Dubai": 8,
+            "Singapore": 10,
+            "New York": 6,
+            "Hong Kong": 10
+        },
+        "reserved_inventory_per_location": {
+            "London": 4,
+            "Frankfurt": 1,
+            "Dubai": 4,
+            "Singapore": 9,
+            "New York": 6,
+            "Hong Kong": 5
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-18"
+            },
+            "Dubai": {
+                "quantity": 3,
+                "arrival_date": "2025-07-19"
+            },
+            "Singapore": {
+                "quantity": 3,
+                "arrival_date": "2025-07-30"
+            },
+            "New York": {
+                "quantity": 3,
+                "arrival_date": "2025-07-27"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-29388-37",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 6,
+            "Dubai": 0,
+            "Singapore": 0,
+            "New York": 1,
+            "Hong Kong": 5
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 6,
+            "Dubai": 0,
+            "Singapore": 0,
+            "New York": 1,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-22"
+            },
+            "Dubai": {
+                "quantity": 2,
+                "arrival_date": "2025-07-21"
+            },
+            "Singapore": {
+                "quantity": 4,
+                "arrival_date": "2025-07-26"
+            },
+            "New York": {
+                "quantity": 4,
+                "arrival_date": "2025-07-29"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-73751-68",
+        "stock_levels_per_location": {
+            "London": 0,
+            "Frankfurt": 5,
+            "Dubai": 9,
+            "Singapore": 6,
+            "New York": 0,
+            "Hong Kong": 4
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 1,
+            "Dubai": 3,
+            "Singapore": 2,
+            "New York": 0,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 1,
+                "arrival_date": "2025-07-23"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 1,
+                "arrival_date": "2025-07-21"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 3,
+                "arrival_date": "2025-07-18"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-12023-85",
+        "stock_levels_per_location": {
+            "London": 6,
+            "Frankfurt": 2,
+            "Dubai": 7,
+            "Singapore": 1,
+            "New York": 10,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 2,
+            "Dubai": 4,
+            "Singapore": 0,
+            "New York": 6,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-30"
+            },
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-30"
+            }
+        }
+    },
+    {
+        "part_number": "PART-20634-73",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 2,
+            "Dubai": 7,
+            "Singapore": 0,
+            "New York": 5,
+            "Hong Kong": 0
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 1,
+            "Dubai": 2,
+            "Singapore": 0,
+            "New York": 3,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 1,
+                "arrival_date": "2025-07-15"
+            },
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 4,
+                "arrival_date": "2025-07-16"
+            }
+        }
+    },
+    {
+        "part_number": "PART-34686-37",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 2,
+            "Dubai": 8,
+            "Singapore": 6,
+            "New York": 5,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 1,
+            "Dubai": 5,
+            "Singapore": 1,
+            "New York": 3,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-18"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-25"
+            },
+            "Singapore": {
+                "quantity": 5,
+                "arrival_date": "2025-07-19"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-54185-74",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 1,
+            "Dubai": 9,
+            "Singapore": 8,
+            "New York": 4,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 1,
+            "Dubai": 3,
+            "Singapore": 1,
+            "New York": 2,
+            "Hong Kong": 5
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 4,
+                "arrival_date": "2025-07-15"
+            },
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-25"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 4,
+                "arrival_date": "2025-07-26"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-43061-11",
+        "stock_levels_per_location": {
+            "London": 3,
+            "Frankfurt": 4,
+            "Dubai": 4,
+            "Singapore": 3,
+            "New York": 6,
+            "Hong Kong": 8
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 2,
+            "Dubai": 2,
+            "Singapore": 0,
+            "New York": 6,
+            "Hong Kong": 8
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 1,
+                "arrival_date": "2025-07-20"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 2,
+                "arrival_date": "2025-07-30"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 4,
+                "arrival_date": "2025-07-25"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-39839-58",
+        "stock_levels_per_location": {
+            "London": 2,
+            "Frankfurt": 3,
+            "Dubai": 7,
+            "Singapore": 1,
+            "New York": 6,
+            "Hong Kong": 4
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 3,
+            "Dubai": 7,
+            "Singapore": 1,
+            "New York": 3,
+            "Hong Kong": 3
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 5,
+                "arrival_date": "2025-07-18"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 2,
+                "arrival_date": "2025-07-24"
+            }
+        }
+    },
+    {
+        "part_number": "PART-15608-37",
+        "stock_levels_per_location": {
+            "London": 0,
+            "Frankfurt": 4,
+            "Dubai": 1,
+            "Singapore": 9,
+            "New York": 1,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 4,
+            "Dubai": 0,
+            "Singapore": 1,
+            "New York": 1,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-26"
+            },
+            "Singapore": {
+                "quantity": 5,
+                "arrival_date": "2025-07-19"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-30"
+            }
+        }
+    },
+    {
+        "part_number": "PART-36755-14",
+        "stock_levels_per_location": {
+            "London": 5,
+            "Frankfurt": 2,
+            "Dubai": 8,
+            "Singapore": 10,
+            "New York": 8,
+            "Hong Kong": 4
+        },
+        "reserved_inventory_per_location": {
+            "London": 4,
+            "Frankfurt": 0,
+            "Dubai": 2,
+            "Singapore": 1,
+            "New York": 3,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-24"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-26"
+            },
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-42228-95",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 10,
+            "Dubai": 1,
+            "Singapore": 4,
+            "New York": 8,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 4,
+            "Frankfurt": 6,
+            "Dubai": 1,
+            "Singapore": 1,
+            "New York": 4,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-22"
+            },
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-27"
+            },
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-23"
+            },
+            "Hong Kong": {
+                "quantity": 5,
+                "arrival_date": "2025-07-23"
+            }
+        }
+    },
+    {
+        "part_number": "PART-11584-42",
+        "stock_levels_per_location": {
+            "London": 8,
+            "Frankfurt": 10,
+            "Dubai": 8,
+            "Singapore": 5,
+            "New York": 2,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 4,
+            "Frankfurt": 10,
+            "Dubai": 2,
+            "Singapore": 1,
+            "New York": 2,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 3,
+                "arrival_date": "2025-07-28"
+            },
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 3,
+                "arrival_date": "2025-07-19"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-28"
+            }
+        }
+    },
+    {
+        "part_number": "PART-53233-42",
+        "stock_levels_per_location": {
+            "London": 0,
+            "Frankfurt": 0,
+            "Dubai": 8,
+            "Singapore": 1,
+            "New York": 10,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 0,
+            "Dubai": 0,
+            "Singapore": 0,
+            "New York": 4,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-20"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-56700-28",
+        "stock_levels_per_location": {
+            "London": 3,
+            "Frankfurt": 0,
+            "Dubai": 5,
+            "Singapore": 9,
+            "New York": 10,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 0,
+            "Dubai": 0,
+            "Singapore": 3,
+            "New York": 0,
+            "Hong Kong": 5
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": {
+                "quantity": 1,
+                "arrival_date": "2025-07-25"
+            },
+            "Hong Kong": {
+                "quantity": 4,
+                "arrival_date": "2025-07-30"
+            }
+        }
+    },
+    {
+        "part_number": "PART-92830-46",
+        "stock_levels_per_location": {
+            "London": 0,
+            "Frankfurt": 8,
+            "Dubai": 3,
+            "Singapore": 2,
+            "New York": 0,
+            "Hong Kong": 5
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 5,
+            "Dubai": 1,
+            "Singapore": 0,
+            "New York": 0,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 4,
+                "arrival_date": "2025-07-15"
+            },
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-25"
+            },
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 5,
+                "arrival_date": "2025-07-23"
+            },
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-23"
+            },
+            "Hong Kong": {
+                "quantity": 2,
+                "arrival_date": "2025-07-28"
+            }
+        }
+    },
+    {
+        "part_number": "PART-41775-23",
+        "stock_levels_per_location": {
+            "London": 8,
+            "Frankfurt": 6,
+            "Dubai": 10,
+            "Singapore": 9,
+            "New York": 6,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 4,
+            "Dubai": 10,
+            "Singapore": 9,
+            "New York": 5,
+            "Hong Kong": 6
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-30"
+            },
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-23"
+            }
+        }
+    },
+    {
+        "part_number": "PART-81853-35",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 3,
+            "Dubai": 3,
+            "Singapore": 5,
+            "New York": 4,
+            "Hong Kong": 4
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 2,
+            "Dubai": 0,
+            "Singapore": 0,
+            "New York": 1,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 4,
+                "arrival_date": "2025-07-29"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-22"
+            },
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-25"
+            },
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-25"
+            },
+            "Hong Kong": {
+                "quantity": 1,
+                "arrival_date": "2025-07-21"
+            }
+        }
+    },
+    {
+        "part_number": "PART-58652-88",
+        "stock_levels_per_location": {
+            "London": 8,
+            "Frankfurt": 5,
+            "Dubai": 7,
+            "Singapore": 9,
+            "New York": 7,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 3,
+            "Dubai": 7,
+            "Singapore": 3,
+            "New York": 0,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-17"
+            },
+            "Singapore": {
+                "quantity": 5,
+                "arrival_date": "2025-07-20"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-20"
+            }
+        }
+    },
+    {
+        "part_number": "PART-38725-62",
+        "stock_levels_per_location": {
+            "London": 8,
+            "Frankfurt": 10,
+            "Dubai": 8,
+            "Singapore": 4,
+            "New York": 0,
+            "Hong Kong": 4
+        },
+        "reserved_inventory_per_location": {
+            "London": 6,
+            "Frankfurt": 6,
+            "Dubai": 0,
+            "Singapore": 3,
+            "New York": 0,
+            "Hong Kong": 3
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-20"
+            },
+            "Frankfurt": {
+                "quantity": 5,
+                "arrival_date": "2025-07-16"
+            },
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 5,
+                "arrival_date": "2025-07-16"
+            },
+            "New York": {
+                "quantity": 3,
+                "arrival_date": "2025-07-29"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-67938-67",
+        "stock_levels_per_location": {
+            "London": 8,
+            "Frankfurt": 10,
+            "Dubai": 3,
+            "Singapore": 4,
+            "New York": 0,
+            "Hong Kong": 5
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 4,
+            "Dubai": 2,
+            "Singapore": 3,
+            "New York": 0,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 1,
+                "arrival_date": "2025-07-24"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 3,
+                "arrival_date": "2025-07-26"
+            },
+            "Singapore": {
+                "quantity": 5,
+                "arrival_date": "2025-07-22"
+            },
+            "New York": {
+                "quantity": 3,
+                "arrival_date": "2025-07-24"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-10061-46",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 5,
+            "Dubai": 3,
+            "Singapore": 7,
+            "New York": 0,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 1,
+            "Dubai": 1,
+            "Singapore": 2,
+            "New York": 0,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 3,
+                "arrival_date": "2025-07-25"
+            },
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-21144-57",
+        "stock_levels_per_location": {
+            "London": 8,
+            "Frankfurt": 8,
+            "Dubai": 6,
+            "Singapore": 4,
+            "New York": 8,
+            "Hong Kong": 0
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 8,
+            "Dubai": 2,
+            "Singapore": 0,
+            "New York": 2,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 5,
+                "arrival_date": "2025-07-15"
+            },
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-18"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 3,
+                "arrival_date": "2025-07-28"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-59513-56",
+        "stock_levels_per_location": {
+            "London": 5,
+            "Frankfurt": 7,
+            "Dubai": 7,
+            "Singapore": 1,
+            "New York": 10,
+            "Hong Kong": 9
+        },
+        "reserved_inventory_per_location": {
+            "London": 4,
+            "Frankfurt": 3,
+            "Dubai": 1,
+            "Singapore": 1,
+            "New York": 3,
+            "Hong Kong": 5
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-25"
+            },
+            "Frankfurt": {
+                "quantity": 4,
+                "arrival_date": "2025-07-27"
+            },
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-17"
+            },
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-19"
+            },
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-30"
+            },
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-20"
+            }
+        }
+    },
+    {
+        "part_number": "PART-56724-52",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 10,
+            "Dubai": 7,
+            "Singapore": 8,
+            "New York": 6,
+            "Hong Kong": 4
+        },
+        "reserved_inventory_per_location": {
+            "London": 6,
+            "Frankfurt": 10,
+            "Dubai": 0,
+            "Singapore": 6,
+            "New York": 0,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-30"
+            },
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-29"
+            },
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 5,
+                "arrival_date": "2025-07-23"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-84018-76",
+        "stock_levels_per_location": {
+            "London": 3,
+            "Frankfurt": 8,
+            "Dubai": 5,
+            "Singapore": 10,
+            "New York": 2,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 7,
+            "Dubai": 0,
+            "Singapore": 3,
+            "New York": 1,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-15"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-79864-34",
+        "stock_levels_per_location": {
+            "London": 3,
+            "Frankfurt": 9,
+            "Dubai": 4,
+            "Singapore": 6,
+            "New York": 1,
+            "Hong Kong": 0
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 4,
+            "Dubai": 3,
+            "Singapore": 2,
+            "New York": 1,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-27"
+            },
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 4,
+                "arrival_date": "2025-07-29"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-54368-53",
+        "stock_levels_per_location": {
+            "London": 6,
+            "Frankfurt": 1,
+            "Dubai": 3,
+            "Singapore": 6,
+            "New York": 5,
+            "Hong Kong": 5
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 1,
+            "Dubai": 1,
+            "Singapore": 3,
+            "New York": 4,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 2,
+                "arrival_date": "2025-07-19"
+            },
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-19"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 5,
+                "arrival_date": "2025-07-24"
+            }
+        }
+    },
+    {
+        "part_number": "PART-30324-59",
+        "stock_levels_per_location": {
+            "London": 10,
+            "Frankfurt": 8,
+            "Dubai": 1,
+            "Singapore": 4,
+            "New York": 6,
+            "Hong Kong": 8
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 3,
+            "Dubai": 1,
+            "Singapore": 3,
+            "New York": 2,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 3,
+                "arrival_date": "2025-07-23"
+            },
+            "Frankfurt": {
+                "quantity": 5,
+                "arrival_date": "2025-07-19"
+            },
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-18"
+            },
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 5,
+                "arrival_date": "2025-07-18"
+            }
+        }
+    },
+    {
+        "part_number": "PART-71989-29",
+        "stock_levels_per_location": {
+            "London": 10,
+            "Frankfurt": 0,
+            "Dubai": 6,
+            "Singapore": 2,
+            "New York": 10,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 0,
+            "Dubai": 2,
+            "Singapore": 2,
+            "New York": 1,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 4,
+                "arrival_date": "2025-07-22"
+            },
+            "Dubai": {
+                "quantity": 3,
+                "arrival_date": "2025-07-24"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-22"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-72381-52",
+        "stock_levels_per_location": {
+            "London": 10,
+            "Frankfurt": 8,
+            "Dubai": 1,
+            "Singapore": 8,
+            "New York": 9,
+            "Hong Kong": 0
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 2,
+            "Dubai": 0,
+            "Singapore": 7,
+            "New York": 3,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-20"
+            },
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 3,
+                "arrival_date": "2025-07-15"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-16"
+            }
+        }
+    },
+    {
+        "part_number": "PART-42280-49",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 5,
+            "Dubai": 0,
+            "Singapore": 0,
+            "New York": 6,
+            "Hong Kong": 4
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 2,
+            "Dubai": 0,
+            "Singapore": 0,
+            "New York": 2,
+            "Hong Kong": 4
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-29"
+            },
+            "Frankfurt": {
+                "quantity": 5,
+                "arrival_date": "2025-07-20"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-20"
+            },
+            "Hong Kong": {
+                "quantity": 1,
+                "arrival_date": "2025-07-17"
+            }
+        }
+    },
+    {
+        "part_number": "PART-45483-72",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 3,
+            "Dubai": 4,
+            "Singapore": 2,
+            "New York": 3,
+            "Hong Kong": 8
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 0,
+            "Dubai": 0,
+            "Singapore": 2,
+            "New York": 1,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 4,
+                "arrival_date": "2025-07-19"
+            },
+            "Frankfurt": {
+                "quantity": 4,
+                "arrival_date": "2025-07-28"
+            },
+            "Dubai": {
+                "quantity": 1,
+                "arrival_date": "2025-07-27"
+            },
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-30"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 1,
+                "arrival_date": "2025-07-17"
+            }
+        }
+    },
+    {
+        "part_number": "PART-86674-59",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 7,
+            "Dubai": 3,
+            "Singapore": 6,
+            "New York": 4,
+            "Hong Kong": 3
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 4,
+            "Dubai": 1,
+            "Singapore": 3,
+            "New York": 1,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-26"
+            },
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-16"
+            },
+            "Dubai": {
+                "quantity": 3,
+                "arrival_date": "2025-07-22"
+            },
+            "Singapore": {
+                "quantity": 3,
+                "arrival_date": "2025-07-20"
+            },
+            "New York": {
+                "quantity": 1,
+                "arrival_date": "2025-07-23"
+            },
+            "Hong Kong": {
+                "quantity": 4,
+                "arrival_date": "2025-07-16"
+            }
+        }
+    },
+    {
+        "part_number": "PART-80537-11",
+        "stock_levels_per_location": {
+            "London": 10,
+            "Frankfurt": 3,
+            "Dubai": 1,
+            "Singapore": 9,
+            "New York": 10,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 10,
+            "Frankfurt": 1,
+            "Dubai": 1,
+            "Singapore": 0,
+            "New York": 3,
+            "Hong Kong": 4
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 4,
+                "arrival_date": "2025-07-28"
+            },
+            "Frankfurt": {
+                "quantity": 5,
+                "arrival_date": "2025-07-28"
+            },
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-17"
+            },
+            "Singapore": {
+                "quantity": 5,
+                "arrival_date": "2025-07-18"
+            },
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-16"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-35731-51",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 6,
+            "Dubai": 2,
+            "Singapore": 8,
+            "New York": 1,
+            "Hong Kong": 10
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 3,
+            "Dubai": 2,
+            "Singapore": 3,
+            "New York": 0,
+            "Hong Kong": 10
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-20"
+            },
+            "Frankfurt": {
+                "quantity": 2,
+                "arrival_date": "2025-07-19"
+            },
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-22"
+            },
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-19"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 4,
+                "arrival_date": "2025-07-28"
+            }
+        }
+    },
+    {
+        "part_number": "PART-19280-17",
+        "stock_levels_per_location": {
+            "London": 6,
+            "Frankfurt": 5,
+            "Dubai": 1,
+            "Singapore": 6,
+            "New York": 6,
+            "Hong Kong": 5
+        },
+        "reserved_inventory_per_location": {
+            "London": 6,
+            "Frankfurt": 5,
+            "Dubai": 0,
+            "Singapore": 3,
+            "New York": 2,
+            "Hong Kong": 3
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 5,
+                "arrival_date": "2025-07-19"
+            },
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-25"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-17"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-91764-41",
+        "stock_levels_per_location": {
+            "London": 9,
+            "Frankfurt": 9,
+            "Dubai": 1,
+            "Singapore": 7,
+            "New York": 5,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 5,
+            "Frankfurt": 3,
+            "Dubai": 1,
+            "Singapore": 3,
+            "New York": 1,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 1,
+                "arrival_date": "2025-07-29"
+            },
+            "Frankfurt": {
+                "quantity": 3,
+                "arrival_date": "2025-07-15"
+            },
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-21"
+            },
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-30"
+            }
+        }
+    },
+    {
+        "part_number": "PART-89871-46",
+        "stock_levels_per_location": {
+            "London": 2,
+            "Frankfurt": 1,
+            "Dubai": 7,
+            "Singapore": 8,
+            "New York": 3,
+            "Hong Kong": 0
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 1,
+            "Dubai": 5,
+            "Singapore": 6,
+            "New York": 0,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-16"
+            },
+            "Frankfurt": {
+                "quantity": 4,
+                "arrival_date": "2025-07-20"
+            },
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-17"
+            },
+            "Singapore": {
+                "quantity": 4,
+                "arrival_date": "2025-07-17"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-17154-94",
+        "stock_levels_per_location": {
+            "London": 3,
+            "Frankfurt": 1,
+            "Dubai": 8,
+            "Singapore": 6,
+            "New York": 7,
+            "Hong Kong": 8
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 1,
+            "Dubai": 5,
+            "Singapore": 6,
+            "New York": 4,
+            "Hong Kong": 7
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 4,
+                "arrival_date": "2025-07-19"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 3,
+                "arrival_date": "2025-07-16"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-25"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-90150-51",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 4,
+            "Dubai": 8,
+            "Singapore": 0,
+            "New York": 0,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 2,
+            "Dubai": 6,
+            "Singapore": 0,
+            "New York": 0,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 4,
+                "arrival_date": "2025-07-22"
+            },
+            "Frankfurt": {
+                "quantity": 5,
+                "arrival_date": "2025-07-17"
+            },
+            "Dubai": {
+                "quantity": 2,
+                "arrival_date": "2025-07-26"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-17"
+            },
+            "Hong Kong": {
+                "quantity": 5,
+                "arrival_date": "2025-07-17"
+            }
+        }
+    },
+    {
+        "part_number": "PART-99773-40",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 7,
+            "Dubai": 10,
+            "Singapore": 10,
+            "New York": 8,
+            "Hong Kong": 0
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 7,
+            "Dubai": 8,
+            "Singapore": 5,
+            "New York": 0,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 4,
+                "arrival_date": "2025-07-18"
+            },
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-15"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-35659-53",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 2,
+            "Dubai": 0,
+            "Singapore": 2,
+            "New York": 4,
+            "Hong Kong": 0
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 0,
+            "Dubai": 0,
+            "Singapore": 0,
+            "New York": 0,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-30"
+            },
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": {
+                "quantity": 3,
+                "arrival_date": "2025-07-20"
+            },
+            "Hong Kong": {
+                "quantity": 4,
+                "arrival_date": "2025-07-17"
+            }
+        }
+    },
+    {
+        "part_number": "PART-90080-70",
+        "stock_levels_per_location": {
+            "London": 9,
+            "Frankfurt": 4,
+            "Dubai": 4,
+            "Singapore": 2,
+            "New York": 8,
+            "Hong Kong": 9
+        },
+        "reserved_inventory_per_location": {
+            "London": 7,
+            "Frankfurt": 3,
+            "Dubai": 4,
+            "Singapore": 2,
+            "New York": 6,
+            "Hong Kong": 9
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-21"
+            },
+            "Frankfurt": {
+                "quantity": 3,
+                "arrival_date": "2025-07-30"
+            },
+            "Dubai": {
+                "quantity": 2,
+                "arrival_date": "2025-07-15"
+            },
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-88577-98",
+        "stock_levels_per_location": {
+            "London": 5,
+            "Frankfurt": 9,
+            "Dubai": 2,
+            "Singapore": 10,
+            "New York": 9,
+            "Hong Kong": 8
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 6,
+            "Dubai": 1,
+            "Singapore": 3,
+            "New York": 8,
+            "Hong Kong": 8
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-78357-75",
+        "stock_levels_per_location": {
+            "London": 3,
+            "Frankfurt": 3,
+            "Dubai": 9,
+            "Singapore": 0,
+            "New York": 3,
+            "Hong Kong": 10
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 0,
+            "Dubai": 9,
+            "Singapore": 0,
+            "New York": 0,
+            "Hong Kong": 7
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 4,
+                "arrival_date": "2025-07-20"
+            },
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-16"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-24"
+            }
+        }
+    },
+    {
+        "part_number": "PART-52741-58",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 9,
+            "Dubai": 5,
+            "Singapore": 10,
+            "New York": 1,
+            "Hong Kong": 8
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 2,
+            "Dubai": 4,
+            "Singapore": 3,
+            "New York": 0,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-17"
+            },
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-23"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-30"
+            }
+        }
+    },
+    {
+        "part_number": "PART-45355-75",
+        "stock_levels_per_location": {
+            "London": 6,
+            "Frankfurt": 6,
+            "Dubai": 8,
+            "Singapore": 9,
+            "New York": 8,
+            "Hong Kong": 3
+        },
+        "reserved_inventory_per_location": {
+            "London": 4,
+            "Frankfurt": 6,
+            "Dubai": 5,
+            "Singapore": 8,
+            "New York": 5,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 1,
+                "arrival_date": "2025-07-19"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-23"
+            },
+            "Singapore": {
+                "quantity": 3,
+                "arrival_date": "2025-07-28"
+            },
+            "New York": {
+                "quantity": 3,
+                "arrival_date": "2025-07-18"
+            },
+            "Hong Kong": {
+                "quantity": 1,
+                "arrival_date": "2025-07-30"
+            }
+        }
+    },
+    {
+        "part_number": "PART-43067-98",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 5,
+            "Dubai": 3,
+            "Singapore": 8,
+            "New York": 1,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 6,
+            "Frankfurt": 2,
+            "Dubai": 3,
+            "Singapore": 8,
+            "New York": 0,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 3,
+                "arrival_date": "2025-07-16"
+            },
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 5,
+                "arrival_date": "2025-07-21"
+            },
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-16"
+            },
+            "Hong Kong": {
+                "quantity": 2,
+                "arrival_date": "2025-07-28"
+            }
+        }
+    },
+    {
+        "part_number": "PART-84941-71",
+        "stock_levels_per_location": {
+            "London": 9,
+            "Frankfurt": 3,
+            "Dubai": 1,
+            "Singapore": 4,
+            "New York": 4,
+            "Hong Kong": 9
+        },
+        "reserved_inventory_per_location": {
+            "London": 8,
+            "Frankfurt": 2,
+            "Dubai": 1,
+            "Singapore": 2,
+            "New York": 1,
+            "Hong Kong": 5
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-20"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-41786-99",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 6,
+            "Dubai": 6,
+            "Singapore": 5,
+            "New York": 2,
+            "Hong Kong": 9
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 4,
+            "Dubai": 4,
+            "Singapore": 5,
+            "New York": 1,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-28"
+            },
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-22"
+            },
+            "Singapore": {
+                "quantity": 5,
+                "arrival_date": "2025-07-18"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-57207-36",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 8,
+            "Dubai": 9,
+            "Singapore": 3,
+            "New York": 8,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 7,
+            "Dubai": 3,
+            "Singapore": 2,
+            "New York": 6,
+            "Hong Kong": 3
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-29"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-29"
+            },
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-22"
+            },
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-22"
+            },
+            "Hong Kong": {
+                "quantity": 1,
+                "arrival_date": "2025-07-30"
+            }
+        }
+    },
+    {
+        "part_number": "PART-96945-72",
+        "stock_levels_per_location": {
+            "London": 2,
+            "Frankfurt": 10,
+            "Dubai": 9,
+            "Singapore": 1,
+            "New York": 3,
+            "Hong Kong": 3
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 3,
+            "Dubai": 0,
+            "Singapore": 1,
+            "New York": 2,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 1,
+                "arrival_date": "2025-07-20"
+            },
+            "Frankfurt": {
+                "quantity": 3,
+                "arrival_date": "2025-07-17"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-49893-82",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 10,
+            "Dubai": 1,
+            "Singapore": 10,
+            "New York": 10,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 4,
+            "Dubai": 0,
+            "Singapore": 1,
+            "New York": 5,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 3,
+                "arrival_date": "2025-07-22"
+            },
+            "Frankfurt": {
+                "quantity": 3,
+                "arrival_date": "2025-07-21"
+            },
+            "Dubai": {
+                "quantity": 1,
+                "arrival_date": "2025-07-26"
+            },
+            "Singapore": {
+                "quantity": 3,
+                "arrival_date": "2025-07-26"
+            },
+            "New York": {
+                "quantity": 1,
+                "arrival_date": "2025-07-23"
+            },
+            "Hong Kong": {
+                "quantity": 4,
+                "arrival_date": "2025-07-18"
+            }
+        }
+    },
+    {
+        "part_number": "PART-27814-29",
+        "stock_levels_per_location": {
+            "London": 3,
+            "Frankfurt": 4,
+            "Dubai": 6,
+            "Singapore": 5,
+            "New York": 2,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 1,
+            "Dubai": 5,
+            "Singapore": 5,
+            "New York": 0,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-25"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-30"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-18"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-51755-13",
+        "stock_levels_per_location": {
+            "London": 9,
+            "Frankfurt": 1,
+            "Dubai": 5,
+            "Singapore": 0,
+            "New York": 7,
+            "Hong Kong": 3
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 0,
+            "Dubai": 2,
+            "Singapore": 0,
+            "New York": 6,
+            "Hong Kong": 3
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-23"
+            },
+            "Frankfurt": {
+                "quantity": 4,
+                "arrival_date": "2025-07-30"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 1,
+                "arrival_date": "2025-07-23"
+            }
+        }
+    },
+    {
+        "part_number": "PART-74127-24",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 2,
+            "Dubai": 6,
+            "Singapore": 5,
+            "New York": 8,
+            "Hong Kong": 7
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 0,
+            "Dubai": 4,
+            "Singapore": 3,
+            "New York": 3,
+            "Hong Kong": 3
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 4,
+                "arrival_date": "2025-07-16"
+            },
+            "Frankfurt": {
+                "quantity": 4,
+                "arrival_date": "2025-07-20"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": {
+                "quantity": 4,
+                "arrival_date": "2025-07-24"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-19540-12",
+        "stock_levels_per_location": {
+            "London": 3,
+            "Frankfurt": 10,
+            "Dubai": 2,
+            "Singapore": 2,
+            "New York": 1,
+            "Hong Kong": 0
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 4,
+            "Dubai": 2,
+            "Singapore": 1,
+            "New York": 1,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-16"
+            },
+            "Dubai": {
+                "quantity": 1,
+                "arrival_date": "2025-07-24"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-22"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-81072-62",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 10,
+            "Dubai": 9,
+            "Singapore": 3,
+            "New York": 8,
+            "Hong Kong": 10
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 7,
+            "Dubai": 9,
+            "Singapore": 1,
+            "New York": 3,
+            "Hong Kong": 9
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 1,
+                "arrival_date": "2025-07-15"
+            },
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-16"
+            },
+            "New York": {
+                "quantity": 4,
+                "arrival_date": "2025-07-27"
+            },
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-17"
+            }
+        }
+    },
+    {
+        "part_number": "PART-16535-18",
+        "stock_levels_per_location": {
+            "London": 10,
+            "Frankfurt": 2,
+            "Dubai": 6,
+            "Singapore": 7,
+            "New York": 4,
+            "Hong Kong": 5
+        },
+        "reserved_inventory_per_location": {
+            "London": 4,
+            "Frankfurt": 2,
+            "Dubai": 6,
+            "Singapore": 5,
+            "New York": 1,
+            "Hong Kong": 3
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-23"
+            },
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": {
+                "quantity": 1,
+                "arrival_date": "2025-07-25"
+            },
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-26"
+            }
+        }
+    },
+    {
+        "part_number": "PART-67883-67",
+        "stock_levels_per_location": {
+            "London": 2,
+            "Frankfurt": 2,
+            "Dubai": 4,
+            "Singapore": 8,
+            "New York": 4,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 2,
+            "Dubai": 0,
+            "Singapore": 1,
+            "New York": 2,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-22"
+            },
+            "Dubai": {
+                "quantity": 1,
+                "arrival_date": "2025-07-17"
+            },
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-17"
+            }
+        }
+    },
+    {
+        "part_number": "PART-81491-63",
+        "stock_levels_per_location": {
+            "London": 2,
+            "Frankfurt": 6,
+            "Dubai": 9,
+            "Singapore": 10,
+            "New York": 3,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 3,
+            "Dubai": 8,
+            "Singapore": 7,
+            "New York": 1,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 5,
+                "arrival_date": "2025-07-16"
+            },
+            "Dubai": {
+                "quantity": 3,
+                "arrival_date": "2025-07-18"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 3,
+                "arrival_date": "2025-07-22"
+            },
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-29"
+            }
+        }
+    },
+    {
+        "part_number": "PART-78957-78",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 1,
+            "Dubai": 1,
+            "Singapore": 7,
+            "New York": 3,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 0,
+            "Dubai": 1,
+            "Singapore": 3,
+            "New York": 0,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 5,
+                "arrival_date": "2025-07-26"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-23"
+            },
+            "Hong Kong": {
+                "quantity": 2,
+                "arrival_date": "2025-07-24"
+            }
+        }
+    },
+    {
+        "part_number": "PART-41713-51",
+        "stock_levels_per_location": {
+            "London": 6,
+            "Frankfurt": 7,
+            "Dubai": 7,
+            "Singapore": 8,
+            "New York": 4,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 6,
+            "Dubai": 1,
+            "Singapore": 0,
+            "New York": 0,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-25"
+            },
+            "Frankfurt": {
+                "quantity": 3,
+                "arrival_date": "2025-07-23"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": {
+                "quantity": 4,
+                "arrival_date": "2025-07-16"
+            },
+            "Hong Kong": {
+                "quantity": 2,
+                "arrival_date": "2025-07-25"
+            }
+        }
+    },
+    {
+        "part_number": "PART-10150-16",
+        "stock_levels_per_location": {
+            "London": 0,
+            "Frankfurt": 5,
+            "Dubai": 6,
+            "Singapore": 10,
+            "New York": 1,
+            "Hong Kong": 9
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 2,
+            "Dubai": 1,
+            "Singapore": 4,
+            "New York": 0,
+            "Hong Kong": 4
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 4,
+                "arrival_date": "2025-07-15"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 5,
+                "arrival_date": "2025-07-22"
+            }
+        }
+    },
+    {
+        "part_number": "PART-75165-36",
+        "stock_levels_per_location": {
+            "London": 0,
+            "Frankfurt": 3,
+            "Dubai": 10,
+            "Singapore": 3,
+            "New York": 2,
+            "Hong Kong": 3
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 2,
+            "Dubai": 0,
+            "Singapore": 3,
+            "New York": 0,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-23"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 2,
+                "arrival_date": "2025-07-17"
+            },
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-16"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-10408-19",
+        "stock_levels_per_location": {
+            "London": 8,
+            "Frankfurt": 5,
+            "Dubai": 9,
+            "Singapore": 0,
+            "New York": 9,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 0,
+            "Dubai": 1,
+            "Singapore": 0,
+            "New York": 2,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-18"
+            },
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-19"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-88671-53",
+        "stock_levels_per_location": {
+            "London": 0,
+            "Frankfurt": 10,
+            "Dubai": 1,
+            "Singapore": 5,
+            "New York": 0,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 6,
+            "Dubai": 1,
+            "Singapore": 1,
+            "New York": 0,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 4,
+                "arrival_date": "2025-07-19"
+            },
+            "Frankfurt": {
+                "quantity": 2,
+                "arrival_date": "2025-07-29"
+            },
+            "Dubai": {
+                "quantity": 1,
+                "arrival_date": "2025-07-28"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-24"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-25528-14",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 9,
+            "Dubai": 1,
+            "Singapore": 1,
+            "New York": 3,
+            "Hong Kong": 8
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 2,
+            "Dubai": 0,
+            "Singapore": 1,
+            "New York": 0,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 4,
+                "arrival_date": "2025-07-15"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-16"
+            },
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-29"
+            },
+            "New York": {
+                "quantity": 4,
+                "arrival_date": "2025-07-23"
+            },
+            "Hong Kong": {
+                "quantity": 1,
+                "arrival_date": "2025-07-23"
+            }
+        }
+    },
+    {
+        "part_number": "PART-19750-22",
+        "stock_levels_per_location": {
+            "London": 5,
+            "Frankfurt": 1,
+            "Dubai": 9,
+            "Singapore": 4,
+            "New York": 4,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 0,
+            "Dubai": 0,
+            "Singapore": 3,
+            "New York": 2,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 3,
+                "arrival_date": "2025-07-22"
+            },
+            "Singapore": {
+                "quantity": 5,
+                "arrival_date": "2025-07-22"
+            },
+            "New York": {
+                "quantity": 1,
+                "arrival_date": "2025-07-20"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-59151-85",
+        "stock_levels_per_location": {
+            "London": 2,
+            "Frankfurt": 0,
+            "Dubai": 1,
+            "Singapore": 1,
+            "New York": 0,
+            "Hong Kong": 8
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 0,
+            "Dubai": 1,
+            "Singapore": 1,
+            "New York": 0,
+            "Hong Kong": 3
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-16"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 3,
+                "arrival_date": "2025-07-27"
+            },
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-24"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 2,
+                "arrival_date": "2025-07-26"
+            }
+        }
+    },
+    {
+        "part_number": "PART-13931-52",
+        "stock_levels_per_location": {
+            "London": 10,
+            "Frankfurt": 10,
+            "Dubai": 8,
+            "Singapore": 1,
+            "New York": 7,
+            "Hong Kong": 9
+        },
+        "reserved_inventory_per_location": {
+            "London": 8,
+            "Frankfurt": 8,
+            "Dubai": 2,
+            "Singapore": 1,
+            "New York": 7,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 1,
+                "arrival_date": "2025-07-15"
+            },
+            "Frankfurt": {
+                "quantity": 2,
+                "arrival_date": "2025-07-21"
+            },
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-23"
+            },
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 2,
+                "arrival_date": "2025-07-27"
+            }
+        }
+    },
+    {
+        "part_number": "PART-24644-71",
+        "stock_levels_per_location": {
+            "London": 3,
+            "Frankfurt": 2,
+            "Dubai": 2,
+            "Singapore": 9,
+            "New York": 5,
+            "Hong Kong": 4
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 2,
+            "Dubai": 0,
+            "Singapore": 7,
+            "New York": 1,
+            "Hong Kong": 4
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-18"
+            },
+            "Frankfurt": {
+                "quantity": 3,
+                "arrival_date": "2025-07-22"
+            },
+            "Dubai": {
+                "quantity": 2,
+                "arrival_date": "2025-07-21"
+            },
+            "Singapore": {
+                "quantity": 3,
+                "arrival_date": "2025-07-18"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-79261-30",
+        "stock_levels_per_location": {
+            "London": 8,
+            "Frankfurt": 1,
+            "Dubai": 0,
+            "Singapore": 0,
+            "New York": 5,
+            "Hong Kong": 8
+        },
+        "reserved_inventory_per_location": {
+            "London": 6,
+            "Frankfurt": 1,
+            "Dubai": 0,
+            "Singapore": 0,
+            "New York": 3,
+            "Hong Kong": 4
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 4,
+                "arrival_date": "2025-07-15"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-22664-34",
+        "stock_levels_per_location": {
+            "London": 10,
+            "Frankfurt": 4,
+            "Dubai": 7,
+            "Singapore": 8,
+            "New York": 10,
+            "Hong Kong": 4
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 1,
+            "Dubai": 7,
+            "Singapore": 8,
+            "New York": 4,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 3,
+                "arrival_date": "2025-07-25"
+            },
+            "Frankfurt": {
+                "quantity": 2,
+                "arrival_date": "2025-07-23"
+            },
+            "Dubai": {
+                "quantity": 3,
+                "arrival_date": "2025-07-22"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 1,
+                "arrival_date": "2025-07-26"
+            },
+            "Hong Kong": {
+                "quantity": 1,
+                "arrival_date": "2025-07-17"
+            }
+        }
+    },
+    {
+        "part_number": "PART-92289-49",
+        "stock_levels_per_location": {
+            "London": 5,
+            "Frankfurt": 3,
+            "Dubai": 9,
+            "Singapore": 3,
+            "New York": 6,
+            "Hong Kong": 0
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 3,
+            "Dubai": 0,
+            "Singapore": 1,
+            "New York": 3,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 1,
+                "arrival_date": "2025-07-19"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-18"
+            },
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-15"
+            },
+            "New York": {
+                "quantity": 1,
+                "arrival_date": "2025-07-23"
+            },
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-28"
+            }
+        }
+    },
+    {
+        "part_number": "PART-36584-63",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 0,
+            "Dubai": 6,
+            "Singapore": 5,
+            "New York": 10,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 0,
+            "Dubai": 3,
+            "Singapore": 5,
+            "New York": 3,
+            "Hong Kong": 4
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-18"
+            },
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-53179-19",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 10,
+            "Dubai": 6,
+            "Singapore": 9,
+            "New York": 4,
+            "Hong Kong": 8
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 2,
+            "Dubai": 4,
+            "Singapore": 3,
+            "New York": 1,
+            "Hong Kong": 7
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 3,
+                "arrival_date": "2025-07-24"
+            },
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-28"
+            },
+            "New York": {
+                "quantity": 1,
+                "arrival_date": "2025-07-15"
+            },
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-21"
+            }
+        }
+    },
+    {
+        "part_number": "PART-33925-21",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 1,
+            "Dubai": 7,
+            "Singapore": 4,
+            "New York": 2,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 1,
+            "Dubai": 0,
+            "Singapore": 2,
+            "New York": 1,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-15"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-84170-59",
+        "stock_levels_per_location": {
+            "London": 10,
+            "Frankfurt": 7,
+            "Dubai": 6,
+            "Singapore": 4,
+            "New York": 10,
+            "Hong Kong": 9
+        },
+        "reserved_inventory_per_location": {
+            "London": 4,
+            "Frankfurt": 7,
+            "Dubai": 6,
+            "Singapore": 1,
+            "New York": 7,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-19"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-23"
+            },
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-28"
+            },
+            "New York": {
+                "quantity": 1,
+                "arrival_date": "2025-07-18"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-67419-22",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 7,
+            "Dubai": 10,
+            "Singapore": 8,
+            "New York": 4,
+            "Hong Kong": 7
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 6,
+            "Dubai": 0,
+            "Singapore": 1,
+            "New York": 4,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-26"
+            },
+            "Dubai": {
+                "quantity": 1,
+                "arrival_date": "2025-07-21"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-20"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-12162-73",
+        "stock_levels_per_location": {
+            "London": 6,
+            "Frankfurt": 0,
+            "Dubai": 0,
+            "Singapore": 7,
+            "New York": 8,
+            "Hong Kong": 10
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 0,
+            "Dubai": 0,
+            "Singapore": 5,
+            "New York": 5,
+            "Hong Kong": 5
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 1,
+                "arrival_date": "2025-07-24"
+            },
+            "Singapore": {
+                "quantity": 5,
+                "arrival_date": "2025-07-23"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 1,
+                "arrival_date": "2025-07-19"
+            }
+        }
+    },
+    {
+        "part_number": "PART-47741-44",
+        "stock_levels_per_location": {
+            "London": 2,
+            "Frankfurt": 8,
+            "Dubai": 5,
+            "Singapore": 5,
+            "New York": 3,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 0,
+            "Dubai": 5,
+            "Singapore": 3,
+            "New York": 0,
+            "Hong Kong": 3
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": {
+                "quantity": 3,
+                "arrival_date": "2025-07-23"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-51788-17",
+        "stock_levels_per_location": {
+            "London": 2,
+            "Frankfurt": 8,
+            "Dubai": 10,
+            "Singapore": 6,
+            "New York": 7,
+            "Hong Kong": 8
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 8,
+            "Dubai": 3,
+            "Singapore": 2,
+            "New York": 5,
+            "Hong Kong": 7
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-25"
+            },
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 5,
+                "arrival_date": "2025-07-18"
+            }
+        }
+    },
+    {
+        "part_number": "PART-33264-40",
+        "stock_levels_per_location": {
+            "London": 6,
+            "Frankfurt": 0,
+            "Dubai": 6,
+            "Singapore": 8,
+            "New York": 4,
+            "Hong Kong": 7
+        },
+        "reserved_inventory_per_location": {
+            "London": 5,
+            "Frankfurt": 0,
+            "Dubai": 3,
+            "Singapore": 1,
+            "New York": 4,
+            "Hong Kong": 3
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-30"
+            },
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-28"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-93632-68",
+        "stock_levels_per_location": {
+            "London": 3,
+            "Frankfurt": 2,
+            "Dubai": 5,
+            "Singapore": 4,
+            "New York": 2,
+            "Hong Kong": 5
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 2,
+            "Dubai": 0,
+            "Singapore": 3,
+            "New York": 0,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-19"
+            },
+            "Frankfurt": {
+                "quantity": 4,
+                "arrival_date": "2025-07-17"
+            },
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-16"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 2,
+                "arrival_date": "2025-07-15"
+            }
+        }
+    },
+    {
+        "part_number": "PART-22216-67",
+        "stock_levels_per_location": {
+            "London": 3,
+            "Frankfurt": 2,
+            "Dubai": 10,
+            "Singapore": 0,
+            "New York": 4,
+            "Hong Kong": 5
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 0,
+            "Dubai": 4,
+            "Singapore": 0,
+            "New York": 3,
+            "Hong Kong": 3
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 3,
+                "arrival_date": "2025-07-25"
+            },
+            "Frankfurt": {
+                "quantity": 2,
+                "arrival_date": "2025-07-20"
+            },
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 4,
+                "arrival_date": "2025-07-18"
+            },
+            "New York": {
+                "quantity": 3,
+                "arrival_date": "2025-07-25"
+            },
+            "Hong Kong": {
+                "quantity": 4,
+                "arrival_date": "2025-07-22"
+            }
+        }
+    },
+    {
+        "part_number": "PART-55843-76",
+        "stock_levels_per_location": {
+            "London": 9,
+            "Frankfurt": 2,
+            "Dubai": 10,
+            "Singapore": 9,
+            "New York": 2,
+            "Hong Kong": 9
+        },
+        "reserved_inventory_per_location": {
+            "London": 6,
+            "Frankfurt": 0,
+            "Dubai": 1,
+            "Singapore": 3,
+            "New York": 2,
+            "Hong Kong": 6
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-27"
+            },
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-66578-89",
+        "stock_levels_per_location": {
+            "London": 5,
+            "Frankfurt": 7,
+            "Dubai": 6,
+            "Singapore": 5,
+            "New York": 2,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 4,
+            "Frankfurt": 5,
+            "Dubai": 2,
+            "Singapore": 0,
+            "New York": 0,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 2,
+                "arrival_date": "2025-07-15"
+            },
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-18"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-28"
+            },
+            "Hong Kong": {
+                "quantity": 4,
+                "arrival_date": "2025-07-25"
+            }
+        }
+    },
+    {
+        "part_number": "PART-51861-95",
+        "stock_levels_per_location": {
+            "London": 3,
+            "Frankfurt": 8,
+            "Dubai": 5,
+            "Singapore": 3,
+            "New York": 8,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 8,
+            "Dubai": 5,
+            "Singapore": 0,
+            "New York": 3,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 2,
+                "arrival_date": "2025-07-18"
+            },
+            "Dubai": {
+                "quantity": 4,
+                "arrival_date": "2025-07-29"
+            },
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-42717-19",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 8,
+            "Dubai": 6,
+            "Singapore": 6,
+            "New York": 4,
+            "Hong Kong": 9
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 0,
+            "Dubai": 5,
+            "Singapore": 4,
+            "New York": 2,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 5,
+                "arrival_date": "2025-07-22"
+            },
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-24"
+            },
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-24"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-77909-54",
+        "stock_levels_per_location": {
+            "London": 9,
+            "Frankfurt": 6,
+            "Dubai": 7,
+            "Singapore": 8,
+            "New York": 8,
+            "Hong Kong": 2
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 3,
+            "Dubai": 1,
+            "Singapore": 8,
+            "New York": 3,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-23"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-17"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-41012-44",
+        "stock_levels_per_location": {
+            "London": 2,
+            "Frankfurt": 2,
+            "Dubai": 7,
+            "Singapore": 1,
+            "New York": 1,
+            "Hong Kong": 7
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 0,
+            "Dubai": 2,
+            "Singapore": 0,
+            "New York": 0,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-82099-68",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 6,
+            "Dubai": 9,
+            "Singapore": 4,
+            "New York": 6,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 0,
+            "Dubai": 9,
+            "Singapore": 3,
+            "New York": 3,
+            "Hong Kong": 3
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 1,
+                "arrival_date": "2025-07-29"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 1,
+                "arrival_date": "2025-07-25"
+            },
+            "Singapore": null,
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-22"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-61776-90",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 7,
+            "Dubai": 1,
+            "Singapore": 3,
+            "New York": 7,
+            "Hong Kong": 7
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 3,
+            "Dubai": 0,
+            "Singapore": 1,
+            "New York": 6,
+            "Hong Kong": 5
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-23"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 1,
+                "arrival_date": "2025-07-30"
+            },
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-19"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-24038-35",
+        "stock_levels_per_location": {
+            "London": 8,
+            "Frankfurt": 4,
+            "Dubai": 5,
+            "Singapore": 4,
+            "New York": 9,
+            "Hong Kong": 8
+        },
+        "reserved_inventory_per_location": {
+            "London": 4,
+            "Frankfurt": 4,
+            "Dubai": 3,
+            "Singapore": 0,
+            "New York": 7,
+            "Hong Kong": 4
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 1,
+                "arrival_date": "2025-07-21"
+            },
+            "Frankfurt": {
+                "quantity": 3,
+                "arrival_date": "2025-07-16"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-19"
+            }
+        }
+    },
+    {
+        "part_number": "PART-46022-62",
+        "stock_levels_per_location": {
+            "London": 2,
+            "Frankfurt": 10,
+            "Dubai": 3,
+            "Singapore": 0,
+            "New York": 10,
+            "Hong Kong": 3
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 2,
+            "Dubai": 1,
+            "Singapore": 0,
+            "New York": 9,
+            "Hong Kong": 2
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 1,
+                "arrival_date": "2025-07-22"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-15"
+            },
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 1,
+                "arrival_date": "2025-07-23"
+            }
+        }
+    },
+    {
+        "part_number": "PART-43158-65",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 5,
+            "Dubai": 4,
+            "Singapore": 8,
+            "New York": 5,
+            "Hong Kong": 3
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 1,
+            "Dubai": 4,
+            "Singapore": 4,
+            "New York": 5,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 4,
+                "arrival_date": "2025-07-29"
+            },
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-23"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 5,
+                "arrival_date": "2025-07-22"
+            }
+        }
+    },
+    {
+        "part_number": "PART-88097-97",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 9,
+            "Dubai": 4,
+            "Singapore": 5,
+            "New York": 1,
+            "Hong Kong": 0
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 3,
+            "Dubai": 0,
+            "Singapore": 2,
+            "New York": 0,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-20"
+            },
+            "Frankfurt": {
+                "quantity": 2,
+                "arrival_date": "2025-07-24"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": {
+                "quantity": 1,
+                "arrival_date": "2025-07-25"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-51630-78",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 5,
+            "Dubai": 6,
+            "Singapore": 1,
+            "New York": 9,
+            "Hong Kong": 0
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 5,
+            "Dubai": 3,
+            "Singapore": 0,
+            "New York": 6,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 4,
+                "arrival_date": "2025-07-22"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 4,
+                "arrival_date": "2025-07-16"
+            }
+        }
+    },
+    {
+        "part_number": "PART-12221-60",
+        "stock_levels_per_location": {
+            "London": 4,
+            "Frankfurt": 4,
+            "Dubai": 5,
+            "Singapore": 2,
+            "New York": 1,
+            "Hong Kong": 10
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 4,
+            "Dubai": 0,
+            "Singapore": 2,
+            "New York": 0,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 4,
+                "arrival_date": "2025-07-16"
+            },
+            "Dubai": {
+                "quantity": 3,
+                "arrival_date": "2025-07-25"
+            },
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-16"
+            },
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-22"
+            },
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-27"
+            }
+        }
+    },
+    {
+        "part_number": "PART-59756-26",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 6,
+            "Dubai": 8,
+            "Singapore": 3,
+            "New York": 3,
+            "Hong Kong": 0
+        },
+        "reserved_inventory_per_location": {
+            "London": 7,
+            "Frankfurt": 2,
+            "Dubai": 8,
+            "Singapore": 3,
+            "New York": 1,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 4,
+                "arrival_date": "2025-07-21"
+            },
+            "Frankfurt": {
+                "quantity": 3,
+                "arrival_date": "2025-07-27"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-92842-80",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 6,
+            "Dubai": 2,
+            "Singapore": 9,
+            "New York": 6,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 0,
+            "Dubai": 2,
+            "Singapore": 4,
+            "New York": 4,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 2,
+                "arrival_date": "2025-07-27"
+            },
+            "Dubai": {
+                "quantity": 5,
+                "arrival_date": "2025-07-22"
+            },
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-20"
+            },
+            "New York": {
+                "quantity": 2,
+                "arrival_date": "2025-07-27"
+            },
+            "Hong Kong": {
+                "quantity": 4,
+                "arrival_date": "2025-07-22"
+            }
+        }
+    },
+    {
+        "part_number": "PART-85980-82",
+        "stock_levels_per_location": {
+            "London": 5,
+            "Frankfurt": 1,
+            "Dubai": 4,
+            "Singapore": 6,
+            "New York": 10,
+            "Hong Kong": 10
+        },
+        "reserved_inventory_per_location": {
+            "London": 4,
+            "Frankfurt": 1,
+            "Dubai": 0,
+            "Singapore": 6,
+            "New York": 8,
+            "Hong Kong": 4
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": {
+                "quantity": 3,
+                "arrival_date": "2025-07-17"
+            },
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-19"
+            }
+        }
+    },
+    {
+        "part_number": "PART-83734-91",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 0,
+            "Dubai": 9,
+            "Singapore": 3,
+            "New York": 0,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 0,
+            "Dubai": 4,
+            "Singapore": 1,
+            "New York": 0,
+            "Hong Kong": 3
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-22"
+            },
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-15"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-19737-31",
+        "stock_levels_per_location": {
+            "London": 6,
+            "Frankfurt": 4,
+            "Dubai": 4,
+            "Singapore": 1,
+            "New York": 0,
+            "Hong Kong": 8
+        },
+        "reserved_inventory_per_location": {
+            "London": 4,
+            "Frankfurt": 2,
+            "Dubai": 0,
+            "Singapore": 0,
+            "New York": 0,
+            "Hong Kong": 4
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 3,
+                "arrival_date": "2025-07-28"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 1,
+                "arrival_date": "2025-07-20"
+            }
+        }
+    },
+    {
+        "part_number": "PART-79913-35",
+        "stock_levels_per_location": {
+            "London": 9,
+            "Frankfurt": 0,
+            "Dubai": 6,
+            "Singapore": 9,
+            "New York": 3,
+            "Hong Kong": 7
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 0,
+            "Dubai": 0,
+            "Singapore": 7,
+            "New York": 0,
+            "Hong Kong": 3
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": {
+                "quantity": 3,
+                "arrival_date": "2025-07-17"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-47966-62",
+        "stock_levels_per_location": {
+            "London": 1,
+            "Frankfurt": 2,
+            "Dubai": 2,
+            "Singapore": 6,
+            "New York": 2,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 2,
+            "Dubai": 2,
+            "Singapore": 2,
+            "New York": 2,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": {
+                "quantity": 3,
+                "arrival_date": "2025-07-29"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 3,
+                "arrival_date": "2025-07-17"
+            }
+        }
+    },
+    {
+        "part_number": "PART-31202-73",
+        "stock_levels_per_location": {
+            "London": 6,
+            "Frankfurt": 10,
+            "Dubai": 1,
+            "Singapore": 3,
+            "New York": 10,
+            "Hong Kong": 7
+        },
+        "reserved_inventory_per_location": {
+            "London": 2,
+            "Frankfurt": 5,
+            "Dubai": 0,
+            "Singapore": 3,
+            "New York": 3,
+            "Hong Kong": 4
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 1,
+                "arrival_date": "2025-07-30"
+            },
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-15"
+            },
+            "Dubai": {
+                "quantity": 2,
+                "arrival_date": "2025-07-23"
+            },
+            "Singapore": {
+                "quantity": 4,
+                "arrival_date": "2025-07-18"
+            },
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 5,
+                "arrival_date": "2025-07-17"
+            }
+        }
+    },
+    {
+        "part_number": "PART-29719-79",
+        "stock_levels_per_location": {
+            "London": 6,
+            "Frankfurt": 7,
+            "Dubai": 1,
+            "Singapore": 3,
+            "New York": 5,
+            "Hong Kong": 10
+        },
+        "reserved_inventory_per_location": {
+            "London": 1,
+            "Frankfurt": 5,
+            "Dubai": 1,
+            "Singapore": 1,
+            "New York": 0,
+            "Hong Kong": 9
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": {
+                "quantity": 5,
+                "arrival_date": "2025-07-21"
+            }
+        }
+    },
+    {
+        "part_number": "PART-46472-20",
+        "stock_levels_per_location": {
+            "London": 0,
+            "Frankfurt": 8,
+            "Dubai": 6,
+            "Singapore": 1,
+            "New York": 1,
+            "Hong Kong": 5
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 6,
+            "Dubai": 5,
+            "Singapore": 1,
+            "New York": 1,
+            "Hong Kong": 5
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": null,
+            "Singapore": null,
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-37644-51",
+        "stock_levels_per_location": {
+            "London": 10,
+            "Frankfurt": 10,
+            "Dubai": 5,
+            "Singapore": 7,
+            "New York": 10,
+            "Hong Kong": 1
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 5,
+            "Dubai": 2,
+            "Singapore": 2,
+            "New York": 9,
+            "Hong Kong": 0
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 4,
+                "arrival_date": "2025-07-19"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 3,
+                "arrival_date": "2025-07-24"
+            },
+            "Singapore": {
+                "quantity": 1,
+                "arrival_date": "2025-07-24"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-35385-17",
+        "stock_levels_per_location": {
+            "London": 0,
+            "Frankfurt": 8,
+            "Dubai": 1,
+            "Singapore": 9,
+            "New York": 3,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 5,
+            "Dubai": 0,
+            "Singapore": 5,
+            "New York": 2,
+            "Hong Kong": 5
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": null,
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 2,
+                "arrival_date": "2025-07-17"
+            },
+            "Singapore": {
+                "quantity": 2,
+                "arrival_date": "2025-07-15"
+            },
+            "New York": null,
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-10464-74",
+        "stock_levels_per_location": {
+            "London": 7,
+            "Frankfurt": 8,
+            "Dubai": 0,
+            "Singapore": 1,
+            "New York": 8,
+            "Hong Kong": 6
+        },
+        "reserved_inventory_per_location": {
+            "London": 3,
+            "Frankfurt": 6,
+            "Dubai": 0,
+            "Singapore": 0,
+            "New York": 4,
+            "Hong Kong": 1
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 2,
+                "arrival_date": "2025-07-18"
+            },
+            "Frankfurt": null,
+            "Dubai": {
+                "quantity": 3,
+                "arrival_date": "2025-07-30"
+            },
+            "Singapore": {
+                "quantity": 5,
+                "arrival_date": "2025-07-30"
+            },
+            "New York": {
+                "quantity": 5,
+                "arrival_date": "2025-07-29"
+            },
+            "Hong Kong": null
+        }
+    },
+    {
+        "part_number": "PART-42266-78",
+        "stock_levels_per_location": {
+            "London": 2,
+            "Frankfurt": 1,
+            "Dubai": 10,
+            "Singapore": 3,
+            "New York": 2,
+            "Hong Kong": 7
+        },
+        "reserved_inventory_per_location": {
+            "London": 0,
+            "Frankfurt": 1,
+            "Dubai": 7,
+            "Singapore": 2,
+            "New York": 1,
+            "Hong Kong": 5
+        },
+        "incoming_stock_schedules_per_location": {
+            "London": {
+                "quantity": 1,
+                "arrival_date": "2025-07-19"
+            },
+            "Frankfurt": {
+                "quantity": 1,
+                "arrival_date": "2025-07-29"
+            },
+            "Dubai": null,
+            "Singapore": null,
+            "New York": {
+                "quantity": 3,
+                "arrival_date": "2025-07-19"
+            },
+            "Hong Kong": {
+                "quantity": 4,
+                "arrival_date": "2025-07-20"
+            }
+        }
+    }
+]

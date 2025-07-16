@@ -1,0 +1,740 @@
+{
+  "major_airline_customers": [
+    {
+      "customer_id": "CUST-001",
+      "name": "Ryanair",
+      "iata_code": "RY",
+      "headquarters": "Paris, France",
+      "fleet_size": 164,
+      "annual_aog_volume": "\u20ac19M",
+      "response_time_sla": "36 minutes",
+      "payment_terms": "Net 30",
+      "priority_level": "Gold",
+      "typical_parts": [
+        "Engine Components",
+        "Avionics",
+        "APU",
+        "Hydraulics"
+      ],
+      "main_hubs": [
+        "YVR",
+        "DUB",
+        "DXB",
+        "HEL"
+      ],
+      "contact": {
+        "aog_manager": "Michael Wilson",
+        "email": "aog@ryanair.com",
+        "phone": "+65-878-415161"
+      }
+    },
+    {
+      "customer_id": "CUST-002",
+      "name": "Lufthansa",
+      "iata_code": "LU",
+      "headquarters": "Paris, France",
+      "fleet_size": 382,
+      "annual_aog_volume": "\u20ac5M",
+      "response_time_sla": "49 minutes",
+      "payment_terms": "Net 30",
+      "priority_level": "Gold",
+      "typical_parts": [
+        "APU",
+        "Landing Gear",
+        "Hydraulics",
+        "Engine Components"
+      ],
+      "main_hubs": [
+        "MUC",
+        "IST",
+        "MEX"
+      ],
+      "contact": {
+        "aog_manager": "John Johnson",
+        "email": "aog@lufthansa.com",
+        "phone": "+56-93-404587"
+      }
+    },
+    {
+      "customer_id": "CUST-003",
+      "name": "Emirates",
+      "iata_code": "EM",
+      "headquarters": "Frankfurt, Germany",
+      "fleet_size": 435,
+      "annual_aog_volume": "\u20ac19M",
+      "response_time_sla": "32 minutes",
+      "payment_terms": "Net 30",
+      "priority_level": "Platinum",
+      "typical_parts": [
+        "Hydraulics",
+        "APU",
+        "Avionics"
+      ],
+      "main_hubs": [
+        "ZUR"
+      ],
+      "contact": {
+        "aog_manager": "Emma Davis",
+        "email": "aog@emirates.com",
+        "phone": "+27-957-893770"
+      }
+    },
+    {
+      "customer_id": "CUST-004",
+      "name": "British Airways",
+      "iata_code": "BR",
+      "headquarters": "London, UK",
+      "fleet_size": 156,
+      "annual_aog_volume": "\u20ac4M",
+      "response_time_sla": "51 minutes",
+      "payment_terms": "Net 60",
+      "priority_level": "Silver",
+      "typical_parts": [
+        "APU",
+        "Avionics",
+        "Hydraulics",
+        "Landing Gear"
+      ],
+      "main_hubs": [
+        "DXB"
+      ],
+      "contact": {
+        "aog_manager": "Sarah Smith",
+        "email": "aog@britishairways.com",
+        "phone": "+76-587-171750"
+      }
+    },
+    {
+      "customer_id": "CUST-005",
+      "name": "KLM",
+      "iata_code": "KL",
+      "headquarters": "Dubai, UAE",
+      "fleet_size": 470,
+      "annual_aog_volume": "\u20ac2M",
+      "response_time_sla": "48 minutes",
+      "payment_terms": "Net 30",
+      "priority_level": "Gold",
+      "typical_parts": [
+        "Engine Components",
+        "Avionics"
+      ],
+      "main_hubs": [
+        "ORD",
+        "BCN",
+        "MIA"
+      ],
+      "contact": {
+        "aog_manager": "Sarah Smith",
+        "email": "aog@klm.com",
+        "phone": "+46-896-355278"
+      }
+    },
+    {
+      "customer_id": "CUST-006",
+      "name": "Air France",
+      "iata_code": "AI",
+      "headquarters": "Paris, France",
+      "fleet_size": 485,
+      "annual_aog_volume": "\u20ac22M",
+      "response_time_sla": "27 minutes",
+      "payment_terms": "Net 20",
+      "priority_level": "Platinum",
+      "typical_parts": [
+        "Hydraulics",
+        "APU",
+        "Landing Gear",
+        "Avionics"
+      ],
+      "main_hubs": [
+        "CPH",
+        "PRG",
+        "FRA"
+      ],
+      "contact": {
+        "aog_manager": "Michael Johnson",
+        "email": "aog@airfrance.com",
+        "phone": "+22-93-939439"
+      }
+    },
+    {
+      "customer_id": "CUST-007",
+      "name": "Turkish Airlines",
+      "iata_code": "TU",
+      "headquarters": "Paris, France",
+      "fleet_size": 119,
+      "annual_aog_volume": "\u20ac7M",
+      "response_time_sla": "18 minutes",
+      "payment_terms": "Net 10",
+      "priority_level": "Diamond",
+      "typical_parts": [
+        "Avionics",
+        "Engine Components",
+        "APU",
+        "Landing Gear"
+      ],
+      "main_hubs": [
+        "GRU"
+      ],
+      "contact": {
+        "aog_manager": "Sarah Johnson",
+        "email": "aog@turkishairlines.com",
+        "phone": "+50-800-595937"
+      }
+    },
+    {
+      "customer_id": "CUST-008",
+      "name": "Qatar Airways",
+      "iata_code": "QA",
+      "headquarters": "London, UK",
+      "fleet_size": 373,
+      "annual_aog_volume": "\u20ac11M",
+      "response_time_sla": "50 minutes",
+      "payment_terms": "Net 45",
+      "priority_level": "Gold",
+      "typical_parts": [
+        "Engine Components",
+        "Landing Gear"
+      ],
+      "main_hubs": [
+        "LAX",
+        "AMS",
+        "MEX",
+        "SYD"
+      ],
+      "contact": {
+        "aog_manager": "John Davis",
+        "email": "aog@qatarairways.com",
+        "phone": "+3-499-424041"
+      }
+    },
+    {
+      "customer_id": "CUST-009",
+      "name": "Singapore Airlines",
+      "iata_code": "SI",
+      "headquarters": "Amsterdam, Netherlands",
+      "fleet_size": 138,
+      "annual_aog_volume": "\u20ac9M",
+      "response_time_sla": "40 minutes",
+      "payment_terms": "Net 45",
+      "priority_level": "Gold",
+      "typical_parts": [
+        "Landing Gear",
+        "Avionics"
+      ],
+      "main_hubs": [
+        "ARN",
+        "MEL",
+        "FRA",
+        "CAI"
+      ],
+      "contact": {
+        "aog_manager": "Sarah Wilson",
+        "email": "aog@singaporeairlines.com",
+        "phone": "+3-86-650286"
+      }
+    },
+    {
+      "customer_id": "CUST-010",
+      "name": "Cathay Pacific",
+      "iata_code": "CA",
+      "headquarters": "Dubai, UAE",
+      "fleet_size": 430,
+      "annual_aog_volume": "\u20ac21M",
+      "response_time_sla": "40 minutes",
+      "payment_terms": "Net 45",
+      "priority_level": "Gold",
+      "typical_parts": [
+        "Hydraulics",
+        "Avionics"
+      ],
+      "main_hubs": [
+        "SIN"
+      ],
+      "contact": {
+        "aog_manager": "Lisa Johnson",
+        "email": "aog@cathaypacific.com",
+        "phone": "+97-382-156130"
+      }
+    },
+    {
+      "customer_id": "CUST-011",
+      "name": "United Airlines",
+      "iata_code": "UN",
+      "headquarters": "Dubai, UAE",
+      "fleet_size": 465,
+      "annual_aog_volume": "\u20ac24M",
+      "response_time_sla": "21 minutes",
+      "payment_terms": "Net 10",
+      "priority_level": "Diamond",
+      "typical_parts": [
+        "Avionics",
+        "APU"
+      ],
+      "main_hubs": [
+        "BRU",
+        "CAI",
+        "MIA"
+      ],
+      "contact": {
+        "aog_manager": "David Smith",
+        "email": "aog@unitedairlines.com",
+        "phone": "+9-256-788182"
+      }
+    },
+    {
+      "customer_id": "CUST-012",
+      "name": "American Airlines",
+      "iata_code": "AM",
+      "headquarters": "Amsterdam, Netherlands",
+      "fleet_size": 134,
+      "annual_aog_volume": "\u20ac5M",
+      "response_time_sla": "54 minutes",
+      "payment_terms": "Net 45",
+      "priority_level": "Silver",
+      "typical_parts": [
+        "APU",
+        "Avionics",
+        "Engine Components",
+        "Hydraulics"
+      ],
+      "main_hubs": [
+        "VIE",
+        "SYD",
+        "YVR",
+        "PRG"
+      ],
+      "contact": {
+        "aog_manager": "Lisa Davis",
+        "email": "aog@americanairlines.com",
+        "phone": "+83-637-225407"
+      }
+    },
+    {
+      "customer_id": "CUST-013",
+      "name": "Delta Air Lines",
+      "iata_code": "DE",
+      "headquarters": "Frankfurt, Germany",
+      "fleet_size": 334,
+      "annual_aog_volume": "\u20ac7M",
+      "response_time_sla": "35 minutes",
+      "payment_terms": "Net 15",
+      "priority_level": "Platinum",
+      "typical_parts": [
+        "Engine Components",
+        "APU"
+      ],
+      "main_hubs": [
+        "CAI",
+        "CPH"
+      ],
+      "contact": {
+        "aog_manager": "John Wilson",
+        "email": "aog@deltaairlines.com",
+        "phone": "+97-464-599163"
+      }
+    },
+    {
+      "customer_id": "CUST-014",
+      "name": "Southwest Airlines",
+      "iata_code": "SO",
+      "headquarters": "Paris, France",
+      "fleet_size": 318,
+      "annual_aog_volume": "\u20ac22M",
+      "response_time_sla": "84 minutes",
+      "payment_terms": "Net 45",
+      "priority_level": "Silver",
+      "typical_parts": [
+        "Avionics",
+        "Engine Components",
+        "APU"
+      ],
+      "main_hubs": [
+        "NRT",
+        "MEX",
+        "LHR"
+      ],
+      "contact": {
+        "aog_manager": "Sarah Miller",
+        "email": "aog@southwestairlines.com",
+        "phone": "+91-157-856486"
+      }
+    },
+    {
+      "customer_id": "CUST-015",
+      "name": "JetBlue Airways",
+      "iata_code": "JE",
+      "headquarters": "Paris, France",
+      "fleet_size": 415,
+      "annual_aog_volume": "\u20ac13M",
+      "response_time_sla": "80 minutes",
+      "payment_terms": "Net 45",
+      "priority_level": "Silver",
+      "typical_parts": [
+        "APU",
+        "Hydraulics",
+        "Landing Gear"
+      ],
+      "main_hubs": [
+        "YYZ"
+      ],
+      "contact": {
+        "aog_manager": "Michael Brown",
+        "email": "aog@jetblueairways.com",
+        "phone": "+18-831-850115"
+      }
+    },
+    {
+      "customer_id": "CUST-016",
+      "name": "Virgin Atlantic",
+      "iata_code": "VI",
+      "headquarters": "Paris, France",
+      "fleet_size": 91,
+      "annual_aog_volume": "\u20ac23M",
+      "response_time_sla": "23 minutes",
+      "payment_terms": "Net 15",
+      "priority_level": "Diamond",
+      "typical_parts": [
+        "APU",
+        "Avionics",
+        "Hydraulics",
+        "Landing Gear"
+      ],
+      "main_hubs": [
+        "PRG"
+      ],
+      "contact": {
+        "aog_manager": "Michael Miller",
+        "email": "aog@virginatlantic.com",
+        "phone": "+41-852-397894"
+      }
+    },
+    {
+      "customer_id": "CUST-017",
+      "name": "Iberia",
+      "iata_code": "IB",
+      "headquarters": "Dubai, UAE",
+      "fleet_size": 222,
+      "annual_aog_volume": "\u20ac11M",
+      "response_time_sla": "35 minutes",
+      "payment_terms": "Net 30",
+      "priority_level": "Platinum",
+      "typical_parts": [
+        "Avionics",
+        "Hydraulics"
+      ],
+      "main_hubs": [
+        "GIG"
+      ],
+      "contact": {
+        "aog_manager": "John Johnson",
+        "email": "aog@iberia.com",
+        "phone": "+63-890-523895"
+      }
+    },
+    {
+      "customer_id": "CUST-018",
+      "name": "Alitalia",
+      "iata_code": "AL",
+      "headquarters": "Frankfurt, Germany",
+      "fleet_size": 202,
+      "annual_aog_volume": "\u20ac22M",
+      "response_time_sla": "53 minutes",
+      "payment_terms": "Net 60",
+      "priority_level": "Silver",
+      "typical_parts": [
+        "APU",
+        "Hydraulics"
+      ],
+      "main_hubs": [
+        "VIE",
+        "JNB",
+        "ZUR"
+      ],
+      "contact": {
+        "aog_manager": "John Wilson",
+        "email": "aog@alitalia.com",
+        "phone": "+60-942-318503"
+      }
+    },
+    {
+      "customer_id": "CUST-019",
+      "name": "Swiss International",
+      "iata_code": "SW",
+      "headquarters": "London, UK",
+      "fleet_size": 139,
+      "annual_aog_volume": "\u20ac18M",
+      "response_time_sla": "27 minutes",
+      "payment_terms": "Net 20",
+      "priority_level": "Platinum",
+      "typical_parts": [
+        "APU",
+        "Avionics"
+      ],
+      "main_hubs": [
+        "LOS"
+      ],
+      "contact": {
+        "aog_manager": "Lisa Wilson",
+        "email": "aog@swissinternational.com",
+        "phone": "+95-165-303361"
+      }
+    },
+    {
+      "customer_id": "CUST-020",
+      "name": "Austrian Airlines",
+      "iata_code": "AU",
+      "headquarters": "Paris, France",
+      "fleet_size": 195,
+      "annual_aog_volume": "\u20ac4M",
+      "response_time_sla": "36 minutes",
+      "payment_terms": "Net 30",
+      "priority_level": "Gold",
+      "typical_parts": [
+        "APU",
+        "Hydraulics",
+        "Engine Components",
+        "Avionics"
+      ],
+      "main_hubs": [
+        "VIE",
+        "CPH",
+        "SYD"
+      ],
+      "contact": {
+        "aog_manager": "Lisa Miller",
+        "email": "aog@austrianairlines.com",
+        "phone": "+1-168-184715"
+      }
+    },
+    {
+      "customer_id": "CUST-021",
+      "name": "SAS",
+      "iata_code": "SA",
+      "headquarters": "London, UK",
+      "fleet_size": 472,
+      "annual_aog_volume": "\u20ac19M",
+      "response_time_sla": "23 minutes",
+      "payment_terms": "Net 10",
+      "priority_level": "Diamond",
+      "typical_parts": [
+        "Avionics",
+        "Hydraulics"
+      ],
+      "main_hubs": [
+        "HKG",
+        "BRU",
+        "MEL",
+        "LOS"
+      ],
+      "contact": {
+        "aog_manager": "John Wilson",
+        "email": "aog@sas.com",
+        "phone": "+35-744-355434"
+      }
+    },
+    {
+      "customer_id": "CUST-022",
+      "name": "Finnair",
+      "iata_code": "FI",
+      "headquarters": "Amsterdam, Netherlands",
+      "fleet_size": 112,
+      "annual_aog_volume": "\u20ac7M",
+      "response_time_sla": "33 minutes",
+      "payment_terms": "Net 30",
+      "priority_level": "Platinum",
+      "typical_parts": [
+        "Avionics",
+        "Landing Gear",
+        "APU",
+        "Engine Components"
+      ],
+      "main_hubs": [
+        "LAX"
+      ],
+      "contact": {
+        "aog_manager": "David Wilson",
+        "email": "aog@finnair.com",
+        "phone": "+85-176-627293"
+      }
+    },
+    {
+      "customer_id": "CUST-023",
+      "name": "TAP Air Portugal",
+      "iata_code": "TA",
+      "headquarters": "Amsterdam, Netherlands",
+      "fleet_size": 336,
+      "annual_aog_volume": "\u20ac23M",
+      "response_time_sla": "35 minutes",
+      "payment_terms": "Net 45",
+      "priority_level": "Gold",
+      "typical_parts": [
+        "Engine Components",
+        "APU"
+      ],
+      "main_hubs": [
+        "ZUR",
+        "VIE",
+        "YVR"
+      ],
+      "contact": {
+        "aog_manager": "Emma Brown",
+        "email": "aog@tapairportugal.com",
+        "phone": "+95-71-228427"
+      }
+    },
+    {
+      "customer_id": "CUST-024",
+      "name": "Aer Lingus",
+      "iata_code": "AE",
+      "headquarters": "Paris, France",
+      "fleet_size": 328,
+      "annual_aog_volume": "\u20ac11M",
+      "response_time_sla": "45 minutes",
+      "payment_terms": "Net 30",
+      "priority_level": "Gold",
+      "typical_parts": [
+        "Engine Components",
+        "Avionics",
+        "Landing Gear",
+        "Hydraulics"
+      ],
+      "main_hubs": [
+        "GIG",
+        "BCN",
+        "AMS"
+      ],
+      "contact": {
+        "aog_manager": "John Brown",
+        "email": "aog@aerlingus.com",
+        "phone": "+30-605-569621"
+      }
+    },
+    {
+      "customer_id": "CUST-025",
+      "name": "EasyJet",
+      "iata_code": "EA",
+      "headquarters": "Amsterdam, Netherlands",
+      "fleet_size": 238,
+      "annual_aog_volume": "\u20ac13M",
+      "response_time_sla": "35 minutes",
+      "payment_terms": "Net 30",
+      "priority_level": "Gold",
+      "typical_parts": [
+        "APU",
+        "Landing Gear",
+        "Engine Components",
+        "Avionics"
+      ],
+      "main_hubs": [
+        "GRU",
+        "SYD",
+        "JNB"
+      ],
+      "contact": {
+        "aog_manager": "John Johnson",
+        "email": "aog@easyjet.com",
+        "phone": "+91-873-677748"
+      }
+    },
+    {
+      "customer_id": "CUST-026",
+      "name": "Wizz Air",
+      "iata_code": "WI",
+      "headquarters": "Dubai, UAE",
+      "fleet_size": 181,
+      "annual_aog_volume": "\u20ac4M",
+      "response_time_sla": "28 minutes",
+      "payment_terms": "Net 15",
+      "priority_level": "Platinum",
+      "typical_parts": [
+        "Avionics",
+        "Engine Components",
+        "Hydraulics"
+      ],
+      "main_hubs": [
+        "LAX",
+        "YVR",
+        "ICN"
+      ],
+      "contact": {
+        "aog_manager": "Emma Johnson",
+        "email": "aog@wizzair.com",
+        "phone": "+82-983-999688"
+      }
+    },
+    {
+      "customer_id": "CUST-027",
+      "name": "Vueling",
+      "iata_code": "VU",
+      "headquarters": "Dubai, UAE",
+      "fleet_size": 454,
+      "annual_aog_volume": "\u20ac17M",
+      "response_time_sla": "32 minutes",
+      "payment_terms": "Net 15",
+      "priority_level": "Platinum",
+      "typical_parts": [
+        "Avionics",
+        "Hydraulics",
+        "Engine Components",
+        "APU"
+      ],
+      "main_hubs": [
+        "CPH",
+        "MAD"
+      ],
+      "contact": {
+        "aog_manager": "Lisa Smith",
+        "email": "aog@vueling.com",
+        "phone": "+37-282-983410"
+      }
+    },
+    {
+      "customer_id": "CUST-028",
+      "name": "Norwegian Air",
+      "iata_code": "NO",
+      "headquarters": "Frankfurt, Germany",
+      "fleet_size": 66,
+      "annual_aog_volume": "\u20ac13M",
+      "response_time_sla": "33 minutes",
+      "payment_terms": "Net 30",
+      "priority_level": "Platinum",
+      "typical_parts": [
+        "Landing Gear",
+        "APU"
+      ],
+      "main_hubs": [
+        "CAI"
+      ],
+      "contact": {
+        "aog_manager": "John Smith",
+        "email": "aog@norwegianair.com",
+        "phone": "+87-845-145703"
+      }
+    },
+    {
+      "customer_id": "CUST-029",
+      "name": "Icelandair",
+      "iata_code": "IC",
+      "headquarters": "Amsterdam, Netherlands",
+      "fleet_size": 396,
+      "annual_aog_volume": "\u20ac19M",
+      "response_time_sla": "70 minutes",
+      "payment_terms": "Net 60",
+      "priority_level": "Silver",
+      "typical_parts": [
+        "Avionics",
+        "Hydraulics",
+        "Landing Gear",
+        "APU"
+      ],
+      "main_hubs": [
+        "MAD"
+      ],
+      "contact": {
+        "aog_manager": "Emma Johnson",
+        "email": "aog@icelandair.com",
+        "phone": "+23-685-514420"
+      }
+    }
+  ]
+}

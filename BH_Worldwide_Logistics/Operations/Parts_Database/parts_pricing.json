@@ -1,0 +1,3602 @@
+[
+    {
+        "part_number": "PART-44643-80",
+        "base_cost_GBP": 63552.69,
+        "regional_pricing_variations": {
+            "London": 65797.43,
+            "Frankfurt": 63983.95,
+            "Dubai": 65984.12,
+            "Singapore": 68028.57,
+            "New York": 62216.71,
+            "Hong Kong": 65691.3
+        },
+        "expedite_surcharge_markup": 0.29,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.08,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-33072-87",
+        "base_cost_GBP": 326803.83,
+        "regional_pricing_variations": {
+            "London": 317029.52,
+            "Frankfurt": 332002.11,
+            "Dubai": 357926.85,
+            "Singapore": 348181.18,
+            "New York": 342391.46,
+            "Hong Kong": 333669.46
+        },
+        "expedite_surcharge_markup": 0.5,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.06,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-57688-29",
+        "base_cost_GBP": 418643.59,
+        "regional_pricing_variations": {
+            "London": 411647.5,
+            "Frankfurt": 417176.94,
+            "Dubai": 446160.6,
+            "Singapore": 434867.88,
+            "New York": 433801.02,
+            "Hong Kong": 439708.94
+        },
+        "expedite_surcharge_markup": 0.49,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.07,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-70494-89",
+        "base_cost_GBP": 152440.09,
+        "regional_pricing_variations": {
+            "London": 148937.89,
+            "Frankfurt": 154289.81,
+            "Dubai": 154068.74,
+            "Singapore": 164593.57,
+            "New York": 159062.82,
+            "Hong Kong": 154755.34
+        },
+        "expedite_surcharge_markup": 0.3,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.08,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.1
+        }
+    },
+    {
+        "part_number": "PART-29248-63",
+        "base_cost_GBP": 126776.36,
+        "regional_pricing_variations": {
+            "London": 122875.04,
+            "Frankfurt": 125770.03,
+            "Dubai": 133778.47,
+            "Singapore": 133181.56,
+            "New York": 128313.87,
+            "Hong Kong": 128935.21
+        },
+        "expedite_surcharge_markup": 0.34,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.09,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-71770-57",
+        "base_cost_GBP": 130130.34,
+        "regional_pricing_variations": {
+            "London": 133847.51,
+            "Frankfurt": 130858.12,
+            "Dubai": 132184.47,
+            "Singapore": 138251.42,
+            "New York": 129107.42,
+            "Hong Kong": 134098.13
+        },
+        "expedite_surcharge_markup": 0.29,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.06,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-19791-98",
+        "base_cost_GBP": 311717.22,
+        "regional_pricing_variations": {
+            "London": 296820.56,
+            "Frankfurt": 309581.39,
+            "Dubai": 327872.01,
+            "Singapore": 334714.86,
+            "New York": 310989.48,
+            "Hong Kong": 329701.43
+        },
+        "expedite_surcharge_markup": 0.27,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.06,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-35405-96",
+        "base_cost_GBP": 110868.53,
+        "regional_pricing_variations": {
+            "London": 106765.31,
+            "Frankfurt": 112145.27,
+            "Dubai": 113582.44,
+            "Singapore": 114589.41,
+            "New York": 114363.55,
+            "Hong Kong": 114238.83
+        },
+        "expedite_surcharge_markup": 0.4,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.05,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-55005-86",
+        "base_cost_GBP": 390090.09,
+        "regional_pricing_variations": {
+            "London": 393317.79,
+            "Frankfurt": 390385.44,
+            "Dubai": 410871.35,
+            "Singapore": 408536.6,
+            "New York": 389218.02,
+            "Hong Kong": 404416.45
+        },
+        "expedite_surcharge_markup": 0.31,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.06,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-84896-82",
+        "base_cost_GBP": 150317.99,
+        "regional_pricing_variations": {
+            "London": 149582.35,
+            "Frankfurt": 148701.46,
+            "Dubai": 158121.48,
+            "Singapore": 161663.72,
+            "New York": 153759.67,
+            "Hong Kong": 156330.19
+        },
+        "expedite_surcharge_markup": 0.48,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.08,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.1
+        }
+    },
+    {
+        "part_number": "PART-90526-15",
+        "base_cost_GBP": 142662.47,
+        "regional_pricing_variations": {
+            "London": 136571.29,
+            "Frankfurt": 141287.01,
+            "Dubai": 155885.75,
+            "Singapore": 148307.71,
+            "New York": 143100.47,
+            "Hong Kong": 147226.61
+        },
+        "expedite_surcharge_markup": 0.43,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.09,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.05
+        }
+    },
+    {
+        "part_number": "PART-20444-57",
+        "base_cost_GBP": 456731.08,
+        "regional_pricing_variations": {
+            "London": 447934.66,
+            "Frankfurt": 455899.74,
+            "Dubai": 484389.11,
+            "Singapore": 475043.36,
+            "New York": 471401.31,
+            "Hong Kong": 476223.11
+        },
+        "expedite_surcharge_markup": 0.45,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.09,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-18397-27",
+        "base_cost_GBP": 36529.7,
+        "regional_pricing_variations": {
+            "London": 36905.14,
+            "Frankfurt": 36321.69,
+            "Dubai": 37047.08,
+            "Singapore": 37568.86,
+            "New York": 36715.72,
+            "Hong Kong": 36903.53
+        },
+        "expedite_surcharge_markup": 0.42,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.1,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-69913-19",
+        "base_cost_GBP": 326382.25,
+        "regional_pricing_variations": {
+            "London": 339445.43,
+            "Frankfurt": 321334.2,
+            "Dubai": 330412.98,
+            "Singapore": 336921.97,
+            "New York": 347964.16,
+            "Hong Kong": 341841.12
+        },
+        "expedite_surcharge_markup": 0.41,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.07,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-14338-38",
+        "base_cost_GBP": 213488.52,
+        "regional_pricing_variations": {
+            "London": 213199.99,
+            "Frankfurt": 213075.7,
+            "Dubai": 220265.37,
+            "Singapore": 225448.11,
+            "New York": 222191.25,
+            "Hong Kong": 223561.9
+        },
+        "expedite_surcharge_markup": 0.47,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.05,
+            "21+": 0.1
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-40690-46",
+        "base_cost_GBP": 130746.07,
+        "regional_pricing_variations": {
+            "London": 136445.84,
+            "Frankfurt": 131575.15,
+            "Dubai": 141200.54,
+            "Singapore": 138071.03,
+            "New York": 136819.28,
+            "Hong Kong": 135725.6
+        },
+        "expedite_surcharge_markup": 0.42,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.09,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-23062-17",
+        "base_cost_GBP": 182581.88,
+        "regional_pricing_variations": {
+            "London": 173676.5,
+            "Frankfurt": 186345.88,
+            "Dubai": 196650.08,
+            "Singapore": 187210.07,
+            "New York": 178760.92,
+            "Hong Kong": 185324.32
+        },
+        "expedite_surcharge_markup": 0.36,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.08,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.1
+        }
+    },
+    {
+        "part_number": "PART-88839-20",
+        "base_cost_GBP": 29943.54,
+        "regional_pricing_variations": {
+            "London": 29662.68,
+            "Frankfurt": 30012.72,
+            "Dubai": 30564.67,
+            "Singapore": 31843.44,
+            "New York": 31924.33,
+            "Hong Kong": 30440.03
+        },
+        "expedite_surcharge_markup": 0.43,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.09,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-71608-22",
+        "base_cost_GBP": 453548.35,
+        "regional_pricing_variations": {
+            "London": 471780.26,
+            "Frankfurt": 464900.58,
+            "Dubai": 478522.34,
+            "Singapore": 485624.18,
+            "New York": 443253.66,
+            "Hong Kong": 464900.97
+        },
+        "expedite_surcharge_markup": 0.25,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.09,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-37206-57",
+        "base_cost_GBP": 338798.39,
+        "regional_pricing_variations": {
+            "London": 330416.08,
+            "Frankfurt": 335939.53,
+            "Dubai": 354010.65,
+            "Singapore": 361762.37,
+            "New York": 340808.0,
+            "Hong Kong": 353680.27
+        },
+        "expedite_surcharge_markup": 0.28,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.07,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.95,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-37022-66",
+        "base_cost_GBP": 25113.44,
+        "regional_pricing_variations": {
+            "London": 25493.21,
+            "Frankfurt": 25122.74,
+            "Dubai": 26299.91,
+            "Singapore": 26316.28,
+            "New York": 25365.32,
+            "Hong Kong": 26270.46
+        },
+        "expedite_surcharge_markup": 0.45,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.09,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.05
+        }
+    },
+    {
+        "part_number": "PART-80783-57",
+        "base_cost_GBP": 225792.35,
+        "regional_pricing_variations": {
+            "London": 225258.41,
+            "Frankfurt": 221462.05,
+            "Dubai": 234590.86,
+            "Singapore": 241605.35,
+            "New York": 235936.51,
+            "Hong Kong": 232260.27
+        },
+        "expedite_surcharge_markup": 0.43,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.1,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-34338-80",
+        "base_cost_GBP": 412141.17,
+        "regional_pricing_variations": {
+            "London": 395731.74,
+            "Frankfurt": 419369.16,
+            "Dubai": 442416.7,
+            "Singapore": 434427.27,
+            "New York": 409592.21,
+            "Hong Kong": 428504.36
+        },
+        "expedite_surcharge_markup": 0.34,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.09,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-40913-70",
+        "base_cost_GBP": 181726.71,
+        "regional_pricing_variations": {
+            "London": 175711.4,
+            "Frankfurt": 185561.62,
+            "Dubai": 195377.5,
+            "Singapore": 187064.96,
+            "New York": 184032.38,
+            "Hong Kong": 190252.05
+        },
+        "expedite_surcharge_markup": 0.42,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.08,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.05
+        }
+    },
+    {
+        "part_number": "PART-55192-79",
+        "base_cost_GBP": 230019.36,
+        "regional_pricing_variations": {
+            "London": 219080.4,
+            "Frankfurt": 230736.12,
+            "Dubai": 232572.1,
+            "Singapore": 237535.36,
+            "New York": 240355.12,
+            "Hong Kong": 233198.9
+        },
+        "expedite_surcharge_markup": 0.41,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.05,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-45015-94",
+        "base_cost_GBP": 105455.1,
+        "regional_pricing_variations": {
+            "London": 104025.78,
+            "Frankfurt": 104426.62,
+            "Dubai": 109057.27,
+            "Singapore": 113835.96,
+            "New York": 103506.12,
+            "Hong Kong": 110796.6
+        },
+        "expedite_surcharge_markup": 0.27,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.07,
+            "21+": 0.1
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-98237-31",
+        "base_cost_GBP": 19061.09,
+        "regional_pricing_variations": {
+            "London": 19536.26,
+            "Frankfurt": 19143.17,
+            "Dubai": 19561.12,
+            "Singapore": 19584.96,
+            "New York": 18525.83,
+            "Hong Kong": 19407.14
+        },
+        "expedite_surcharge_markup": 0.32,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.1,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.95,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-90882-57",
+        "base_cost_GBP": 471292.89,
+        "regional_pricing_variations": {
+            "London": 471453.01,
+            "Frankfurt": 477172.96,
+            "Dubai": 485391.78,
+            "Singapore": 497464.69,
+            "New York": 460449.94,
+            "Hong Kong": 485211.27
+        },
+        "expedite_surcharge_markup": 0.29,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.08,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-85783-37",
+        "base_cost_GBP": 480839.26,
+        "regional_pricing_variations": {
+            "London": 474470.29,
+            "Frankfurt": 494305.87,
+            "Dubai": 497311.31,
+            "Singapore": 510698.64,
+            "New York": 514080.07,
+            "Hong Kong": 490484.62
+        },
+        "expedite_surcharge_markup": 0.31,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.09,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-11029-90",
+        "base_cost_GBP": 457076.7,
+        "regional_pricing_variations": {
+            "London": 460470.9,
+            "Frankfurt": 468665.55,
+            "Dubai": 501571.71,
+            "Singapore": 480113.03,
+            "New York": 486626.93,
+            "Hong Kong": 475207.73
+        },
+        "expedite_surcharge_markup": 0.39,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.09,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-71054-59",
+        "base_cost_GBP": 68380.68,
+        "regional_pricing_variations": {
+            "London": 70716.32,
+            "Frankfurt": 68644.33,
+            "Dubai": 69852.99,
+            "Singapore": 70599.26,
+            "New York": 71015.74,
+            "Hong Kong": 72180.44
+        },
+        "expedite_surcharge_markup": 0.34,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.07,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-14598-83",
+        "base_cost_GBP": 163809.88,
+        "regional_pricing_variations": {
+            "London": 166741.14,
+            "Frankfurt": 164246.17,
+            "Dubai": 173952.1,
+            "Singapore": 173176.79,
+            "New York": 160055.27,
+            "Hong Kong": 172652.23
+        },
+        "expedite_surcharge_markup": 0.39,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.08,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-49216-56",
+        "base_cost_GBP": 485578.34,
+        "regional_pricing_variations": {
+            "London": 478425.63,
+            "Frankfurt": 497386.38,
+            "Dubai": 492929.76,
+            "Singapore": 519543.16,
+            "New York": 503127.58,
+            "Hong Kong": 513847.87
+        },
+        "expedite_surcharge_markup": 0.29,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.07,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-95925-37",
+        "base_cost_GBP": 270349.18,
+        "regional_pricing_variations": {
+            "London": 258070.06,
+            "Frankfurt": 272280.88,
+            "Dubai": 288372.79,
+            "Singapore": 278843.24,
+            "New York": 270211.72,
+            "Hong Kong": 273833.12
+        },
+        "expedite_surcharge_markup": 0.45,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.06,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.95,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-95980-30",
+        "base_cost_GBP": 461360.28,
+        "regional_pricing_variations": {
+            "London": 457329.33,
+            "Frankfurt": 452997.07,
+            "Dubai": 493473.57,
+            "Singapore": 491938.09,
+            "New York": 466611.53,
+            "Hong Kong": 488360.94
+        },
+        "expedite_surcharge_markup": 0.25,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.08,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-37716-39",
+        "base_cost_GBP": 215400.36,
+        "regional_pricing_variations": {
+            "London": 211809.48,
+            "Frankfurt": 215261.88,
+            "Dubai": 235960.62,
+            "Singapore": 225293.43,
+            "New York": 209635.38,
+            "Hong Kong": 218953.21
+        },
+        "expedite_surcharge_markup": 0.28,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.06,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.1
+        }
+    },
+    {
+        "part_number": "PART-34998-75",
+        "base_cost_GBP": 448515.21,
+        "regional_pricing_variations": {
+            "London": 437276.77,
+            "Frankfurt": 441831.73,
+            "Dubai": 482191.0,
+            "Singapore": 468511.24,
+            "New York": 475242.61,
+            "Hong Kong": 466717.23
+        },
+        "expedite_surcharge_markup": 0.29,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.08,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.1
+        }
+    },
+    {
+        "part_number": "PART-90709-38",
+        "base_cost_GBP": 482129.16,
+        "regional_pricing_variations": {
+            "London": 495840.4,
+            "Frankfurt": 473315.18,
+            "Dubai": 501321.51,
+            "Singapore": 503154.96,
+            "New York": 478779.88,
+            "Hong Kong": 508350.64
+        },
+        "expedite_surcharge_markup": 0.42,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.07,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-85910-74",
+        "base_cost_GBP": 240713.28,
+        "regional_pricing_variations": {
+            "London": 243346.76,
+            "Frankfurt": 246846.87,
+            "Dubai": 252437.39,
+            "Singapore": 248764.15,
+            "New York": 234259.14,
+            "Hong Kong": 254295.4
+        },
+        "expedite_surcharge_markup": 0.34,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.09,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-26106-22",
+        "base_cost_GBP": 128199.97,
+        "regional_pricing_variations": {
+            "London": 126786.69,
+            "Frankfurt": 131282.7,
+            "Dubai": 131407.26,
+            "Singapore": 135850.67,
+            "New York": 130023.26,
+            "Hong Kong": 134973.43
+        },
+        "expedite_surcharge_markup": 0.46,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.08,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-13969-20",
+        "base_cost_GBP": 356902.65,
+        "regional_pricing_variations": {
+            "London": 341633.32,
+            "Frankfurt": 367204.44,
+            "Dubai": 387931.41,
+            "Singapore": 375591.73,
+            "New York": 377445.31,
+            "Hong Kong": 369790.24
+        },
+        "expedite_surcharge_markup": 0.3,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.08,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-59412-29",
+        "base_cost_GBP": 49306.82,
+        "regional_pricing_variations": {
+            "London": 48115.87,
+            "Frankfurt": 50343.71,
+            "Dubai": 52796.6,
+            "Singapore": 52876.8,
+            "New York": 48747.54,
+            "Hong Kong": 51786.78
+        },
+        "expedite_surcharge_markup": 0.3,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.07,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.05
+        }
+    },
+    {
+        "part_number": "PART-93982-17",
+        "base_cost_GBP": 185083.95,
+        "regional_pricing_variations": {
+            "London": 187392.66,
+            "Frankfurt": 183868.81,
+            "Dubai": 194423.06,
+            "Singapore": 197200.53,
+            "New York": 183832.45,
+            "Hong Kong": 194206.99
+        },
+        "expedite_surcharge_markup": 0.33,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.08,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-30500-10",
+        "base_cost_GBP": 132257.86,
+        "regional_pricing_variations": {
+            "London": 138008.04,
+            "Frankfurt": 133275.95,
+            "Dubai": 133606.75,
+            "Singapore": 136372.79,
+            "New York": 139281.08,
+            "Hong Kong": 136284.1
+        },
+        "expedite_surcharge_markup": 0.38,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.09,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-82394-96",
+        "base_cost_GBP": 170348.21,
+        "regional_pricing_variations": {
+            "London": 162784.22,
+            "Frankfurt": 169954.92,
+            "Dubai": 171055.59,
+            "Singapore": 176235.0,
+            "New York": 173818.31,
+            "Hong Kong": 176091.96
+        },
+        "expedite_surcharge_markup": 0.3,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.05,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-62658-78",
+        "base_cost_GBP": 472739.19,
+        "regional_pricing_variations": {
+            "London": 451968.71,
+            "Frankfurt": 484656.24,
+            "Dubai": 489929.5,
+            "Singapore": 492790.19,
+            "New York": 479814.0,
+            "Hong Kong": 495991.84
+        },
+        "expedite_surcharge_markup": 0.48,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.09,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-11318-58",
+        "base_cost_GBP": 208325.81,
+        "regional_pricing_variations": {
+            "London": 208522.12,
+            "Frankfurt": 206794.17,
+            "Dubai": 219380.52,
+            "Singapore": 222497.29,
+            "New York": 213108.16,
+            "Hong Kong": 214956.21
+        },
+        "expedite_surcharge_markup": 0.31,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.1,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-12442-45",
+        "base_cost_GBP": 81217.09,
+        "regional_pricing_variations": {
+            "London": 81832.48,
+            "Frankfurt": 82062.15,
+            "Dubai": 81694.28,
+            "Singapore": 87597.35,
+            "New York": 80066.11,
+            "Hong Kong": 83293.41
+        },
+        "expedite_surcharge_markup": 0.39,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.08,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-16744-83",
+        "base_cost_GBP": 432391.64,
+        "regional_pricing_variations": {
+            "London": 452863.51,
+            "Frankfurt": 441122.98,
+            "Dubai": 461621.77,
+            "Singapore": 462277.57,
+            "New York": 426961.36,
+            "Hong Kong": 453485.92
+        },
+        "expedite_surcharge_markup": 0.39,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.09,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.1
+        }
+    },
+    {
+        "part_number": "PART-43373-45",
+        "base_cost_GBP": 249628.16,
+        "regional_pricing_variations": {
+            "London": 258537.88,
+            "Frankfurt": 246555.81,
+            "Dubai": 264443.2,
+            "Singapore": 257590.22,
+            "New York": 242709.58,
+            "Hong Kong": 261873.77
+        },
+        "expedite_surcharge_markup": 0.35,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.08,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.1
+        }
+    },
+    {
+        "part_number": "PART-95490-64",
+        "base_cost_GBP": 73559.14,
+        "regional_pricing_variations": {
+            "London": 75487.27,
+            "Frankfurt": 75297.85,
+            "Dubai": 73667.67,
+            "Singapore": 79196.97,
+            "New York": 76450.2,
+            "Hong Kong": 76800.33
+        },
+        "expedite_surcharge_markup": 0.45,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.05,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-33633-73",
+        "base_cost_GBP": 200382.57,
+        "regional_pricing_variations": {
+            "London": 209225.88,
+            "Frankfurt": 203063.6,
+            "Dubai": 213114.41,
+            "Singapore": 210954.85,
+            "New York": 211033.75,
+            "Hong Kong": 208140.88
+        },
+        "expedite_surcharge_markup": 0.28,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.05,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.95,
+            "Tier2": 1,
+            "Tier3": 1.05
+        }
+    },
+    {
+        "part_number": "PART-42179-13",
+        "base_cost_GBP": 90067.23,
+        "regional_pricing_variations": {
+            "London": 87354.54,
+            "Frankfurt": 89663.42,
+            "Dubai": 90742.34,
+            "Singapore": 92961.66,
+            "New York": 90579.27,
+            "Hong Kong": 91153.62
+        },
+        "expedite_surcharge_markup": 0.49,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.08,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-60140-94",
+        "base_cost_GBP": 285710.15,
+        "regional_pricing_variations": {
+            "London": 299992.38,
+            "Frankfurt": 282503.07,
+            "Dubai": 312447.03,
+            "Singapore": 297536.04,
+            "New York": 294922.38,
+            "Hong Kong": 297082.94
+        },
+        "expedite_surcharge_markup": 0.5,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.1,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-18898-51",
+        "base_cost_GBP": 325975.39,
+        "regional_pricing_variations": {
+            "London": 324602.85,
+            "Frankfurt": 322609.68,
+            "Dubai": 342046.05,
+            "Singapore": 347578.49,
+            "New York": 343028.02,
+            "Hong Kong": 344389.37
+        },
+        "expedite_surcharge_markup": 0.29,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.08,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-15027-85",
+        "base_cost_GBP": 291397.04,
+        "regional_pricing_variations": {
+            "London": 290221.91,
+            "Frankfurt": 296974.93,
+            "Dubai": 317214.63,
+            "Singapore": 311032.08,
+            "New York": 294671.4,
+            "Hong Kong": 301403.43
+        },
+        "expedite_surcharge_markup": 0.34,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.07,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-62957-80",
+        "base_cost_GBP": 176039.98,
+        "regional_pricing_variations": {
+            "London": 181724.87,
+            "Frankfurt": 178253.09,
+            "Dubai": 190978.06,
+            "Singapore": 181116.95,
+            "New York": 187145.37,
+            "Hong Kong": 183605.15
+        },
+        "expedite_surcharge_markup": 0.4,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.09,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.1
+        }
+    },
+    {
+        "part_number": "PART-50183-64",
+        "base_cost_GBP": 163769.81,
+        "regional_pricing_variations": {
+            "London": 168113.05,
+            "Frankfurt": 160535.45,
+            "Dubai": 176859.48,
+            "Singapore": 168225.44,
+            "New York": 162450.85,
+            "Hong Kong": 169948.86
+        },
+        "expedite_surcharge_markup": 0.49,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.09,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.95,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-10267-66",
+        "base_cost_GBP": 217422.18,
+        "regional_pricing_variations": {
+            "London": 227103.38,
+            "Frankfurt": 223087.35,
+            "Dubai": 229675.12,
+            "Singapore": 225063.5,
+            "New York": 217767.89,
+            "Hong Kong": 225782.73
+        },
+        "expedite_surcharge_markup": 0.28,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.08,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-97791-66",
+        "base_cost_GBP": 445692.36,
+        "regional_pricing_variations": {
+            "London": 428053.83,
+            "Frankfurt": 450965.71,
+            "Dubai": 452305.65,
+            "Singapore": 461902.51,
+            "New York": 439402.77,
+            "Hong Kong": 467588.58
+        },
+        "expedite_surcharge_markup": 0.45,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.06,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.1
+        }
+    },
+    {
+        "part_number": "PART-36786-57",
+        "base_cost_GBP": 191234.84,
+        "regional_pricing_variations": {
+            "London": 186340.2,
+            "Frankfurt": 189228.91,
+            "Dubai": 193382.04,
+            "Singapore": 200484.59,
+            "New York": 200880.62,
+            "Hong Kong": 194690.45
+        },
+        "expedite_surcharge_markup": 0.41,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.09,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.95,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-83428-48",
+        "base_cost_GBP": 410152.47,
+        "regional_pricing_variations": {
+            "London": 414349.86,
+            "Frankfurt": 407299.36,
+            "Dubai": 446419.33,
+            "Singapore": 424436.67,
+            "New York": 413295.51,
+            "Hong Kong": 427569.41
+        },
+        "expedite_surcharge_markup": 0.32,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.08,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-51947-79",
+        "base_cost_GBP": 276890.74,
+        "regional_pricing_variations": {
+            "London": 283798.8,
+            "Frankfurt": 281625.57,
+            "Dubai": 303599.71,
+            "Singapore": 291619.85,
+            "New York": 271111.2,
+            "Hong Kong": 282679.63
+        },
+        "expedite_surcharge_markup": 0.41,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.07,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-86059-19",
+        "base_cost_GBP": 73990.91,
+        "regional_pricing_variations": {
+            "London": 75809.98,
+            "Frankfurt": 74494.57,
+            "Dubai": 78258.21,
+            "Singapore": 76897.91,
+            "New York": 75882.25,
+            "Hong Kong": 75817.3
+        },
+        "expedite_surcharge_markup": 0.42,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.1,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-95235-37",
+        "base_cost_GBP": 169005.74,
+        "regional_pricing_variations": {
+            "London": 174758.74,
+            "Frankfurt": 171364.43,
+            "Dubai": 174269.62,
+            "Singapore": 174831.94,
+            "New York": 176752.08,
+            "Hong Kong": 172577.4
+        },
+        "expedite_surcharge_markup": 0.3,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.08,
+            "21+": 0.1
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-28108-98",
+        "base_cost_GBP": 69703.62,
+        "regional_pricing_variations": {
+            "London": 71763.01,
+            "Frankfurt": 70081.7,
+            "Dubai": 69786.97,
+            "Singapore": 71337.67,
+            "New York": 72572.46,
+            "Hong Kong": 72202.93
+        },
+        "expedite_surcharge_markup": 0.42,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.09,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.05
+        }
+    },
+    {
+        "part_number": "PART-36508-23",
+        "base_cost_GBP": 132616.41,
+        "regional_pricing_variations": {
+            "London": 126907.02,
+            "Frankfurt": 134872.06,
+            "Dubai": 144329.53,
+            "Singapore": 136100.03,
+            "New York": 129841.56,
+            "Hong Kong": 137623.85
+        },
+        "expedite_surcharge_markup": 0.4,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.05,
+            "21+": 0.1
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-97350-17",
+        "base_cost_GBP": 222696.74,
+        "regional_pricing_variations": {
+            "London": 219731.9,
+            "Frankfurt": 221300.26,
+            "Dubai": 242842.3,
+            "Singapore": 231382.72,
+            "New York": 234589.0,
+            "Hong Kong": 231856.82
+        },
+        "expedite_surcharge_markup": 0.38,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.08,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.95,
+            "Tier2": 1,
+            "Tier3": 1.1
+        }
+    },
+    {
+        "part_number": "PART-10478-78",
+        "base_cost_GBP": 137567.91,
+        "regional_pricing_variations": {
+            "London": 139387.89,
+            "Frankfurt": 138000.5,
+            "Dubai": 143852.86,
+            "Singapore": 140947.59,
+            "New York": 135956.17,
+            "Hong Kong": 140819.49
+        },
+        "expedite_surcharge_markup": 0.41,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.06,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-26644-15",
+        "base_cost_GBP": 140561.97,
+        "regional_pricing_variations": {
+            "London": 135309.61,
+            "Frankfurt": 140079.36,
+            "Dubai": 153409.8,
+            "Singapore": 151064.38,
+            "New York": 142467.96,
+            "Hong Kong": 142341.0
+        },
+        "expedite_surcharge_markup": 0.38,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.08,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-80014-46",
+        "base_cost_GBP": 426503.01,
+        "regional_pricing_variations": {
+            "London": 421782.27,
+            "Frankfurt": 429383.51,
+            "Dubai": 455258.31,
+            "Singapore": 447946.36,
+            "New York": 442379.32,
+            "Hong Kong": 431852.28
+        },
+        "expedite_surcharge_markup": 0.28,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.06,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-77295-75",
+        "base_cost_GBP": 472613.12,
+        "regional_pricing_variations": {
+            "London": 464086.91,
+            "Frankfurt": 466040.77,
+            "Dubai": 510284.99,
+            "Singapore": 509114.04,
+            "New York": 493311.47,
+            "Hong Kong": 499587.48
+        },
+        "expedite_surcharge_markup": 0.32,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.05,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-42387-10",
+        "base_cost_GBP": 80678.62,
+        "regional_pricing_variations": {
+            "London": 82173.43,
+            "Frankfurt": 81947.83,
+            "Dubai": 88159.5,
+            "Singapore": 85345.55,
+            "New York": 81280.83,
+            "Hong Kong": 83368.08
+        },
+        "expedite_surcharge_markup": 0.46,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.09,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-33484-54",
+        "base_cost_GBP": 80038.97,
+        "regional_pricing_variations": {
+            "London": 79976.79,
+            "Frankfurt": 81416.22,
+            "Dubai": 82831.86,
+            "Singapore": 84996.36,
+            "New York": 84816.99,
+            "Hong Kong": 82053.51
+        },
+        "expedite_surcharge_markup": 0.35,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.09,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-18300-19",
+        "base_cost_GBP": 288704.97,
+        "regional_pricing_variations": {
+            "London": 287727.78,
+            "Frankfurt": 295012.48,
+            "Dubai": 312367.87,
+            "Singapore": 296474.65,
+            "New York": 290320.97,
+            "Hong Kong": 298658.23
+        },
+        "expedite_surcharge_markup": 0.28,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.09,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-78579-19",
+        "base_cost_GBP": 208168.38,
+        "regional_pricing_variations": {
+            "London": 197948.88,
+            "Frankfurt": 208127.46,
+            "Dubai": 208577.07,
+            "Singapore": 223781.38,
+            "New York": 205986.03,
+            "Hong Kong": 220449.15
+        },
+        "expedite_surcharge_markup": 0.34,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.07,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-73384-86",
+        "base_cost_GBP": 475430.15,
+        "regional_pricing_variations": {
+            "London": 464463.89,
+            "Frankfurt": 488257.4,
+            "Dubai": 496804.91,
+            "Singapore": 508081.06,
+            "New York": 464622.87,
+            "Hong Kong": 490609.64
+        },
+        "expedite_surcharge_markup": 0.35,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.05,
+            "21+": 0.1
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-30205-49",
+        "base_cost_GBP": 59658.02,
+        "regional_pricing_variations": {
+            "London": 58190.53,
+            "Frankfurt": 60276.02,
+            "Dubai": 60698.04,
+            "Singapore": 63083.19,
+            "New York": 60116.64,
+            "Hong Kong": 61231.66
+        },
+        "expedite_surcharge_markup": 0.25,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.05,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-83489-17",
+        "base_cost_GBP": 91703.24,
+        "regional_pricing_variations": {
+            "London": 95988.12,
+            "Frankfurt": 93457.45,
+            "Dubai": 92810.32,
+            "Singapore": 94393.1,
+            "New York": 92491.54,
+            "Hong Kong": 93384.14
+        },
+        "expedite_surcharge_markup": 0.26,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.06,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-72124-86",
+        "base_cost_GBP": 474244.55,
+        "regional_pricing_variations": {
+            "London": 486875.56,
+            "Frankfurt": 482444.51,
+            "Dubai": 497016.14,
+            "Singapore": 489103.28,
+            "New York": 485649.18,
+            "Hong Kong": 489815.31
+        },
+        "expedite_surcharge_markup": 0.28,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.06,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.05
+        }
+    },
+    {
+        "part_number": "PART-73618-51",
+        "base_cost_GBP": 311776.46,
+        "regional_pricing_variations": {
+            "London": 322897.69,
+            "Frankfurt": 314653.27,
+            "Dubai": 328362.22,
+            "Singapore": 334529.69,
+            "New York": 303098.25,
+            "Hong Kong": 327683.41
+        },
+        "expedite_surcharge_markup": 0.44,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.07,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-47022-21",
+        "base_cost_GBP": 51536.17,
+        "regional_pricing_variations": {
+            "London": 50725.84,
+            "Frankfurt": 51104.4,
+            "Dubai": 52819.04,
+            "Singapore": 52629.44,
+            "New York": 52494.25,
+            "Hong Kong": 52738.73
+        },
+        "expedite_surcharge_markup": 0.37,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.05,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-21404-27",
+        "base_cost_GBP": 96782.22,
+        "regional_pricing_variations": {
+            "London": 100100.95,
+            "Frankfurt": 98000.54,
+            "Dubai": 100900.05,
+            "Singapore": 103058.92,
+            "New York": 100199.7,
+            "Hong Kong": 98233.28
+        },
+        "expedite_surcharge_markup": 0.32,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.05,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-11115-81",
+        "base_cost_GBP": 357901.58,
+        "regional_pricing_variations": {
+            "London": 345665.65,
+            "Frankfurt": 358037.98,
+            "Dubai": 374681.8,
+            "Singapore": 375243.72,
+            "New York": 374937.21,
+            "Hong Kong": 365615.13
+        },
+        "expedite_surcharge_markup": 0.43,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.09,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-76797-23",
+        "base_cost_GBP": 449444.07,
+        "regional_pricing_variations": {
+            "London": 430130.33,
+            "Frankfurt": 454735.44,
+            "Dubai": 451874.83,
+            "Singapore": 460313.93,
+            "New York": 469277.12,
+            "Hong Kong": 459411.49
+        },
+        "expedite_surcharge_markup": 0.38,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.06,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-99472-80",
+        "base_cost_GBP": 188310.44,
+        "regional_pricing_variations": {
+            "London": 185490.88,
+            "Frankfurt": 193952.57,
+            "Dubai": 199582.32,
+            "Singapore": 197237.01,
+            "New York": 193839.79,
+            "Hong Kong": 191466.74
+        },
+        "expedite_surcharge_markup": 0.28,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.08,
+            "21+": 0.1
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-78217-51",
+        "base_cost_GBP": 122819.11,
+        "regional_pricing_variations": {
+            "London": 118644.26,
+            "Frankfurt": 122381.34,
+            "Dubai": 127114.59,
+            "Singapore": 128181.74,
+            "New York": 129893.95,
+            "Hong Kong": 129477.49
+        },
+        "expedite_surcharge_markup": 0.35,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.08,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.95,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-12924-53",
+        "base_cost_GBP": 25295.96,
+        "regional_pricing_variations": {
+            "London": 24902.15,
+            "Frankfurt": 25779.09,
+            "Dubai": 27524.83,
+            "Singapore": 26680.16,
+            "New York": 25741.37,
+            "Hong Kong": 25563.93
+        },
+        "expedite_surcharge_markup": 0.49,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.09,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-62542-61",
+        "base_cost_GBP": 487322.66,
+        "regional_pricing_variations": {
+            "London": 482218.62,
+            "Frankfurt": 498217.39,
+            "Dubai": 493422.79,
+            "Singapore": 506299.22,
+            "New York": 503884.67,
+            "Hong Kong": 515628.99
+        },
+        "expedite_surcharge_markup": 0.48,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.1,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.05
+        }
+    },
+    {
+        "part_number": "PART-59209-13",
+        "base_cost_GBP": 10544.11,
+        "regional_pricing_variations": {
+            "London": 10266.27,
+            "Frankfurt": 10596.91,
+            "Dubai": 10817.02,
+            "Singapore": 11283.23,
+            "New York": 10443.01,
+            "Hong Kong": 11003.67
+        },
+        "expedite_surcharge_markup": 0.43,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.07,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-56665-60",
+        "base_cost_GBP": 136940.83,
+        "regional_pricing_variations": {
+            "London": 135611.29,
+            "Frankfurt": 140525.24,
+            "Dubai": 142579.8,
+            "Singapore": 143960.02,
+            "New York": 144047.89,
+            "Hong Kong": 144787.0
+        },
+        "expedite_surcharge_markup": 0.36,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.08,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-44447-75",
+        "base_cost_GBP": 144049.2,
+        "regional_pricing_variations": {
+            "London": 138663.27,
+            "Frankfurt": 145690.89,
+            "Dubai": 150635.13,
+            "Singapore": 151451.85,
+            "New York": 149296.27,
+            "Hong Kong": 152452.85
+        },
+        "expedite_surcharge_markup": 0.36,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.08,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-30289-47",
+        "base_cost_GBP": 423155.76,
+        "regional_pricing_variations": {
+            "London": 424191.79,
+            "Frankfurt": 415273.49,
+            "Dubai": 453248.14,
+            "Singapore": 453893.88,
+            "New York": 445036.97,
+            "Hong Kong": 429086.21
+        },
+        "expedite_surcharge_markup": 0.32,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.05,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.1
+        }
+    },
+    {
+        "part_number": "PART-51869-86",
+        "base_cost_GBP": 366082.48,
+        "regional_pricing_variations": {
+            "London": 356373.69,
+            "Frankfurt": 375670.89,
+            "Dubai": 379555.62,
+            "Singapore": 394773.21,
+            "New York": 364491.36,
+            "Hong Kong": 376511.04
+        },
+        "expedite_surcharge_markup": 0.34,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.06,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-52180-82",
+        "base_cost_GBP": 44645.03,
+        "regional_pricing_variations": {
+            "London": 44773.59,
+            "Frankfurt": 45749.97,
+            "Dubai": 47369.95,
+            "Singapore": 46243.72,
+            "New York": 47033.06,
+            "Hong Kong": 47278.1
+        },
+        "expedite_surcharge_markup": 0.26,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.08,
+            "21+": 0.1
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-50866-65",
+        "base_cost_GBP": 372649.58,
+        "regional_pricing_variations": {
+            "London": 354440.28,
+            "Frankfurt": 377644.55,
+            "Dubai": 383612.85,
+            "Singapore": 391651.84,
+            "New York": 382723.02,
+            "Hong Kong": 389351.03
+        },
+        "expedite_surcharge_markup": 0.4,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.06,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-76531-75",
+        "base_cost_GBP": 147980.2,
+        "regional_pricing_variations": {
+            "London": 145897.7,
+            "Frankfurt": 151229.08,
+            "Dubai": 160357.19,
+            "Singapore": 159546.72,
+            "New York": 151823.64,
+            "Hong Kong": 150776.7
+        },
+        "expedite_surcharge_markup": 0.29,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.07,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-78606-46",
+        "base_cost_GBP": 196959.04,
+        "regional_pricing_variations": {
+            "London": 196298.45,
+            "Frankfurt": 197142.08,
+            "Dubai": 199777.87,
+            "Singapore": 210322.05,
+            "New York": 192938.4,
+            "Hong Kong": 203545.96
+        },
+        "expedite_surcharge_markup": 0.44,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.06,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-19022-32",
+        "base_cost_GBP": 236202.93,
+        "regional_pricing_variations": {
+            "London": 238219.83,
+            "Frankfurt": 232681.94,
+            "Dubai": 253936.95,
+            "Singapore": 251998.65,
+            "New York": 232394.67,
+            "Hong Kong": 240872.38
+        },
+        "expedite_surcharge_markup": 0.44,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.06,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-13464-86",
+        "base_cost_GBP": 454364.68,
+        "regional_pricing_variations": {
+            "London": 462473.69,
+            "Frankfurt": 447197.42,
+            "Dubai": 454393.67,
+            "Singapore": 487561.71,
+            "New York": 447047.73,
+            "Hong Kong": 461016.69
+        },
+        "expedite_surcharge_markup": 0.45,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.1,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-64527-14",
+        "base_cost_GBP": 263573.19,
+        "regional_pricing_variations": {
+            "London": 259455.53,
+            "Frankfurt": 264679.33,
+            "Dubai": 283401.17,
+            "Singapore": 282719.64,
+            "New York": 261237.09,
+            "Hong Kong": 275857.48
+        },
+        "expedite_surcharge_markup": 0.26,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.06,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.1
+        }
+    },
+    {
+        "part_number": "PART-46024-29",
+        "base_cost_GBP": 292879.41,
+        "regional_pricing_variations": {
+            "London": 296103.89,
+            "Frankfurt": 300936.02,
+            "Dubai": 301403.31,
+            "Singapore": 299461.98,
+            "New York": 306065.19,
+            "Hong Kong": 298683.75
+        },
+        "expedite_surcharge_markup": 0.44,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.09,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-76843-92",
+        "base_cost_GBP": 143947.25,
+        "regional_pricing_variations": {
+            "London": 145383.07,
+            "Frankfurt": 148127.76,
+            "Dubai": 153782.05,
+            "Singapore": 151494.07,
+            "New York": 150325.82,
+            "Hong Kong": 150058.53
+        },
+        "expedite_surcharge_markup": 0.28,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.07,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-62227-43",
+        "base_cost_GBP": 177345.36,
+        "regional_pricing_variations": {
+            "London": 181073.89,
+            "Frankfurt": 182582.57,
+            "Dubai": 178265.13,
+            "Singapore": 182922.78,
+            "New York": 179564.24,
+            "Hong Kong": 185488.4
+        },
+        "expedite_surcharge_markup": 0.48,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.07,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.1
+        }
+    },
+    {
+        "part_number": "PART-97942-37",
+        "base_cost_GBP": 13638.86,
+        "regional_pricing_variations": {
+            "London": 14170.67,
+            "Frankfurt": 13914.21,
+            "Dubai": 14290.35,
+            "Singapore": 14139.39,
+            "New York": 14199.8,
+            "Hong Kong": 13919.08
+        },
+        "expedite_surcharge_markup": 0.38,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.09,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-54868-79",
+        "base_cost_GBP": 227204.18,
+        "regional_pricing_variations": {
+            "London": 218769.2,
+            "Frankfurt": 226148.78,
+            "Dubai": 239443.84,
+            "Singapore": 234151.88,
+            "New York": 220633.56,
+            "Hong Kong": 235663.06
+        },
+        "expedite_surcharge_markup": 0.44,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.09,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-39554-67",
+        "base_cost_GBP": 484145.21,
+        "regional_pricing_variations": {
+            "London": 460344.55,
+            "Frankfurt": 494271.34,
+            "Dubai": 512271.93,
+            "Singapore": 509113.79,
+            "New York": 495509.57,
+            "Hong Kong": 492134.2
+        },
+        "expedite_surcharge_markup": 0.29,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.08,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-35262-25",
+        "base_cost_GBP": 164175.5,
+        "regional_pricing_variations": {
+            "London": 165446.86,
+            "Frankfurt": 166676.58,
+            "Dubai": 165007.92,
+            "Singapore": 175217.69,
+            "New York": 163329.47,
+            "Hong Kong": 169365.92
+        },
+        "expedite_surcharge_markup": 0.5,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.09,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-91748-68",
+        "base_cost_GBP": 395807.12,
+        "regional_pricing_variations": {
+            "London": 414800.69,
+            "Frankfurt": 392751.01,
+            "Dubai": 396431.77,
+            "Singapore": 409301.28,
+            "New York": 410892.43,
+            "Hong Kong": 415153.3
+        },
+        "expedite_surcharge_markup": 0.43,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.08,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.1
+        }
+    },
+    {
+        "part_number": "PART-45764-90",
+        "base_cost_GBP": 362620.83,
+        "regional_pricing_variations": {
+            "London": 369702.72,
+            "Frankfurt": 367403.67,
+            "Dubai": 396447.3,
+            "Singapore": 376812.49,
+            "New York": 372939.21,
+            "Hong Kong": 384296.88
+        },
+        "expedite_surcharge_markup": 0.43,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.09,
+            "21+": 0.1
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-33486-44",
+        "base_cost_GBP": 461451.69,
+        "regional_pricing_variations": {
+            "London": 480927.32,
+            "Frankfurt": 455321.31,
+            "Dubai": 466026.89,
+            "Singapore": 487606.51,
+            "New York": 472004.13,
+            "Hong Kong": 483531.47
+        },
+        "expedite_surcharge_markup": 0.28,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.1,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-56883-83",
+        "base_cost_GBP": 433475.27,
+        "regional_pricing_variations": {
+            "London": 446101.34,
+            "Frankfurt": 443977.31,
+            "Dubai": 458732.68,
+            "Singapore": 463769.14,
+            "New York": 429281.98,
+            "Hong Kong": 449053.54
+        },
+        "expedite_surcharge_markup": 0.47,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.09,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-81946-41",
+        "base_cost_GBP": 79690.95,
+        "regional_pricing_variations": {
+            "London": 77259.64,
+            "Frankfurt": 78227.78,
+            "Dubai": 84901.29,
+            "Singapore": 85488.17,
+            "New York": 78383.5,
+            "Hong Kong": 84288.89
+        },
+        "expedite_surcharge_markup": 0.46,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.09,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-13537-29",
+        "base_cost_GBP": 91993.43,
+        "regional_pricing_variations": {
+            "London": 90769.65,
+            "Frankfurt": 91353.05,
+            "Dubai": 93720.6,
+            "Singapore": 94706.26,
+            "New York": 91570.41,
+            "Hong Kong": 97467.2
+        },
+        "expedite_surcharge_markup": 0.26,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.07,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.95,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-79018-26",
+        "base_cost_GBP": 149701.44,
+        "regional_pricing_variations": {
+            "London": 152194.98,
+            "Frankfurt": 150884.75,
+            "Dubai": 163902.32,
+            "Singapore": 158213.82,
+            "New York": 150235.33,
+            "Hong Kong": 154670.97
+        },
+        "expedite_surcharge_markup": 0.26,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.05,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.05
+        }
+    },
+    {
+        "part_number": "PART-31837-86",
+        "base_cost_GBP": 243714.4,
+        "regional_pricing_variations": {
+            "London": 234218.06,
+            "Frankfurt": 244820.44,
+            "Dubai": 255531.58,
+            "Singapore": 258628.5,
+            "New York": 243234.91,
+            "Hong Kong": 254441.64
+        },
+        "expedite_surcharge_markup": 0.31,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.08,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-54020-48",
+        "base_cost_GBP": 442042.04,
+        "regional_pricing_variations": {
+            "London": 429099.01,
+            "Frankfurt": 451798.83,
+            "Dubai": 474956.14,
+            "Singapore": 468096.09,
+            "New York": 431164.27,
+            "Hong Kong": 465147.22
+        },
+        "expedite_surcharge_markup": 0.44,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.08,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-47123-36",
+        "base_cost_GBP": 167940.8,
+        "regional_pricing_variations": {
+            "London": 169503.26,
+            "Frankfurt": 166139.92,
+            "Dubai": 173114.83,
+            "Singapore": 171911.62,
+            "New York": 177165.9,
+            "Hong Kong": 170837.17
+        },
+        "expedite_surcharge_markup": 0.49,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.09,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-75928-40",
+        "base_cost_GBP": 111888.23,
+        "regional_pricing_variations": {
+            "London": 114850.52,
+            "Frankfurt": 113551.96,
+            "Dubai": 119874.34,
+            "Singapore": 117630.35,
+            "New York": 114150.05,
+            "Hong Kong": 115743.11
+        },
+        "expedite_surcharge_markup": 0.43,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.06,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-95417-84",
+        "base_cost_GBP": 473653.43,
+        "regional_pricing_variations": {
+            "London": 471736.51,
+            "Frankfurt": 474349.45,
+            "Dubai": 481251.51,
+            "Singapore": 484374.98,
+            "New York": 471766.95,
+            "Hong Kong": 501629.82
+        },
+        "expedite_surcharge_markup": 0.49,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.06,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-82844-62",
+        "base_cost_GBP": 242716.94,
+        "regional_pricing_variations": {
+            "London": 248862.23,
+            "Frankfurt": 244208.68,
+            "Dubai": 266142.57,
+            "Singapore": 256364.11,
+            "New York": 238461.58,
+            "Hong Kong": 246093.76
+        },
+        "expedite_surcharge_markup": 0.5,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.1,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.95,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-15266-85",
+        "base_cost_GBP": 378733.65,
+        "regional_pricing_variations": {
+            "London": 377505.78,
+            "Frankfurt": 390071.5,
+            "Dubai": 401807.49,
+            "Singapore": 388530.23,
+            "New York": 398798.74,
+            "Hong Kong": 390131.52
+        },
+        "expedite_surcharge_markup": 0.44,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.09,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-25134-66",
+        "base_cost_GBP": 24395.21,
+        "regional_pricing_variations": {
+            "London": 24048.0,
+            "Frankfurt": 24144.64,
+            "Dubai": 25026.73,
+            "Singapore": 25851.62,
+            "New York": 24614.36,
+            "Hong Kong": 24950.36
+        },
+        "expedite_surcharge_markup": 0.41,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.06,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.95,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-16864-33",
+        "base_cost_GBP": 65789.0,
+        "regional_pricing_variations": {
+            "London": 63526.6,
+            "Frankfurt": 66515.79,
+            "Dubai": 71082.91,
+            "Singapore": 70222.51,
+            "New York": 66316.99,
+            "Hong Kong": 68176.05
+        },
+        "expedite_surcharge_markup": 0.26,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.09,
+            "21+": 0.1
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-89930-83",
+        "base_cost_GBP": 472155.87,
+        "regional_pricing_variations": {
+            "London": 462346.43,
+            "Frankfurt": 463036.29,
+            "Dubai": 474318.61,
+            "Singapore": 500788.47,
+            "New York": 500197.7,
+            "Hong Kong": 499488.55
+        },
+        "expedite_surcharge_markup": 0.41,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.08,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-79591-75",
+        "base_cost_GBP": 115783.71,
+        "regional_pricing_variations": {
+            "London": 116460.41,
+            "Frankfurt": 114542.07,
+            "Dubai": 122750.82,
+            "Singapore": 122519.18,
+            "New York": 120050.56,
+            "Hong Kong": 117059.96
+        },
+        "expedite_surcharge_markup": 0.46,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.09,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-56469-80",
+        "base_cost_GBP": 190342.36,
+        "regional_pricing_variations": {
+            "London": 182254.83,
+            "Frankfurt": 192508.83,
+            "Dubai": 207142.91,
+            "Singapore": 196671.01,
+            "New York": 196736.24,
+            "Hong Kong": 201276.01
+        },
+        "expedite_surcharge_markup": 0.41,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.1,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-38275-96",
+        "base_cost_GBP": 368355.26,
+        "regional_pricing_variations": {
+            "London": 377315.26,
+            "Frankfurt": 367572.9,
+            "Dubai": 390326.22,
+            "Singapore": 379591.24,
+            "New York": 380193.45,
+            "Hong Kong": 379794.21
+        },
+        "expedite_surcharge_markup": 0.38,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.06,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-65870-74",
+        "base_cost_GBP": 383536.86,
+        "regional_pricing_variations": {
+            "London": 402645.01,
+            "Frankfurt": 382630.22,
+            "Dubai": 418007.12,
+            "Singapore": 412537.3,
+            "New York": 372642.21,
+            "Hong Kong": 394315.01
+        },
+        "expedite_surcharge_markup": 0.26,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.07,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-49623-88",
+        "base_cost_GBP": 123206.19,
+        "regional_pricing_variations": {
+            "London": 123786.24,
+            "Frankfurt": 123138.71,
+            "Dubai": 127002.18,
+            "Singapore": 129835.8,
+            "New York": 129436.53,
+            "Hong Kong": 126699.82
+        },
+        "expedite_surcharge_markup": 0.33,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.08,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-37589-83",
+        "base_cost_GBP": 363169.73,
+        "regional_pricing_variations": {
+            "London": 359433.86,
+            "Frankfurt": 357727.61,
+            "Dubai": 390776.44,
+            "Singapore": 391239.87,
+            "New York": 382100.88,
+            "Hong Kong": 379293.18
+        },
+        "expedite_surcharge_markup": 0.3,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.07,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.95,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-28079-25",
+        "base_cost_GBP": 283482.41,
+        "regional_pricing_variations": {
+            "London": 296660.87,
+            "Frankfurt": 290862.7,
+            "Dubai": 301143.72,
+            "Singapore": 293315.32,
+            "New York": 296848.22,
+            "Hong Kong": 298224.38
+        },
+        "expedite_surcharge_markup": 0.29,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.07,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.05
+        }
+    },
+    {
+        "part_number": "PART-48470-16",
+        "base_cost_GBP": 266014.79,
+        "regional_pricing_variations": {
+            "London": 278780.04,
+            "Frankfurt": 267004.0,
+            "Dubai": 276425.27,
+            "Singapore": 274066.79,
+            "New York": 275854.46,
+            "Hong Kong": 273675.43
+        },
+        "expedite_surcharge_markup": 0.42,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.08,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-92812-16",
+        "base_cost_GBP": 224057.21,
+        "regional_pricing_variations": {
+            "London": 229531.69,
+            "Frankfurt": 221702.71,
+            "Dubai": 234614.41,
+            "Singapore": 234539.48,
+            "New York": 228524.57,
+            "Hong Kong": 231133.06
+        },
+        "expedite_surcharge_markup": 0.29,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.08,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-15102-55",
+        "base_cost_GBP": 201947.78,
+        "regional_pricing_variations": {
+            "London": 195373.83,
+            "Frankfurt": 202084.54,
+            "Dubai": 205573.05,
+            "Singapore": 214010.3,
+            "New York": 209300.87,
+            "Hong Kong": 210859.55
+        },
+        "expedite_surcharge_markup": 0.36,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.09,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-64257-25",
+        "base_cost_GBP": 345383.7,
+        "regional_pricing_variations": {
+            "London": 347817.25,
+            "Frankfurt": 345175.55,
+            "Dubai": 354635.79,
+            "Singapore": 367871.6,
+            "New York": 338837.56,
+            "Hong Kong": 350441.37
+        },
+        "expedite_surcharge_markup": 0.47,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.07,
+            "21+": 0.1
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.1
+        }
+    },
+    {
+        "part_number": "PART-12110-91",
+        "base_cost_GBP": 78456.32,
+        "regional_pricing_variations": {
+            "London": 80714.46,
+            "Frankfurt": 80409.42,
+            "Dubai": 85614.91,
+            "Singapore": 80675.96,
+            "New York": 82105.92,
+            "Hong Kong": 79908.82
+        },
+        "expedite_surcharge_markup": 0.27,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.08,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-58259-58",
+        "base_cost_GBP": 379601.58,
+        "regional_pricing_variations": {
+            "London": 394053.23,
+            "Frankfurt": 380901.3,
+            "Dubai": 411799.85,
+            "Singapore": 396718.21,
+            "New York": 375678.83,
+            "Hong Kong": 393602.28
+        },
+        "expedite_surcharge_markup": 0.49,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.06,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.92,
+            "Tier2": 1,
+            "Tier3": 1.05
+        }
+    },
+    {
+        "part_number": "PART-31015-79",
+        "base_cost_GBP": 111823.66,
+        "regional_pricing_variations": {
+            "London": 107407.68,
+            "Frankfurt": 110699.8,
+            "Dubai": 113672.85,
+            "Singapore": 115672.37,
+            "New York": 117328.0,
+            "Hong Kong": 117561.26
+        },
+        "expedite_surcharge_markup": 0.36,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.08,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.95,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-85418-19",
+        "base_cost_GBP": 448922.48,
+        "regional_pricing_variations": {
+            "London": 469800.46,
+            "Frankfurt": 447337.09,
+            "Dubai": 482091.59,
+            "Singapore": 477671.28,
+            "New York": 479550.55,
+            "Hong Kong": 454901.25
+        },
+        "expedite_surcharge_markup": 0.35,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.09,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-70502-82",
+        "base_cost_GBP": 200532.17,
+        "regional_pricing_variations": {
+            "London": 198147.75,
+            "Frankfurt": 204446.46,
+            "Dubai": 205542.42,
+            "Singapore": 215069.67,
+            "New York": 196585.69,
+            "Hong Kong": 212113.28
+        },
+        "expedite_surcharge_markup": 0.35,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.08,
+            "21+": 0.1
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.1
+        }
+    },
+    {
+        "part_number": "PART-74294-46",
+        "base_cost_GBP": 444135.24,
+        "regional_pricing_variations": {
+            "London": 449151.56,
+            "Frankfurt": 447463.96,
+            "Dubai": 485544.71,
+            "Singapore": 461783.19,
+            "New York": 464487.29,
+            "Hong Kong": 467158.69
+        },
+        "expedite_surcharge_markup": 0.3,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.1,
+            "21+": 0.14
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-26813-14",
+        "base_cost_GBP": 473685.46,
+        "regional_pricing_variations": {
+            "London": 472642.65,
+            "Frankfurt": 472298.28,
+            "Dubai": 512321.57,
+            "Singapore": 484181.66,
+            "New York": 503975.71,
+            "Hong Kong": 494160.8
+        },
+        "expedite_surcharge_markup": 0.45,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.06,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.91,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-78075-10",
+        "base_cost_GBP": 340586.55,
+        "regional_pricing_variations": {
+            "London": 326057.9,
+            "Frankfurt": 334965.6,
+            "Dubai": 361358.24,
+            "Singapore": 356117.04,
+            "New York": 341785.45,
+            "Hong Kong": 349466.36
+        },
+        "expedite_surcharge_markup": 0.47,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.02,
+            "11-20": 0.08,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.93,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    },
+    {
+        "part_number": "PART-40229-42",
+        "base_cost_GBP": 415146.97,
+        "regional_pricing_variations": {
+            "London": 420889.23,
+            "Frankfurt": 413101.08,
+            "Dubai": 429544.81,
+            "Singapore": 441061.02,
+            "New York": 443552.32,
+            "Hong Kong": 439281.86
+        },
+        "expedite_surcharge_markup": 0.35,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.06,
+            "21+": 0.12
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.95,
+            "Tier2": 1,
+            "Tier3": 1.08
+        }
+    },
+    {
+        "part_number": "PART-56336-41",
+        "base_cost_GBP": 439703.31,
+        "regional_pricing_variations": {
+            "London": 432015.72,
+            "Frankfurt": 443149.26,
+            "Dubai": 446244.63,
+            "Singapore": 471718.18,
+            "New York": 469015.24,
+            "Hong Kong": 458435.86
+        },
+        "expedite_surcharge_markup": 0.29,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.06,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-72472-48",
+        "base_cost_GBP": 369331.68,
+        "regional_pricing_variations": {
+            "London": 382105.27,
+            "Frankfurt": 378559.79,
+            "Dubai": 401415.43,
+            "Singapore": 396002.72,
+            "New York": 379163.97,
+            "Hong Kong": 374338.21
+        },
+        "expedite_surcharge_markup": 0.34,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.03,
+            "11-20": 0.06,
+            "21+": 0.11
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.95,
+            "Tier2": 1,
+            "Tier3": 1.06
+        }
+    },
+    {
+        "part_number": "PART-70928-98",
+        "base_cost_GBP": 415704.02,
+        "regional_pricing_variations": {
+            "London": 418698.13,
+            "Frankfurt": 419159.49,
+            "Dubai": 442399.19,
+            "Singapore": 447686.26,
+            "New York": 404985.49,
+            "Hong Kong": 433255.02
+        },
+        "expedite_surcharge_markup": 0.44,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.07,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.9,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-37069-39",
+        "base_cost_GBP": 301278.85,
+        "regional_pricing_variations": {
+            "London": 312915.6,
+            "Frankfurt": 296807.17,
+            "Dubai": 313422.5,
+            "Singapore": 318916.66,
+            "New York": 302108.0,
+            "Hong Kong": 309718.96
+        },
+        "expedite_surcharge_markup": 0.49,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.05,
+            "11-20": 0.06,
+            "21+": 0.15
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.07
+        }
+    },
+    {
+        "part_number": "PART-85056-69",
+        "base_cost_GBP": 3073.28,
+        "regional_pricing_variations": {
+            "London": 3114.75,
+            "Frankfurt": 3063.88,
+            "Dubai": 3168.22,
+            "Singapore": 3274.4,
+            "New York": 3143.31,
+            "Hong Kong": 3211.42
+        },
+        "expedite_surcharge_markup": 0.44,
+        "volume_discounts": {
+            "1-5": 0,
+            "6-10": 0.04,
+            "11-20": 0.08,
+            "21+": 0.13
+        },
+        "customer_specific_pricing_tiers": {
+            "Tier1": 0.94,
+            "Tier2": 1,
+            "Tier3": 1.09
+        }
+    }
+]

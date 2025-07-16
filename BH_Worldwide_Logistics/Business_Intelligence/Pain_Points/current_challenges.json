@@ -1,0 +1,41 @@
+{
+  "primary_pain_points": {
+    "slow_response_time": {
+      "current_avg": "105 minutes",
+      "target": "20 minutes",
+      "improvement_needed": "80%",
+      "impact": "High customer dissatisfaction"
+    },
+    "lost_opportunities": {
+      "monthly_lost_quotes": 45,
+      "average_quote_value": "€18,500",
+      "monthly_lost_revenue": "€832,500",
+      "annual_lost_revenue": "€9.99M"
+    },
+    "manual_processes": {
+      "pricing_calculations": "35 minutes average",
+      "inventory_checks": "15 minutes average",
+      "route_planning": "20 minutes average",
+      "quote_generation": "12 minutes average"
+    },
+    "system_inefficiencies": {
+      "multiple_logins": "8 different systems",
+      "data_duplication": "Manual entry required",
+      "no_integration": "Siloed information",
+      "limited_automation": "10% of process automated"
+    }
+  },
+  "financial_impact": {
+    "direct_costs": {
+      "overtime_staff": "€245,000/year",
+      "system_maintenance": "€180,000/year",
+      "training_costs": "€95,000/year"
+    },
+    "opportunity_costs": {
+      "lost_revenue": "€9.99M/year",
+      "customer_churn": "€2.1M/year",
+      "reputation_damage": "€850,000/year"
+    },
+    "total_annual_impact": "€13.46M"
+  }
+}

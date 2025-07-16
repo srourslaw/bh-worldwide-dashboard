@@ -1,0 +1,79 @@
+{
+  "company_financial_data": {
+    "statement_type": "Income Statement",
+    "fiscal_periods": [
+      "Mar-31-2019",
+      "Mar-31-2020",
+      "Mar-31-2021",
+      "Mar-31-2022",
+      "Mar-31-2023",
+      "Mar-31-2024"
+    ],
+    "currency": "GBP",
+    "consolidation_status": "Unconsolidated",
+    "financial_data": {
+      "revenue": {
+        "revenue": [17.4, 18.8, 9.4, 11.4, 16.6, 16.0],
+        "total_revenue": [17.4, 18.8, 9.4, 11.4, 16.6, 16.0],
+        "net_sales": [17.4, 18.8, 9.4, 11.4, 16.6, 16.0]
+      },
+      "costs_and_expenses": {
+        "cost_of_goods_sold": [12.8, 13.7, 7.0, 8.2, 11.9, 10.9],
+        "cost_of_sales": [12.8, 13.7, 7.0, 8.2, 11.9, 10.9],
+        "selling_general_admin_exp": [4.5, 4.7, null, null, null, null],
+        "general_expenses": [4.5, 4.7, null, null, null, null],
+        "general_and_administrative_exp": [4.5, 4.7, null, null, null, null],
+        "depreciation_amort": [null, null, 0.0, 0.0, 0.0, 0.1],
+        "fixed_asset_depreciation_amortization": [0.1, 0.1, null, null, null, null],
+        "amort_goodwill_intangibles": [null, null, null, null, null, null],
+        "other_operating_expense_income": [-0.8, -0.7, null, null, 3.7, 4.1],
+        "other_operating_exp_total": [3.7, 4.0, 0.0, 0.0, 3.8, 4.1]
+      },
+      "profitability": {
+        "gross_profit": [4.6, 5.1, 2.4, 3.3, 4.7, 5.2],
+        "operating_income": [0.8, 1.1, 2.3, 3.2, 0.9, 1.0],
+        "net_operating_income": [0.8, 1.1, null, null, 0.9, 1.0],
+        "ebitda": [0.9, 1.1, 2.4, 3.3, 1.0, 1.1],
+        "ebit": [0.8, 1.1, 2.3, 3.2, 0.9, 1.0]
+      },
+      "financial_items": {
+        "interest_expense": [-0.0, -0.0, null, null, null, null],
+        "interest_payable_on_loans": [0.0, 0.0, null, null, null, null],
+        "interest_and_invest_income": [null, null, null, null, null, null],
+        "interest_received_from_loans": [null, null, null, null, null, null],
+        "net_interest_exp": [-0.0, -0.0, null, null, null, null],
+        "total_financial_income": [null, null, null, null, null, null]
+      },
+      "other_income_items": {
+        "income_loss_from_affiliates": [null, null, null, null, null, null],
+        "income_received_from_associated_companies": [null, null, null, null, null, null],
+        "other_non_operating_inc_exp": [null, null, -2.6, -2.9, null, null],
+        "extraordinary_result": [null, null, null, null, null, null]
+      },
+      "pre_tax_earnings": {
+        "ebt_excl_unusual_items": [0.8, 1.1, -0.3, 0.3, 0.9, 1.0],
+        "other_unusual_items": [null, null, null, null, null, null],
+        "ebt_incl_unusual_items": [0.8, 1.1, -0.3, 0.3, 0.9, 1.0],
+        "profit_before_tax": [0.8, 1.1, -0.3, 0.3, 0.9, 1.0]
+      },
+      "tax_and_final_earnings": {
+        "income_tax_expense": [0.0, 0.1, -0.1, 0.0, 0.1, 0.2],
+        "total_tax": [null, 0.1, 0.1, -0.0, -0.1, -0.2],
+        "other_taxes": [0.0, 0.0, null, null, null, null],
+        "minority_int_in_earnings": [null, null, null, null, null, null],
+        "profit_attributed_to_minority_interest": [null, null, null, null, null, null]
+      },
+      "net_earnings": {
+        "earnings_from_cont_ops": [0.8, 1.0, -0.2, 0.3, 0.8, 0.8],
+        "net_income": [0.8, 1.0, -0.2, 0.3, 0.8, 0.8],
+        "profit_after_tax": [null, null, -0.2, 0.3, 0.8, 0.8],
+        "profit_after_tax_before_extraordinary": [0.8, 1.0, null, null, null, null],
+        "net_profit": [0.8, 1.0, null, null, null, null]
+      },
+      "payroll_information": {
+        "total_payroll_costs": [2.5, 2.5, 2.0, 1.8, 2.3, null],
+        "salaries": [null, null, 1.8, 1.6, 2.1, null]
+      }
+    }
+  }
+}

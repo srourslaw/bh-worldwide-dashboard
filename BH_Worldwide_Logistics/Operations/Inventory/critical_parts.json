@@ -1,0 +1,38 @@
+{
+  "critical_inventory": [
+    {
+      "part_number": "9524M31G03",
+      "description": "Engine Fan Blade CFM56-7B26",
+      "category": "Engine Components",
+      "aircraft_types": ["Boeing 737-800", "Boeing 737-900"],
+      "current_stock": {
+        "london": 3,
+        "frankfurt": 2,
+        "dubai": 1,
+        "singapore": 2
+      },
+      "unit_cost": "€125,000",
+      "lead_time_days": 45,
+      "criticality": "High",
+      "monthly_demand": 12,
+      "suppliers": ["CFM International", "Pratt & Whitney"]
+    },
+    {
+      "part_number": "LG78945-02",
+      "description": "Landing Gear Actuator A320",
+      "category": "Landing Gear",
+      "aircraft_types": ["Airbus A320", "Airbus A319"],
+      "current_stock": {
+        "london": 5,
+        "frankfurt": 3,
+        "dubai": 2,
+        "singapore": 4
+      },
+      "unit_cost": "€89,000",
+      "lead_time_days": 30,
+      "criticality": "High",
+      "monthly_demand": 8,
+      "suppliers": ["Safran Landing Systems", "Liebherr"]
+    }
+  ]
+}

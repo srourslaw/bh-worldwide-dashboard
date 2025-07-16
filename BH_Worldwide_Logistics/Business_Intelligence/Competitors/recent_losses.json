@@ -1,0 +1,37 @@
+{
+  "recent_competitive_losses": [
+    {
+      "date": "2025-07-10",
+      "customer": "British Airways",
+      "part": "APU Starter",
+      "quote_value": "€85,000",
+      "our_response_time": "118 minutes",
+      "competitor": "Expeditors",
+      "competitor_response_time": "22 minutes",
+      "loss_reason": "Too slow to respond",
+      "customer_feedback": "We needed the quote within 30 minutes"
+    },
+    {
+      "date": "2025-07-08",
+      "customer": "KLM",
+      "part": "Engine Control Unit",
+      "quote_value": "€156,000",
+      "our_response_time": "95 minutes",
+      "competitor": "Chapman Freeborn",
+      "competitor_response_time": "28 minutes",
+      "loss_reason": "Pricing delays",
+      "customer_feedback": "Competitor had quote ready before we responded"
+    },
+    {
+      "date": "2025-07-06",
+      "customer": "Turkish Airlines",
+      "part": "Hydraulic Pump",
+      "quote_value": "€72,000",
+      "our_response_time": "125 minutes",
+      "competitor": "Kuehne + Nagel",
+      "competitor_response_time": "35 minutes",
+      "loss_reason": "Manual process delays",
+      "customer_feedback": "Your system seems outdated compared to competitors"
+    }
+  ]
+}

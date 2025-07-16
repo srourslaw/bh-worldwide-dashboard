@@ -1,0 +1,224 @@
+{
+  "recent_competitive_losses": [
+    {
+      "date": "2025-05-21",
+      "customer": "KLM",
+      "part": "Pressure Sensor",
+      "quote_value": "\u20ac77,849",
+      "our_response_time": "97 minutes",
+      "competitor": "Kuehne + Nagel",
+      "competitor_response_time": "26 minutes",
+      "loss_reason": "Too slow to respond",
+      "customer_feedback": "Your system seems outdated compared to competitors"
+    },
+    {
+      "date": "2025-06-05",
+      "customer": "Austrian Airlines",
+      "part": "Engine Fan Blade",
+      "quote_value": "\u20ac140,081",
+      "our_response_time": "158 minutes",
+      "competitor": "Kuehne + Nagel",
+      "competitor_response_time": "41 minutes",
+      "loss_reason": "Manual process delays",
+      "customer_feedback": "Response time not competitive enough"
+    },
+    {
+      "date": "2025-05-25",
+      "customer": "KLM",
+      "part": "Transponder",
+      "quote_value": "\u20ac122,900",
+      "our_response_time": "113 minutes",
+      "competitor": "UPS Healthcare",
+      "competitor_response_time": "42 minutes",
+      "loss_reason": "Pricing delays",
+      "customer_feedback": "Your system seems outdated compared to competitors"
+    },
+    {
+      "date": "2025-07-03",
+      "customer": "Icelandair",
+      "part": "Oil Pump",
+      "quote_value": "\u20ac171,668",
+      "our_response_time": "112 minutes",
+      "competitor": "Kuehne + Nagel",
+      "competitor_response_time": "40 minutes",
+      "loss_reason": "System inefficiencies",
+      "customer_feedback": "Too many manual steps in your process"
+    },
+    {
+      "date": "2025-04-14",
+      "customer": "Emirates",
+      "part": "Actuator",
+      "quote_value": "\u20ac298,746",
+      "our_response_time": "179 minutes",
+      "competitor": "Chapman Freeborn",
+      "competitor_response_time": "27 minutes",
+      "loss_reason": "Competitive response time",
+      "customer_feedback": "Too many manual steps in your process"
+    },
+    {
+      "date": "2025-04-25",
+      "customer": "Finnair",
+      "part": "Transponder",
+      "quote_value": "\u20ac25,410",
+      "our_response_time": "105 minutes",
+      "competitor": "DHL Aviation",
+      "competitor_response_time": "40 minutes",
+      "loss_reason": "Pricing delays",
+      "customer_feedback": "We needed the quote within 30 minutes"
+    },
+    {
+      "date": "2025-05-16",
+      "customer": "American Airlines",
+      "part": "Oil Pump",
+      "quote_value": "\u20ac194,491",
+      "our_response_time": "178 minutes",
+      "competitor": "UPS Healthcare",
+      "competitor_response_time": "25 minutes",
+      "loss_reason": "Manual process delays",
+      "customer_feedback": "We needed the quote within 30 minutes"
+    },
+    {
+      "date": "2025-07-04",
+      "customer": "British Airways",
+      "part": "TCAS Unit",
+      "quote_value": "\u20ac26,239",
+      "our_response_time": "133 minutes",
+      "competitor": "Expeditors International",
+      "competitor_response_time": "39 minutes",
+      "loss_reason": "System inefficiencies",
+      "customer_feedback": "Competitor had quote ready before we responded"
+    },
+    {
+      "date": "2025-07-07",
+      "customer": "American Airlines",
+      "part": "Brake Assembly",
+      "quote_value": "\u20ac236,843",
+      "our_response_time": "161 minutes",
+      "competitor": "Kuehne + Nagel",
+      "competitor_response_time": "17 minutes",
+      "loss_reason": "Too slow to respond",
+      "customer_feedback": "Too many manual steps in your process"
+    },
+    {
+      "date": "2025-06-25",
+      "customer": "Ryanair",
+      "part": "Landing Gear Actuator",
+      "quote_value": "\u20ac218,713",
+      "our_response_time": "161 minutes",
+      "competitor": "UPS Healthcare",
+      "competitor_response_time": "21 minutes",
+      "loss_reason": "Too slow to respond",
+      "customer_feedback": "Response time not competitive enough"
+    },
+    {
+      "date": "2025-06-08",
+      "customer": "Norwegian Air",
+      "part": "Fuel Injector",
+      "quote_value": "\u20ac182,006",
+      "our_response_time": "98 minutes",
+      "competitor": "DHL Aviation",
+      "competitor_response_time": "21 minutes",
+      "loss_reason": "Better competitor pricing",
+      "customer_feedback": "Too many manual steps in your process"
+    },
+    {
+      "date": "2025-05-15",
+      "customer": "Icelandair",
+      "part": "Brake Assembly",
+      "quote_value": "\u20ac279,755",
+      "our_response_time": "170 minutes",
+      "competitor": "UPS Healthcare",
+      "competitor_response_time": "24 minutes",
+      "loss_reason": "System inefficiencies",
+      "customer_feedback": "Response time not competitive enough"
+    },
+    {
+      "date": "2025-05-14",
+      "customer": "SAS",
+      "part": "Transponder",
+      "quote_value": "\u20ac284,036",
+      "our_response_time": "178 minutes",
+      "competitor": "Expeditors International",
+      "competitor_response_time": "36 minutes",
+      "loss_reason": "Too slow to respond",
+      "customer_feedback": "We needed the quote within 30 minutes"
+    },
+    {
+      "date": "2025-06-03",
+      "customer": "Virgin Atlantic",
+      "part": "Thrust Reverser",
+      "quote_value": "\u20ac118,706",
+      "our_response_time": "98 minutes",
+      "competitor": "Expeditors International",
+      "competitor_response_time": "37 minutes",
+      "loss_reason": "Manual process delays",
+      "customer_feedback": "Response time not competitive enough"
+    },
+    {
+      "date": "2025-06-02",
+      "customer": "Norwegian Air",
+      "part": "Tire",
+      "quote_value": "\u20ac143,105",
+      "our_response_time": "131 minutes",
+      "competitor": "Expeditors International",
+      "competitor_response_time": "22 minutes",
+      "loss_reason": "Manual process delays",
+      "customer_feedback": "Your system seems outdated compared to competitors"
+    },
+    {
+      "date": "2025-06-02",
+      "customer": "Emirates",
+      "part": "Turbine Blade",
+      "quote_value": "\u20ac286,622",
+      "our_response_time": "92 minutes",
+      "competitor": "Chapman Freeborn",
+      "competitor_response_time": "24 minutes",
+      "loss_reason": "Too slow to respond",
+      "customer_feedback": "Competitor had quote ready before we responded"
+    },
+    {
+      "date": "2025-04-29",
+      "customer": "Finnair",
+      "part": "Oil Pump",
+      "quote_value": "\u20ac277,069",
+      "our_response_time": "165 minutes",
+      "competitor": "UPS Healthcare",
+      "competitor_response_time": "28 minutes",
+      "loss_reason": "Competitive response time",
+      "customer_feedback": "Your system seems outdated compared to competitors"
+    },
+    {
+      "date": "2025-06-27",
+      "customer": "Swiss International",
+      "part": "Reservoir",
+      "quote_value": "\u20ac171,839",
+      "our_response_time": "111 minutes",
+      "competitor": "DHL Aviation",
+      "competitor_response_time": "28 minutes",
+      "loss_reason": "Too slow to respond",
+      "customer_feedback": "Competitor had quote ready before we responded"
+    },
+    {
+      "date": "2025-06-05",
+      "customer": "SAS",
+      "part": "Transponder",
+      "quote_value": "\u20ac173,771",
+      "our_response_time": "85 minutes",
+      "competitor": "Kuehne + Nagel",
+      "competitor_response_time": "42 minutes",
+      "loss_reason": "Better competitor pricing",
+      "customer_feedback": "We needed the quote within 30 minutes"
+    },
+    {
+      "date": "2025-05-30",
+      "customer": "Virgin Atlantic",
+      "part": "Tire",
+      "quote_value": "\u20ac76,245",
+      "our_response_time": "106 minutes",
+      "competitor": "Chapman Freeborn",
+      "competitor_response_time": "37 minutes",
+      "loss_reason": "Better competitor pricing",
+      "customer_feedback": "Too many manual steps in your process"
+    }
+  ]
+}

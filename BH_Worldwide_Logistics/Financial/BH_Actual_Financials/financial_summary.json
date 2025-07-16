@@ -1,0 +1,172 @@
+{
+  "company_financial_data": {
+    "statement_type": "Financial Summary",
+    "fiscal_periods": [
+      "Mar-31-2019",
+      "Mar-31-2020",
+      "Mar-31-2021",
+      "Mar-31-2022",
+      "Mar-31-2023",
+      "Mar-31-2024"
+    ],
+    "currency": "GBP",
+    "consolidation_status": "Unconsolidated",
+    "executive_summary": {
+      "business_overview": {
+        "revenue_range_gbp_millions": [9.4, 18.8],
+        "latest_revenue_gbp_millions": 16.0,
+        "revenue_trend": "Volatile with recovery trend",
+        "profitability_status": "Generally profitable with one loss year",
+        "asset_base_gbp_millions": 5.5,
+        "debt_free_status": "Essentially debt-free since 2023"
+      },
+      "key_financial_highlights": {
+        "revenue_performance": {
+          "peak_revenue_year": "Mar-31-2020",
+          "peak_revenue_amount": 18.8,
+          "lowest_revenue_year": "Mar-31-2021",
+          "lowest_revenue_amount": 9.4,
+          "latest_year_change": -3.7,
+          "revenue_volatility": "High - 50% decline followed by recovery"
+        },
+        "profitability_metrics": {
+          "gross_margin_range": [25.1, 32.2],
+          "latest_gross_margin": 32.2,
+          "net_margin_range": [-2.6, 5.1],
+          "latest_net_margin": 4.9,
+          "loss_year": "Mar-31-2021",
+          "profitability_trend": "Improving margins despite revenue decline"
+        },
+        "financial_strength": {
+          "cash_position_gbp_millions": 1.3,
+          "total_assets_gbp_millions": 5.5,
+          "equity_ratio": 36.4,
+          "debt_to_equity_ratio": 0.0,
+          "current_ratio": 1.6,
+          "financial_stability": "Strong balance sheet with minimal debt"
+        }
+      }
+    },
+    "performance_analysis": {
+      "revenue_analysis": {
+        "year_over_year_growth": [21.9, 8.5, -50.2, 22.0, 45.4, -3.7],
+        "three_year_cagr": [20.1, 15.4, -13.0, -13.0, -4.1, 19.6],
+        "revenue_stability": "Highly volatile",
+        "growth_pattern": "Recovery from 2021 low, recent slight decline"
+      },
+      "profitability_analysis": {
+        "gross_profit_trend": "Improving - margins expanding",
+        "operating_efficiency": "Variable due to fixed cost structure",
+        "net_income_volatility": "High - one loss year followed by recovery",
+        "margin_expansion": "Gross margins improved from 25.1% to 32.2%",
+        "cost_management": "Effective - maintaining profitability despite revenue decline"
+      },
+      "financial_position": {
+        "asset_quality": "Strong current asset base",
+        "liquidity_position": "Adequate - current ratio consistently above 1.5x",
+        "leverage": "Conservative - minimal debt usage",
+        "working_capital": "Positive and stable",
+        "cash_generation": "Profitable operations generate cash"
+      },
+      "efficiency_metrics": {
+        "asset_turnover": "High - ranging from 1.9x to 4.0x",
+        "receivables_management": "Reasonable - 46-100 days sales outstanding",
+        "inventory_management": "Not applicable - no inventory",
+        "fixed_asset_utilization": "Excellent - very high fixed asset turnover"
+      }
+    },
+    "risk_assessment": {
+      "strengths": [
+        "Strong balance sheet with minimal debt",
+        "Improving gross margins",
+        "Positive cash generation",
+        "Flexible cost structure",
+        "Strong return on assets when profitable"
+      ],
+      "concerns": [
+        "High revenue volatility",
+        "Dependence on market conditions",
+        "Small absolute size limits resources",
+        "Recent revenue decline",
+        "Inconsistent profitability"
+      ],
+      "risk_factors": [
+        "Revenue concentration risk",
+        "Market cyclicality",
+        "Scale limitations",
+        "Competitive pressures"
+      ]
+    },
+    "financial_ratios_summary": {
+      "profitability_ratios": {
+        "roa_latest": 11.8,
+        "roe_latest": 34.8,
+        "gross_margin_latest": 32.2,
+        "net_margin_latest": 4.9,
+        "trend": "Stable profitability with improving margins"
+      },
+      "liquidity_ratios": {
+        "current_ratio_latest": 1.6,
+        "quick_ratio_latest": 1.1,
+        "cash_conversion_cycle_latest": 0.5,
+        "liquidity_assessment": "Adequate short-term liquidity"
+      },
+      "leverage_ratios": {
+        "debt_to_equity_latest": 0.0,
+        "debt_to_assets_latest": 0.0,
+        "interest_coverage": "Not applicable - minimal debt",
+        "leverage_assessment": "Conservative capital structure"
+      },
+      "efficiency_ratios": {
+        "asset_turnover_latest": 3.0,
+        "receivables_turnover_latest": 7.1,
+        "days_sales_outstanding_latest": 51.5,
+        "efficiency_assessment": "Good asset utilization"
+      }
+    },
+    "outlook_and_recommendations": {
+      "key_observations": [
+        "Company shows resilience after 2021 difficulties",
+        "Margin improvement suggests operational efficiency gains",
+        "Strong financial position provides flexibility",
+        "Revenue volatility remains a concern"
+      ],
+      "strategic_considerations": [
+        "Revenue diversification needed",
+        "Market expansion opportunities",
+        "Working capital optimization",
+        "Investment in growth initiatives"
+      ],
+      "financial_management_priorities": [
+        "Maintain strong balance sheet",
+        "Improve revenue predictability",
+        "Optimize working capital efficiency",
+        "Monitor cash conversion cycle"
+      ]
+    },
+    "key_metrics_dashboard": {
+      "latest_year_metrics": {
+        "revenue_gbp_millions": 16.0,
+        "gross_profit_gbp_millions": 5.2,
+        "net_income_gbp_millions": 0.8,
+        "total_assets_gbp_millions": 5.5,
+        "shareholders_equity_gbp_millions": 2.0,
+        "cash_gbp_millions": 1.3,
+        "gross_margin_percent": 32.2,
+        "net_margin_percent": 4.9,
+        "roe_percent": 34.8,
+        "roa_percent": 11.8,
+        "current_ratio": 1.6,
+        "debt_to_equity_ratio": 0.0
+      },
+      "five_year_averages": {
+        "average_revenue": 14.6,
+        "average_gross_margin": 28.0,
+        "average_net_margin": 2.5,
+        "average_roe": 32.6,
+        "average_roa": 21.1,
+        "average_current_ratio": 1.7
+      }
+    }
+  }
+}

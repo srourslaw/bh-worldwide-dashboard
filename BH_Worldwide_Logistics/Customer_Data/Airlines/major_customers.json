@@ -1,0 +1,58 @@
+{
+  "major_airline_customers": [
+    {
+      "customer_id": "CUST-001",
+      "name": "Ryanair",
+      "iata_code": "FR",
+      "headquarters": "Dublin, Ireland",
+      "fleet_size": 485,
+      "annual_aog_volume": "€8.5M",
+      "response_time_sla": "45 minutes",
+      "payment_terms": "Net 30",
+      "priority_level": "Platinum",
+      "typical_parts": ["Engine components", "Landing gear", "Avionics"],
+      "main_hubs": ["DUB", "STN", "BGY", "BVA"],
+      "contact": {
+        "aog_manager": "Sean O'Connor",
+        "email": "aog@ryanair.com",
+        "phone": "+353-1-9451212"
+      }
+    },
+    {
+      "customer_id": "CUST-002",
+      "name": "Lufthansa",
+      "iata_code": "LH",
+      "headquarters": "Frankfurt, Germany",
+      "fleet_size": 342,
+      "annual_aog_volume": "€12.2M",
+      "response_time_sla": "30 minutes",
+      "payment_terms": "Net 15",
+      "priority_level": "Platinum",
+      "typical_parts": ["Engines", "APU", "Flight controls"],
+      "main_hubs": ["FRA", "MUC", "ZUR", "VIE"],
+      "contact": {
+        "aog_manager": "Klaus Mueller",
+        "email": "aog@lufthansa.com",
+        "phone": "+49-69-696-0"
+      }
+    },
+    {
+      "customer_id": "CUST-003",
+      "name": "Emirates",
+      "iata_code": "EK",
+      "headquarters": "Dubai, UAE",
+      "fleet_size": 275,
+      "annual_aog_volume": "€15.8M",
+      "response_time_sla": "20 minutes",
+      "payment_terms": "Net 7",
+      "priority_level": "Diamond",
+      "typical_parts": ["Wide-body engines", "Cabin systems", "Navigation"],
+      "main_hubs": ["DXB", "DWC"],
+      "contact": {
+        "aog_manager": "Ahmed Al-Mansoori",
+        "email": "aog@emirates.com",
+        "phone": "+971-4-214-4444"
+      }
+    }
+  ]
+}

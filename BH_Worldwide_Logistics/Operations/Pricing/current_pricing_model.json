@@ -1,0 +1,43 @@
+{
+  "pricing_components": {
+    "base_handling_fee": {
+      "domestic": 150,
+      "international": 250,
+      "currency": "EUR"
+    },
+    "transport_rates": {
+      "air_freight": {
+        "europe": 8.5,
+        "north_america": 12.0,
+        "asia_pacific": 15.5,
+        "per_kg": true
+      },
+      "road_freight": {
+        "local": 2.5,
+        "regional": 4.0,
+        "per_km": true
+      }
+    },
+    "expedite_charges": {
+      "same_day": 0.35,
+      "next_flight_out": 0.25,
+      "express": 0.15,
+      "percentage_of_base": true
+    },
+    "insurance_rates": {
+      "standard": 0.008,
+      "high_value": 0.012,
+      "percentage_of_part_value": true
+    },
+    "customs_handling": {
+      "eu_internal": 45,
+      "eu_external": 125,
+      "complex_customs": 200
+    }
+  },
+  "competitor_intelligence": {
+    "average_response_time": "28 minutes",
+    "pricing_advantage": "-8% to -12%",
+    "common_expedite_rates": "20-30% markup"
+  }
+}

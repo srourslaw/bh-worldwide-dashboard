@@ -1,0 +1,46 @@
+{
+  "lost_opportunities_2025": {
+    "january": {
+      "lost_quotes": 35,
+      "total_value": "\u20ac577,038",
+      "avg_response_time": "104 minutes",
+      "competitor_wins": 33,
+      "main_reason": "Slow response time"
+    },
+    "february": {
+      "lost_quotes": 39,
+      "total_value": "\u20ac743,987",
+      "avg_response_time": "103 minutes",
+      "competitor_wins": 38,
+      "main_reason": "Pricing delays"
+    },
+    "march": {
+      "lost_quotes": 37,
+      "total_value": "\u20ac677,282",
+      "avg_response_time": "119 minutes",
+      "competitor_wins": 37,
+      "main_reason": "Competitive response time"
+    },
+    "april": {
+      "lost_quotes": 53,
+      "total_value": "\u20ac849,407",
+      "avg_response_time": "111 minutes",
+      "competitor_wins": 43,
+      "main_reason": "Competitive response time"
+    },
+    "may": {
+      "lost_quotes": 42,
+      "total_value": "\u20ac944,024",
+      "avg_response_time": "96 minutes",
+      "competitor_wins": 44,
+      "main_reason": "Manual processes"
+    },
+    "june": {
+      "lost_quotes": 49,
+      "total_value": "\u20ac954,298",
+      "avg_response_time": "91 minutes",
+      "competitor_wins": 48,
+      "main_reason": "Slow response time"
+    }
+  }
+}

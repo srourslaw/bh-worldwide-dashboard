@@ -1,0 +1,39 @@
+{
+  "active_aog_cases": [
+    {
+      "case_id": "AOG-2025-001",
+      "aircraft": "Boeing 737-800",
+      "tail_number": "EI-DCP",
+      "airline": "Ryanair",
+      "location": "Dublin Airport (DUB)",
+      "part_needed": "Engine Fan Blade (CFM56-7B26)",
+      "part_number": "9524M31G03",
+      "urgency": "Critical",
+      "grounded_since": "2025-07-12T06:30:00Z",
+      "estimated_loss_per_hour": "€12,500",
+      "total_loss_so_far": "€75,000",
+      "quote_requested": "2025-07-12T07:00:00Z",
+      "quote_deadline": "2025-07-12T08:00:00Z",
+      "status": "Pricing in progress",
+      "elapsed_time": "90 minutes"
+    },
+    {
+      "case_id": "AOG-2025-002",
+      "aircraft": "Airbus A320",
+      "tail_number": "D-AIZR",
+      "airline": "Lufthansa",
+      "location": "Frankfurt Airport (FRA)",
+      "part_needed": "Landing Gear Actuator",
+      "part_number": "LG78945-02",
+      "urgency": "High",
+      "grounded_since": "2025-07-12T04:15:00Z",
+      "estimated_loss_per_hour": "€15,000",
+      "total_loss_so_far": "€180,000",
+      "quote_requested": "2025-07-12T05:00:00Z",
+      "quote_deadline": "2025-07-12T06:30:00Z",
+      "status": "Lost to competitor",
+      "competitor_response_time": "28 minutes",
+      "our_response_time": "95 minutes"
+    }
+  ]
+}

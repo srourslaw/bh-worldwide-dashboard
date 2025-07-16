@@ -1,0 +1,1944 @@
+[
+    {
+        "part_number": "PRATT-93746-89",
+        "description": "Cabin Interior component for Boeing 767",
+        "compatible_aircraft_types": [
+            "Embraer E190",
+            "Airbus A350",
+            "Boeing 787"
+        ],
+        "category": "Cabin Interior",
+        "criticality_level": "High",
+        "lead_time": "95 hours",
+        "weight_kg": 472.69,
+        "dimensions_m": "0.77x1.9x4.73m"
+    },
+    {
+        "part_number": "BOE-18510-25",
+        "description": "Navigation component for Embraer E190",
+        "compatible_aircraft_types": [
+            "Airbus A320",
+            "Airbus A340",
+            "Boeing 737"
+        ],
+        "category": "Navigation",
+        "criticality_level": "Critical",
+        "lead_time": "77 hours",
+        "weight_kg": 195.83,
+        "dimensions_m": "2.6x4.11x3.79m"
+    },
+    {
+        "part_number": "SAFR-20159-69",
+        "description": "Avionics component for Airbus A340",
+        "compatible_aircraft_types": [
+            "Boeing 777"
+        ],
+        "category": "Avionics",
+        "criticality_level": "High",
+        "lead_time": "89 days",
+        "weight_kg": 251.54,
+        "dimensions_m": "1.45x0.45x4.84m"
+    },
+    {
+        "part_number": "SAFR-28505-14",
+        "description": "Structures component for Boeing 747",
+        "compatible_aircraft_types": [
+            "Embraer E190",
+            "Airbus A340"
+        ],
+        "category": "Structures",
+        "criticality_level": "Low",
+        "lead_time": "65 days",
+        "weight_kg": 76.08,
+        "dimensions_m": "4.57x2.75x4.21m"
+    },
+    {
+        "part_number": "BOE-10214-97",
+        "description": "Cabin Interior component for ATR 72",
+        "compatible_aircraft_types": [
+            "Airbus A350",
+            "Airbus A380",
+            "Boeing 747"
+        ],
+        "category": "Cabin Interior",
+        "criticality_level": "Low",
+        "lead_time": "61 hours",
+        "weight_kg": 464.29,
+        "dimensions_m": "4.3x4.35x2.68m"
+    },
+    {
+        "part_number": "RR-88460-55",
+        "description": "Electrical System component for Boeing 767",
+        "compatible_aircraft_types": [
+            "Airbus A340",
+            "Bombardier CRJ900"
+        ],
+        "category": "Electrical System",
+        "criticality_level": "High",
+        "lead_time": "55 hours",
+        "weight_kg": 60.25,
+        "dimensions_m": "2.44x0.42x2.29m"
+    },
+    {
+        "part_number": "RR-92114-94",
+        "description": "Navigation component for Bombardier CRJ900",
+        "compatible_aircraft_types": [
+            "Airbus A340"
+        ],
+        "category": "Navigation",
+        "criticality_level": "Medium",
+        "lead_time": "4 weeks",
+        "weight_kg": 268.74,
+        "dimensions_m": "1.35x3.26x4.45m"
+    },
+    {
+        "part_number": "AIR-46949-60",
+        "description": "Avionics component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Bombardier CRJ900"
+        ],
+        "category": "Avionics",
+        "criticality_level": "Medium",
+        "lead_time": "36 weeks",
+        "weight_kg": 367.1,
+        "dimensions_m": "0.27x4.05x3.25m"
+    },
+    {
+        "part_number": "RR-75473-92",
+        "description": "Landing Gear component for Bombardier CRJ900",
+        "compatible_aircraft_types": [
+            "Embraer E190",
+            "Boeing 767"
+        ],
+        "category": "Landing Gear",
+        "criticality_level": "Low",
+        "lead_time": "8 hours",
+        "weight_kg": 281.52,
+        "dimensions_m": "3.07x2.01x2.62m"
+    },
+    {
+        "part_number": "RR-11367-78",
+        "description": "Hydraulics component for Airbus A340",
+        "compatible_aircraft_types": [
+            "Boeing 737"
+        ],
+        "category": "Hydraulics",
+        "criticality_level": "Medium",
+        "lead_time": "57 hours",
+        "weight_kg": 212.51,
+        "dimensions_m": "4.71x0.88x0.68m"
+    },
+    {
+        "part_number": "UTC-30470-86",
+        "description": "Flight Controls component for Airbus A330",
+        "compatible_aircraft_types": [
+            "Airbus A330",
+            "Airbus A350"
+        ],
+        "category": "Flight Controls",
+        "criticality_level": "Low",
+        "lead_time": "31 weeks",
+        "weight_kg": 17.16,
+        "dimensions_m": "0.98x1.17x3.29m"
+    },
+    {
+        "part_number": "HON-67343-18",
+        "description": "Hydraulics component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Airbus A330"
+        ],
+        "category": "Hydraulics",
+        "criticality_level": "Critical",
+        "lead_time": "60 hours",
+        "weight_kg": 169.06,
+        "dimensions_m": "0.14x1.41x0.87m"
+    },
+    {
+        "part_number": "UTC-87655-77",
+        "description": "Structures component for Boeing 737",
+        "compatible_aircraft_types": [
+            "Bombardier CRJ900"
+        ],
+        "category": "Structures",
+        "criticality_level": "Medium",
+        "lead_time": "11 days",
+        "weight_kg": 90.38,
+        "dimensions_m": "1.65x4.11x2.72m"
+    },
+    {
+        "part_number": "RR-49907-68",
+        "description": "APU component for Boeing 737",
+        "compatible_aircraft_types": [
+            "Airbus A380",
+            "Bombardier CRJ900"
+        ],
+        "category": "APU",
+        "criticality_level": "Critical",
+        "lead_time": "76 days",
+        "weight_kg": 376.85,
+        "dimensions_m": "3.88x3.84x4.92m"
+    },
+    {
+        "part_number": "GEA-41147-55",
+        "description": "Cabin Interior component for Embraer E190",
+        "compatible_aircraft_types": [
+            "Airbus A320"
+        ],
+        "category": "Cabin Interior",
+        "criticality_level": "Critical",
+        "lead_time": "98 days",
+        "weight_kg": 470.97,
+        "dimensions_m": "1.22x2.58x2.36m"
+    },
+    {
+        "part_number": "SAFR-60097-86",
+        "description": "Hydraulics component for Airbus A340",
+        "compatible_aircraft_types": [
+            "Airbus A340"
+        ],
+        "category": "Hydraulics",
+        "criticality_level": "High",
+        "lead_time": "59 hours",
+        "weight_kg": 55.41,
+        "dimensions_m": "0.48x2.48x3.03m"
+    },
+    {
+        "part_number": "PRATT-10376-20",
+        "description": "APU component for Bombardier CRJ900",
+        "compatible_aircraft_types": [
+            "Airbus A340",
+            "Airbus A350",
+            "Boeing 747"
+        ],
+        "category": "APU",
+        "criticality_level": "High",
+        "lead_time": "54 weeks",
+        "weight_kg": 34.32,
+        "dimensions_m": "3.53x4.27x2.73m"
+    },
+    {
+        "part_number": "RR-30532-49",
+        "description": "Cabin Interior component for Bombardier CRJ900",
+        "compatible_aircraft_types": [
+            "Airbus A340"
+        ],
+        "category": "Cabin Interior",
+        "criticality_level": "Medium",
+        "lead_time": "6 hours",
+        "weight_kg": 287.65,
+        "dimensions_m": "0.75x2.6x2.79m"
+    },
+    {
+        "part_number": "UTC-89207-74",
+        "description": "Environmental Control component for Boeing 747",
+        "compatible_aircraft_types": [
+            "ATR 72",
+            "Airbus A350"
+        ],
+        "category": "Environmental Control",
+        "criticality_level": "Low",
+        "lead_time": "11 hours",
+        "weight_kg": 387.89,
+        "dimensions_m": "3.45x2.26x4.72m"
+    },
+    {
+        "part_number": "ROC-20519-66",
+        "description": "Engine component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Boeing 787"
+        ],
+        "category": "Engine",
+        "criticality_level": "Critical",
+        "lead_time": "70 weeks",
+        "weight_kg": 101.81,
+        "dimensions_m": "0.16x0.31x2.21m"
+    },
+    {
+        "part_number": "GEA-26631-35",
+        "description": "Hydraulics component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Boeing 737",
+            "Airbus A320"
+        ],
+        "category": "Hydraulics",
+        "criticality_level": "Medium",
+        "lead_time": "59 weeks",
+        "weight_kg": 282.02,
+        "dimensions_m": "3.56x4.04x3.78m"
+    },
+    {
+        "part_number": "HON-89806-95",
+        "description": "Structures component for ATR 72",
+        "compatible_aircraft_types": [
+            "Boeing 787",
+            "Airbus A380",
+            "Airbus A320"
+        ],
+        "category": "Structures",
+        "criticality_level": "Medium",
+        "lead_time": "94 days",
+        "weight_kg": 368.01,
+        "dimensions_m": "1.61x4.9x2.96m"
+    },
+    {
+        "part_number": "AIR-27655-44",
+        "description": "Communication component for Airbus A340",
+        "compatible_aircraft_types": [
+            "Airbus A340",
+            "Boeing 747"
+        ],
+        "category": "Communication",
+        "criticality_level": "Low",
+        "lead_time": "25 weeks",
+        "weight_kg": 63.35,
+        "dimensions_m": "3.94x3.88x4.81m"
+    },
+    {
+        "part_number": "HON-84900-87",
+        "description": "Landing Gear component for Airbus A320",
+        "compatible_aircraft_types": [
+            "Airbus A330"
+        ],
+        "category": "Landing Gear",
+        "criticality_level": "High",
+        "lead_time": "25 hours",
+        "weight_kg": 419.76,
+        "dimensions_m": "4.84x3.42x2.31m"
+    },
+    {
+        "part_number": "UTC-76180-63",
+        "description": "Avionics component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Airbus A350",
+            "Boeing 767"
+        ],
+        "category": "Avionics",
+        "criticality_level": "Low",
+        "lead_time": "8 weeks",
+        "weight_kg": 38.04,
+        "dimensions_m": "4.63x4.4x3.92m"
+    },
+    {
+        "part_number": "GEA-32756-87",
+        "description": "Fuel System component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Airbus A380",
+            "Airbus A330",
+            "Boeing 787"
+        ],
+        "category": "Fuel System",
+        "criticality_level": "High",
+        "lead_time": "61 weeks",
+        "weight_kg": 199.44,
+        "dimensions_m": "0.23x1.37x4.86m"
+    },
+    {
+        "part_number": "SAFR-14468-73",
+        "description": "Cabin Interior component for ATR 72",
+        "compatible_aircraft_types": [
+            "Airbus A330"
+        ],
+        "category": "Cabin Interior",
+        "criticality_level": "Low",
+        "lead_time": "47 days",
+        "weight_kg": 37.85,
+        "dimensions_m": "2.27x1.78x2.73m"
+    },
+    {
+        "part_number": "GEA-37070-35",
+        "description": "Engine component for Airbus A330",
+        "compatible_aircraft_types": [
+            "ATR 72",
+            "Embraer E190",
+            "Airbus A380"
+        ],
+        "category": "Engine",
+        "criticality_level": "Low",
+        "lead_time": "2 days",
+        "weight_kg": 279.4,
+        "dimensions_m": "0.83x0.14x1.83m"
+    },
+    {
+        "part_number": "RR-11122-84",
+        "description": "Avionics component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Airbus A320"
+        ],
+        "category": "Avionics",
+        "criticality_level": "High",
+        "lead_time": "6 hours",
+        "weight_kg": 134.75,
+        "dimensions_m": "0.8x1.34x1.81m"
+    },
+    {
+        "part_number": "HON-11374-20",
+        "description": "Communication component for ATR 72",
+        "compatible_aircraft_types": [
+            "Boeing 787"
+        ],
+        "category": "Communication",
+        "criticality_level": "High",
+        "lead_time": "52 weeks",
+        "weight_kg": 429.6,
+        "dimensions_m": "4.57x0.68x2.48m"
+    },
+    {
+        "part_number": "AIR-68438-18",
+        "description": "Engine component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Boeing 747",
+            "Embraer E190",
+            "Boeing 737"
+        ],
+        "category": "Engine",
+        "criticality_level": "High",
+        "lead_time": "98 hours",
+        "weight_kg": 301.49,
+        "dimensions_m": "3.57x4.85x3.85m"
+    },
+    {
+        "part_number": "SAFR-86712-29",
+        "description": "Engine component for Boeing 787",
+        "compatible_aircraft_types": [
+            "Boeing 787"
+        ],
+        "category": "Engine",
+        "criticality_level": "High",
+        "lead_time": "44 days",
+        "weight_kg": 175.22,
+        "dimensions_m": "3.33x0.13x4.72m"
+    },
+    {
+        "part_number": "HON-23482-75",
+        "description": "Environmental Control component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Airbus A350"
+        ],
+        "category": "Environmental Control",
+        "criticality_level": "Low",
+        "lead_time": "50 weeks",
+        "weight_kg": 241.76,
+        "dimensions_m": "1.67x3.02x0.23m"
+    },
+    {
+        "part_number": "RR-31196-64",
+        "description": "Landing Gear component for ATR 72",
+        "compatible_aircraft_types": [
+            "Boeing 747",
+            "Boeing 767",
+            "Airbus A350"
+        ],
+        "category": "Landing Gear",
+        "criticality_level": "Low",
+        "lead_time": "4 days",
+        "weight_kg": 492.11,
+        "dimensions_m": "2.88x0.94x3.97m"
+    },
+    {
+        "part_number": "BOE-47341-53",
+        "description": "Fuel System component for Boeing 787",
+        "compatible_aircraft_types": [
+            "Boeing 787",
+            "ATR 72"
+        ],
+        "category": "Fuel System",
+        "criticality_level": "Low",
+        "lead_time": "85 days",
+        "weight_kg": 160.11,
+        "dimensions_m": "1.95x1.55x3.73m"
+    },
+    {
+        "part_number": "GEA-47364-63",
+        "description": "Cabin Interior component for Airbus A320",
+        "compatible_aircraft_types": [
+            "Boeing 787",
+            "Bombardier CRJ900",
+            "Boeing 767"
+        ],
+        "category": "Cabin Interior",
+        "criticality_level": "Medium",
+        "lead_time": "9 weeks",
+        "weight_kg": 263.44,
+        "dimensions_m": "0.93x3.03x3.97m"
+    },
+    {
+        "part_number": "SAFR-10716-28",
+        "description": "Structures component for Boeing 767",
+        "compatible_aircraft_types": [
+            "Boeing 787",
+            "Embraer E190",
+            "Airbus A350"
+        ],
+        "category": "Structures",
+        "criticality_level": "High",
+        "lead_time": "100 weeks",
+        "weight_kg": 30.31,
+        "dimensions_m": "2.4x3.04x0.73m"
+    },
+    {
+        "part_number": "ROC-28439-65",
+        "description": "Engine component for Boeing 767",
+        "compatible_aircraft_types": [
+            "Airbus A350"
+        ],
+        "category": "Engine",
+        "criticality_level": "Critical",
+        "lead_time": "92 hours",
+        "weight_kg": 129.54,
+        "dimensions_m": "2.66x4.6x2.79m"
+    },
+    {
+        "part_number": "GEA-84122-58",
+        "description": "Flight Controls component for Airbus A340",
+        "compatible_aircraft_types": [
+            "Boeing 787"
+        ],
+        "category": "Flight Controls",
+        "criticality_level": "Low",
+        "lead_time": "32 hours",
+        "weight_kg": 217.0,
+        "dimensions_m": "3.08x3.35x0.29m"
+    },
+    {
+        "part_number": "UTC-85488-97",
+        "description": "Fuel System component for Boeing 777",
+        "compatible_aircraft_types": [
+            "ATR 72"
+        ],
+        "category": "Fuel System",
+        "criticality_level": "Low",
+        "lead_time": "13 weeks",
+        "weight_kg": 217.84,
+        "dimensions_m": "0.59x2.49x1.73m"
+    },
+    {
+        "part_number": "SAFR-63348-11",
+        "description": "Fuel System component for Boeing 777",
+        "compatible_aircraft_types": [
+            "Airbus A350",
+            "Boeing 737",
+            "Boeing 777"
+        ],
+        "category": "Fuel System",
+        "criticality_level": "High",
+        "lead_time": "58 hours",
+        "weight_kg": 39.82,
+        "dimensions_m": "2.81x3.58x4.13m"
+    },
+    {
+        "part_number": "RR-79976-67",
+        "description": "Cabin Interior component for Airbus A380",
+        "compatible_aircraft_types": [
+            "ATR 72",
+            "Boeing 767",
+            "Boeing 747"
+        ],
+        "category": "Cabin Interior",
+        "criticality_level": "Low",
+        "lead_time": "78 days",
+        "weight_kg": 214.93,
+        "dimensions_m": "2.22x2.51x0.89m"
+    },
+    {
+        "part_number": "AIR-58939-27",
+        "description": "Cabin Interior component for Airbus A330",
+        "compatible_aircraft_types": [
+            "Boeing 747",
+            "Bombardier CRJ900",
+            "Boeing 737"
+        ],
+        "category": "Cabin Interior",
+        "criticality_level": "Critical",
+        "lead_time": "48 weeks",
+        "weight_kg": 104.87,
+        "dimensions_m": "2.96x2.23x2.93m"
+    },
+    {
+        "part_number": "GEA-57934-37",
+        "description": "Fuel System component for Airbus A320",
+        "compatible_aircraft_types": [
+            "Boeing 747",
+            "Airbus A330"
+        ],
+        "category": "Fuel System",
+        "criticality_level": "Medium",
+        "lead_time": "30 hours",
+        "weight_kg": 29.45,
+        "dimensions_m": "0.12x0.62x1.12m"
+    },
+    {
+        "part_number": "SAFR-81467-84",
+        "description": "Cabin Interior component for Boeing 767",
+        "compatible_aircraft_types": [
+            "Bombardier CRJ900",
+            "ATR 72",
+            "Airbus A320"
+        ],
+        "category": "Cabin Interior",
+        "criticality_level": "Low",
+        "lead_time": "58 hours",
+        "weight_kg": 275.48,
+        "dimensions_m": "4.1x2.8x0.4m"
+    },
+    {
+        "part_number": "AIR-27499-34",
+        "description": "Environmental Control component for ATR 72",
+        "compatible_aircraft_types": [
+            "Embraer E190",
+            "ATR 72",
+            "Boeing 737"
+        ],
+        "category": "Environmental Control",
+        "criticality_level": "Low",
+        "lead_time": "83 hours",
+        "weight_kg": 40.43,
+        "dimensions_m": "2.1x0.74x1.98m"
+    },
+    {
+        "part_number": "UTC-63432-24",
+        "description": "Avionics component for Airbus A320",
+        "compatible_aircraft_types": [
+            "Bombardier CRJ900",
+            "Boeing 747",
+            "Airbus A330"
+        ],
+        "category": "Avionics",
+        "criticality_level": "High",
+        "lead_time": "99 days",
+        "weight_kg": 220.07,
+        "dimensions_m": "0.93x0.84x3.24m"
+    },
+    {
+        "part_number": "SAFR-46344-38",
+        "description": "Avionics component for Airbus A350",
+        "compatible_aircraft_types": [
+            "ATR 72",
+            "Embraer E190"
+        ],
+        "category": "Avionics",
+        "criticality_level": "Critical",
+        "lead_time": "17 hours",
+        "weight_kg": 437.18,
+        "dimensions_m": "4.62x1.3x0.88m"
+    },
+    {
+        "part_number": "BOE-21127-13",
+        "description": "APU component for Boeing 787",
+        "compatible_aircraft_types": [
+            "Airbus A350",
+            "Boeing 777"
+        ],
+        "category": "APU",
+        "criticality_level": "Critical",
+        "lead_time": "30 days",
+        "weight_kg": 426.16,
+        "dimensions_m": "2.71x0.25x1.59m"
+    },
+    {
+        "part_number": "HON-55325-81",
+        "description": "Cabin Interior component for Boeing 787",
+        "compatible_aircraft_types": [
+            "ATR 72",
+            "Embraer E190",
+            "Airbus A320"
+        ],
+        "category": "Cabin Interior",
+        "criticality_level": "Critical",
+        "lead_time": "92 weeks",
+        "weight_kg": 129.7,
+        "dimensions_m": "1.44x4.43x1.08m"
+    },
+    {
+        "part_number": "ROC-59817-57",
+        "description": "Flight Controls component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Boeing 747"
+        ],
+        "category": "Flight Controls",
+        "criticality_level": "High",
+        "lead_time": "100 weeks",
+        "weight_kg": 488.08,
+        "dimensions_m": "0.16x3.33x3.38m"
+    },
+    {
+        "part_number": "HON-18322-47",
+        "description": "APU component for Airbus A320",
+        "compatible_aircraft_types": [
+            "Embraer E190"
+        ],
+        "category": "APU",
+        "criticality_level": "Medium",
+        "lead_time": "48 hours",
+        "weight_kg": 240.02,
+        "dimensions_m": "1.52x0.71x2.55m"
+    },
+    {
+        "part_number": "ROC-95371-65",
+        "description": "Electrical System component for Embraer E190",
+        "compatible_aircraft_types": [
+            "Airbus A320",
+            "Airbus A330"
+        ],
+        "category": "Electrical System",
+        "criticality_level": "Low",
+        "lead_time": "22 weeks",
+        "weight_kg": 120.93,
+        "dimensions_m": "3.45x0.47x1.49m"
+    },
+    {
+        "part_number": "HON-23128-31",
+        "description": "Communication component for Bombardier CRJ900",
+        "compatible_aircraft_types": [
+            "ATR 72",
+            "Airbus A350"
+        ],
+        "category": "Communication",
+        "criticality_level": "Medium",
+        "lead_time": "46 weeks",
+        "weight_kg": 196.75,
+        "dimensions_m": "1.6x1.85x1.16m"
+    },
+    {
+        "part_number": "AIR-21651-65",
+        "description": "Cabin Interior component for Embraer E190",
+        "compatible_aircraft_types": [
+            "Boeing 747",
+            "Airbus A380"
+        ],
+        "category": "Cabin Interior",
+        "criticality_level": "Low",
+        "lead_time": "60 weeks",
+        "weight_kg": 71.43,
+        "dimensions_m": "0.77x2.01x3.2m"
+    },
+    {
+        "part_number": "AIR-86948-76",
+        "description": "Environmental Control component for Embraer E190",
+        "compatible_aircraft_types": [
+            "Bombardier CRJ900"
+        ],
+        "category": "Environmental Control",
+        "criticality_level": "High",
+        "lead_time": "16 weeks",
+        "weight_kg": 384.9,
+        "dimensions_m": "1.61x3.63x2.84m"
+    },
+    {
+        "part_number": "SAFR-15985-42",
+        "description": "APU component for ATR 72",
+        "compatible_aircraft_types": [
+            "Boeing 747"
+        ],
+        "category": "APU",
+        "criticality_level": "Critical",
+        "lead_time": "5 hours",
+        "weight_kg": 358.7,
+        "dimensions_m": "0.96x4.0x4.17m"
+    },
+    {
+        "part_number": "RR-24330-27",
+        "description": "Flight Controls component for Airbus A340",
+        "compatible_aircraft_types": [
+            "Boeing 767",
+            "Boeing 777"
+        ],
+        "category": "Flight Controls",
+        "criticality_level": "High",
+        "lead_time": "45 hours",
+        "weight_kg": 475.05,
+        "dimensions_m": "2.84x2.54x4.43m"
+    },
+    {
+        "part_number": "GEA-12897-12",
+        "description": "Structures component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Bombardier CRJ900"
+        ],
+        "category": "Structures",
+        "criticality_level": "Low",
+        "lead_time": "2 days",
+        "weight_kg": 434.52,
+        "dimensions_m": "4.09x3.64x2.61m"
+    },
+    {
+        "part_number": "SAFR-17301-37",
+        "description": "Navigation component for Embraer E190",
+        "compatible_aircraft_types": [
+            "Boeing 767",
+            "Airbus A320",
+            "Airbus A380"
+        ],
+        "category": "Navigation",
+        "criticality_level": "Medium",
+        "lead_time": "90 weeks",
+        "weight_kg": 310.26,
+        "dimensions_m": "3.28x4.46x4.19m"
+    },
+    {
+        "part_number": "HON-90364-35",
+        "description": "Navigation component for Bombardier CRJ900",
+        "compatible_aircraft_types": [
+            "Airbus A380",
+            "Bombardier CRJ900",
+            "Embraer E190"
+        ],
+        "category": "Navigation",
+        "criticality_level": "Critical",
+        "lead_time": "65 days",
+        "weight_kg": 223.85,
+        "dimensions_m": "2.39x3.22x3.49m"
+    },
+    {
+        "part_number": "RR-83592-92",
+        "description": "Avionics component for Airbus A380",
+        "compatible_aircraft_types": [
+            "Boeing 747"
+        ],
+        "category": "Avionics",
+        "criticality_level": "Low",
+        "lead_time": "2 weeks",
+        "weight_kg": 13.88,
+        "dimensions_m": "0.88x1.54x0.51m"
+    },
+    {
+        "part_number": "BOE-54562-14",
+        "description": "Flight Controls component for Boeing 787",
+        "compatible_aircraft_types": [
+            "Boeing 767",
+            "Airbus A350"
+        ],
+        "category": "Flight Controls",
+        "criticality_level": "High",
+        "lead_time": "57 weeks",
+        "weight_kg": 294.92,
+        "dimensions_m": "1.03x2.42x4.17m"
+    },
+    {
+        "part_number": "UTC-85621-24",
+        "description": "Electrical System component for Boeing 787",
+        "compatible_aircraft_types": [
+            "Boeing 787",
+            "Airbus A380",
+            "ATR 72"
+        ],
+        "category": "Electrical System",
+        "criticality_level": "Medium",
+        "lead_time": "16 days",
+        "weight_kg": 83.98,
+        "dimensions_m": "4.55x0.23x0.16m"
+    },
+    {
+        "part_number": "HON-32557-65",
+        "description": "Avionics component for Bombardier CRJ900",
+        "compatible_aircraft_types": [
+            "Boeing 737"
+        ],
+        "category": "Avionics",
+        "criticality_level": "Low",
+        "lead_time": "10 hours",
+        "weight_kg": 156.18,
+        "dimensions_m": "1.55x3.75x3.58m"
+    },
+    {
+        "part_number": "BOE-55228-16",
+        "description": "Electrical System component for Embraer E190",
+        "compatible_aircraft_types": [
+            "Airbus A340",
+            "Boeing 767",
+            "ATR 72"
+        ],
+        "category": "Electrical System",
+        "criticality_level": "High",
+        "lead_time": "26 days",
+        "weight_kg": 245.89,
+        "dimensions_m": "3.2x0.28x4.14m"
+    },
+    {
+        "part_number": "RR-97749-92",
+        "description": "Communication component for Airbus A320",
+        "compatible_aircraft_types": [
+            "Boeing 787"
+        ],
+        "category": "Communication",
+        "criticality_level": "Low",
+        "lead_time": "41 hours",
+        "weight_kg": 268.94,
+        "dimensions_m": "1.44x2.48x2.87m"
+    },
+    {
+        "part_number": "HON-67113-76",
+        "description": "Electrical System component for Boeing 767",
+        "compatible_aircraft_types": [
+            "Boeing 767",
+            "Boeing 747"
+        ],
+        "category": "Electrical System",
+        "criticality_level": "High",
+        "lead_time": "52 days",
+        "weight_kg": 410.07,
+        "dimensions_m": "0.91x4.11x0.62m"
+    },
+    {
+        "part_number": "UTC-48144-43",
+        "description": "Flight Controls component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Airbus A320"
+        ],
+        "category": "Flight Controls",
+        "criticality_level": "Low",
+        "lead_time": "94 days",
+        "weight_kg": 167.25,
+        "dimensions_m": "1.9x3.88x3.03m"
+    },
+    {
+        "part_number": "AIR-47005-28",
+        "description": "Engine component for Boeing 777",
+        "compatible_aircraft_types": [
+            "Boeing 787",
+            "Airbus A380",
+            "Boeing 747"
+        ],
+        "category": "Engine",
+        "criticality_level": "Medium",
+        "lead_time": "96 days",
+        "weight_kg": 238.73,
+        "dimensions_m": "3.4x0.73x2.23m"
+    },
+    {
+        "part_number": "BOE-77521-13",
+        "description": "Engine component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Airbus A350",
+            "Airbus A330",
+            "Boeing 747"
+        ],
+        "category": "Engine",
+        "criticality_level": "Critical",
+        "lead_time": "57 days",
+        "weight_kg": 301.41,
+        "dimensions_m": "0.21x4.27x2.78m"
+    },
+    {
+        "part_number": "ROC-68954-66",
+        "description": "Navigation component for Airbus A380",
+        "compatible_aircraft_types": [
+            "Bombardier CRJ900",
+            "Airbus A340"
+        ],
+        "category": "Navigation",
+        "criticality_level": "Critical",
+        "lead_time": "81 days",
+        "weight_kg": 214.49,
+        "dimensions_m": "4.26x4.37x3.54m"
+    },
+    {
+        "part_number": "SAFR-61841-41",
+        "description": "Landing Gear component for ATR 72",
+        "compatible_aircraft_types": [
+            "Boeing 787",
+            "Embraer E190"
+        ],
+        "category": "Landing Gear",
+        "criticality_level": "Critical",
+        "lead_time": "63 hours",
+        "weight_kg": 273.69,
+        "dimensions_m": "3.03x3.14x3.81m"
+    },
+    {
+        "part_number": "HON-46345-93",
+        "description": "Navigation component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Boeing 787"
+        ],
+        "category": "Navigation",
+        "criticality_level": "Critical",
+        "lead_time": "20 days",
+        "weight_kg": 275.29,
+        "dimensions_m": "2.16x4.98x4.66m"
+    },
+    {
+        "part_number": "RR-47247-36",
+        "description": "Avionics component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Boeing 737",
+            "Boeing 747",
+            "Airbus A380"
+        ],
+        "category": "Avionics",
+        "criticality_level": "Medium",
+        "lead_time": "67 days",
+        "weight_kg": 202.16,
+        "dimensions_m": "1.79x4.53x1.53m"
+    },
+    {
+        "part_number": "UTC-77607-17",
+        "description": "Flight Controls component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Airbus A330",
+            "Boeing 767"
+        ],
+        "category": "Flight Controls",
+        "criticality_level": "Medium",
+        "lead_time": "11 days",
+        "weight_kg": 221.79,
+        "dimensions_m": "0.84x0.55x4.9m"
+    },
+    {
+        "part_number": "RR-14417-25",
+        "description": "Navigation component for Embraer E190",
+        "compatible_aircraft_types": [
+            "Airbus A350",
+            "Airbus A320",
+            "Boeing 767"
+        ],
+        "category": "Navigation",
+        "criticality_level": "High",
+        "lead_time": "6 hours",
+        "weight_kg": 15.07,
+        "dimensions_m": "3.51x4.36x3.19m"
+    },
+    {
+        "part_number": "HON-84495-67",
+        "description": "Cabin Interior component for Airbus A340",
+        "compatible_aircraft_types": [
+            "Airbus A340",
+            "Embraer E190",
+            "Bombardier CRJ900"
+        ],
+        "category": "Cabin Interior",
+        "criticality_level": "Critical",
+        "lead_time": "62 days",
+        "weight_kg": 307.25,
+        "dimensions_m": "0.72x4.81x1.37m"
+    },
+    {
+        "part_number": "RR-29442-54",
+        "description": "Avionics component for Boeing 787",
+        "compatible_aircraft_types": [
+            "Boeing 777",
+            "Embraer E190",
+            "Boeing 787"
+        ],
+        "category": "Avionics",
+        "criticality_level": "Medium",
+        "lead_time": "18 weeks",
+        "weight_kg": 143.28,
+        "dimensions_m": "1.36x3.68x1.11m"
+    },
+    {
+        "part_number": "PRATT-33976-76",
+        "description": "Fuel System component for Boeing 777",
+        "compatible_aircraft_types": [
+            "Boeing 787"
+        ],
+        "category": "Fuel System",
+        "criticality_level": "Low",
+        "lead_time": "22 weeks",
+        "weight_kg": 465.69,
+        "dimensions_m": "3.57x0.7x4.05m"
+    },
+    {
+        "part_number": "GEA-41898-48",
+        "description": "APU component for ATR 72",
+        "compatible_aircraft_types": [
+            "Airbus A330",
+            "Airbus A380",
+            "Bombardier CRJ900"
+        ],
+        "category": "APU",
+        "criticality_level": "Low",
+        "lead_time": "29 weeks",
+        "weight_kg": 315.95,
+        "dimensions_m": "4.45x0.53x1.12m"
+    },
+    {
+        "part_number": "UTC-25166-28",
+        "description": "Engine component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Boeing 787",
+            "ATR 72",
+            "Airbus A330"
+        ],
+        "category": "Engine",
+        "criticality_level": "Critical",
+        "lead_time": "23 hours",
+        "weight_kg": 227.71,
+        "dimensions_m": "2.8x4.02x2.05m"
+    },
+    {
+        "part_number": "ROC-61721-53",
+        "description": "Structures component for Airbus A330",
+        "compatible_aircraft_types": [
+            "Boeing 777",
+            "Boeing 787"
+        ],
+        "category": "Structures",
+        "criticality_level": "Low",
+        "lead_time": "20 weeks",
+        "weight_kg": 17.76,
+        "dimensions_m": "4.74x1.11x3.19m"
+    },
+    {
+        "part_number": "BOE-12236-27",
+        "description": "Environmental Control component for Airbus A330",
+        "compatible_aircraft_types": [
+            "Boeing 787",
+            "ATR 72"
+        ],
+        "category": "Environmental Control",
+        "criticality_level": "Critical",
+        "lead_time": "51 hours",
+        "weight_kg": 52.72,
+        "dimensions_m": "1.3x1.16x0.13m"
+    },
+    {
+        "part_number": "BOE-15374-87",
+        "description": "Engine component for Airbus A330",
+        "compatible_aircraft_types": [
+            "Airbus A340"
+        ],
+        "category": "Engine",
+        "criticality_level": "Critical",
+        "lead_time": "56 weeks",
+        "weight_kg": 79.55,
+        "dimensions_m": "4.29x2.26x4.59m"
+    },
+    {
+        "part_number": "SAFR-55962-48",
+        "description": "Cabin Interior component for Boeing 777",
+        "compatible_aircraft_types": [
+            "Bombardier CRJ900"
+        ],
+        "category": "Cabin Interior",
+        "criticality_level": "Critical",
+        "lead_time": "65 weeks",
+        "weight_kg": 452.09,
+        "dimensions_m": "4.8x1.87x2.97m"
+    },
+    {
+        "part_number": "SAFR-57171-43",
+        "description": "Environmental Control component for Boeing 787",
+        "compatible_aircraft_types": [
+            "Airbus A330",
+            "Boeing 747",
+            "Bombardier CRJ900"
+        ],
+        "category": "Environmental Control",
+        "criticality_level": "High",
+        "lead_time": "38 hours",
+        "weight_kg": 70.15,
+        "dimensions_m": "1.81x1.65x2.95m"
+    },
+    {
+        "part_number": "SAFR-23025-82",
+        "description": "Hydraulics component for Airbus A340",
+        "compatible_aircraft_types": [
+            "Airbus A340",
+            "Airbus A350",
+            "Airbus A380"
+        ],
+        "category": "Hydraulics",
+        "criticality_level": "Critical",
+        "lead_time": "78 weeks",
+        "weight_kg": 260.7,
+        "dimensions_m": "4.73x0.56x4.0m"
+    },
+    {
+        "part_number": "HON-77780-34",
+        "description": "Flight Controls component for Embraer E190",
+        "compatible_aircraft_types": [
+            "ATR 72",
+            "Airbus A330"
+        ],
+        "category": "Flight Controls",
+        "criticality_level": "Critical",
+        "lead_time": "43 weeks",
+        "weight_kg": 271.49,
+        "dimensions_m": "2.29x4.18x0.8m"
+    },
+    {
+        "part_number": "PRATT-45908-26",
+        "description": "Landing Gear component for Boeing 777",
+        "compatible_aircraft_types": [
+            "Boeing 747"
+        ],
+        "category": "Landing Gear",
+        "criticality_level": "Low",
+        "lead_time": "77 hours",
+        "weight_kg": 389.84,
+        "dimensions_m": "4.59x2.19x4.79m"
+    },
+    {
+        "part_number": "AIR-95366-13",
+        "description": "Hydraulics component for Embraer E190",
+        "compatible_aircraft_types": [
+            "Bombardier CRJ900"
+        ],
+        "category": "Hydraulics",
+        "criticality_level": "Low",
+        "lead_time": "82 weeks",
+        "weight_kg": 1.69,
+        "dimensions_m": "1.23x3.98x1.37m"
+    },
+    {
+        "part_number": "UTC-96858-90",
+        "description": "Communication component for Boeing 747",
+        "compatible_aircraft_types": [
+            "Bombardier CRJ900",
+            "Embraer E190"
+        ],
+        "category": "Communication",
+        "criticality_level": "Critical",
+        "lead_time": "32 hours",
+        "weight_kg": 335.34,
+        "dimensions_m": "3.23x3.26x0.52m"
+    },
+    {
+        "part_number": "UTC-60946-95",
+        "description": "Landing Gear component for Bombardier CRJ900",
+        "compatible_aircraft_types": [
+            "Boeing 767"
+        ],
+        "category": "Landing Gear",
+        "criticality_level": "High",
+        "lead_time": "20 weeks",
+        "weight_kg": 389.35,
+        "dimensions_m": "4.07x3.48x2.19m"
+    },
+    {
+        "part_number": "GEA-86874-44",
+        "description": "APU component for Airbus A380",
+        "compatible_aircraft_types": [
+            "Boeing 767"
+        ],
+        "category": "APU",
+        "criticality_level": "High",
+        "lead_time": "81 hours",
+        "weight_kg": 483.83,
+        "dimensions_m": "3.15x4.24x3.28m"
+    },
+    {
+        "part_number": "SAFR-51681-82",
+        "description": "Cabin Interior component for Airbus A320",
+        "compatible_aircraft_types": [
+            "Airbus A320"
+        ],
+        "category": "Cabin Interior",
+        "criticality_level": "Low",
+        "lead_time": "47 hours",
+        "weight_kg": 169.85,
+        "dimensions_m": "2.04x4.53x2.95m"
+    },
+    {
+        "part_number": "SAFR-40252-52",
+        "description": "Environmental Control component for Boeing 787",
+        "compatible_aircraft_types": [
+            "Boeing 777",
+            "Airbus A320"
+        ],
+        "category": "Environmental Control",
+        "criticality_level": "Low",
+        "lead_time": "44 hours",
+        "weight_kg": 39.59,
+        "dimensions_m": "2.4x4.5x3.11m"
+    },
+    {
+        "part_number": "PRATT-65610-41",
+        "description": "Landing Gear component for Boeing 747",
+        "compatible_aircraft_types": [
+            "Boeing 777",
+            "Airbus A330",
+            "Boeing 767"
+        ],
+        "category": "Landing Gear",
+        "criticality_level": "High",
+        "lead_time": "81 days",
+        "weight_kg": 308.61,
+        "dimensions_m": "0.82x2.06x3.85m"
+    },
+    {
+        "part_number": "UTC-87032-79",
+        "description": "Environmental Control component for Boeing 737",
+        "compatible_aircraft_types": [
+            "Embraer E190",
+            "Boeing 777"
+        ],
+        "category": "Environmental Control",
+        "criticality_level": "Critical",
+        "lead_time": "49 weeks",
+        "weight_kg": 330.56,
+        "dimensions_m": "2.47x3.29x3.63m"
+    },
+    {
+        "part_number": "BOE-29641-64",
+        "description": "Environmental Control component for Boeing 787",
+        "compatible_aircraft_types": [
+            "Airbus A330",
+            "Boeing 737"
+        ],
+        "category": "Environmental Control",
+        "criticality_level": "High",
+        "lead_time": "79 weeks",
+        "weight_kg": 122.57,
+        "dimensions_m": "4.68x3.43x2.33m"
+    },
+    {
+        "part_number": "UTC-79649-63",
+        "description": "Flight Controls component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Boeing 777",
+            "Airbus A350",
+            "Bombardier CRJ900"
+        ],
+        "category": "Flight Controls",
+        "criticality_level": "High",
+        "lead_time": "82 days",
+        "weight_kg": 135.33,
+        "dimensions_m": "0.75x1.96x4.58m"
+    },
+    {
+        "part_number": "GEA-47326-40",
+        "description": "Flight Controls component for Boeing 787",
+        "compatible_aircraft_types": [
+            "Airbus A340",
+            "Airbus A320",
+            "Airbus A380"
+        ],
+        "category": "Flight Controls",
+        "criticality_level": "Low",
+        "lead_time": "85 hours",
+        "weight_kg": 42.44,
+        "dimensions_m": "3.58x0.78x4.01m"
+    },
+    {
+        "part_number": "SAFR-29649-42",
+        "description": "Communication component for Boeing 777",
+        "compatible_aircraft_types": [
+            "Boeing 747",
+            "Airbus A330",
+            "Airbus A320"
+        ],
+        "category": "Communication",
+        "criticality_level": "Low",
+        "lead_time": "99 hours",
+        "weight_kg": 328.76,
+        "dimensions_m": "0.25x1.87x3.2m"
+    },
+    {
+        "part_number": "HON-92828-26",
+        "description": "Electrical System component for Boeing 787",
+        "compatible_aircraft_types": [
+            "Boeing 767",
+            "Airbus A350"
+        ],
+        "category": "Electrical System",
+        "criticality_level": "Low",
+        "lead_time": "57 weeks",
+        "weight_kg": 129.47,
+        "dimensions_m": "4.8x2.74x3.64m"
+    },
+    {
+        "part_number": "UTC-45957-72",
+        "description": "Flight Controls component for Boeing 777",
+        "compatible_aircraft_types": [
+            "Bombardier CRJ900",
+            "Boeing 787",
+            "Airbus A340"
+        ],
+        "category": "Flight Controls",
+        "criticality_level": "Low",
+        "lead_time": "30 hours",
+        "weight_kg": 398.95,
+        "dimensions_m": "3.21x2.97x0.74m"
+    },
+    {
+        "part_number": "ROC-42565-88",
+        "description": "Flight Controls component for Boeing 767",
+        "compatible_aircraft_types": [
+            "Airbus A350"
+        ],
+        "category": "Flight Controls",
+        "criticality_level": "Critical",
+        "lead_time": "7 days",
+        "weight_kg": 378.87,
+        "dimensions_m": "4.34x0.72x0.94m"
+    },
+    {
+        "part_number": "UTC-72826-92",
+        "description": "Fuel System component for Embraer E190",
+        "compatible_aircraft_types": [
+            "Embraer E190",
+            "Boeing 747"
+        ],
+        "category": "Fuel System",
+        "criticality_level": "High",
+        "lead_time": "40 weeks",
+        "weight_kg": 410.07,
+        "dimensions_m": "0.49x0.96x4.51m"
+    },
+    {
+        "part_number": "BOE-63000-77",
+        "description": "Flight Controls component for ATR 72",
+        "compatible_aircraft_types": [
+            "Embraer E190"
+        ],
+        "category": "Flight Controls",
+        "criticality_level": "Critical",
+        "lead_time": "41 weeks",
+        "weight_kg": 120.88,
+        "dimensions_m": "3.32x2.35x1.41m"
+    },
+    {
+        "part_number": "GEA-52542-35",
+        "description": "Navigation component for Airbus A320",
+        "compatible_aircraft_types": [
+            "Airbus A380",
+            "Airbus A350"
+        ],
+        "category": "Navigation",
+        "criticality_level": "Medium",
+        "lead_time": "13 days",
+        "weight_kg": 48.74,
+        "dimensions_m": "2.8x2.86x4.87m"
+    },
+    {
+        "part_number": "UTC-10535-39",
+        "description": "Communication component for Boeing 737",
+        "compatible_aircraft_types": [
+            "Airbus A340",
+            "Airbus A320",
+            "Embraer E190"
+        ],
+        "category": "Communication",
+        "criticality_level": "High",
+        "lead_time": "25 hours",
+        "weight_kg": 365.69,
+        "dimensions_m": "0.63x1.41x3.43m"
+    },
+    {
+        "part_number": "SAFR-99585-16",
+        "description": "Cabin Interior component for Airbus A380",
+        "compatible_aircraft_types": [
+            "Bombardier CRJ900"
+        ],
+        "category": "Cabin Interior",
+        "criticality_level": "Medium",
+        "lead_time": "63 days",
+        "weight_kg": 237.32,
+        "dimensions_m": "0.69x2.41x3.72m"
+    },
+    {
+        "part_number": "AIR-60217-42",
+        "description": "Flight Controls component for Boeing 767",
+        "compatible_aircraft_types": [
+            "Airbus A330"
+        ],
+        "category": "Flight Controls",
+        "criticality_level": "Critical",
+        "lead_time": "99 hours",
+        "weight_kg": 226.81,
+        "dimensions_m": "2.51x2.7x0.14m"
+    },
+    {
+        "part_number": "PRATT-14538-73",
+        "description": "Landing Gear component for Bombardier CRJ900",
+        "compatible_aircraft_types": [
+            "Boeing 747",
+            "ATR 72"
+        ],
+        "category": "Landing Gear",
+        "criticality_level": "Low",
+        "lead_time": "48 days",
+        "weight_kg": 268.46,
+        "dimensions_m": "2.78x4.75x2.06m"
+    },
+    {
+        "part_number": "AIR-36821-64",
+        "description": "Avionics component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Airbus A350",
+            "Airbus A330"
+        ],
+        "category": "Avionics",
+        "criticality_level": "Critical",
+        "lead_time": "18 days",
+        "weight_kg": 424.78,
+        "dimensions_m": "0.21x4.85x3.4m"
+    },
+    {
+        "part_number": "SAFR-84290-20",
+        "description": "Communication component for Boeing 777",
+        "compatible_aircraft_types": [
+            "Airbus A350"
+        ],
+        "category": "Communication",
+        "criticality_level": "High",
+        "lead_time": "3 days",
+        "weight_kg": 228.84,
+        "dimensions_m": "4.9x2.88x2.54m"
+    },
+    {
+        "part_number": "ROC-38247-47",
+        "description": "APU component for Embraer E190",
+        "compatible_aircraft_types": [
+            "Boeing 777",
+            "Airbus A320"
+        ],
+        "category": "APU",
+        "criticality_level": "Low",
+        "lead_time": "33 hours",
+        "weight_kg": 494.14,
+        "dimensions_m": "3.43x2.91x2.58m"
+    },
+    {
+        "part_number": "RR-26625-92",
+        "description": "Navigation component for Boeing 737",
+        "compatible_aircraft_types": [
+            "Airbus A350",
+            "Boeing 777"
+        ],
+        "category": "Navigation",
+        "criticality_level": "Critical",
+        "lead_time": "89 hours",
+        "weight_kg": 409.6,
+        "dimensions_m": "4.01x2.14x0.19m"
+    },
+    {
+        "part_number": "PRATT-74110-73",
+        "description": "Communication component for Boeing 747",
+        "compatible_aircraft_types": [
+            "Airbus A380",
+            "Airbus A340",
+            "Bombardier CRJ900"
+        ],
+        "category": "Communication",
+        "criticality_level": "High",
+        "lead_time": "89 days",
+        "weight_kg": 463.69,
+        "dimensions_m": "1.36x4.5x1.48m"
+    },
+    {
+        "part_number": "GEA-79450-82",
+        "description": "Engine component for Airbus A350",
+        "compatible_aircraft_types": [
+            "ATR 72",
+            "Airbus A380",
+            "Airbus A350"
+        ],
+        "category": "Engine",
+        "criticality_level": "Medium",
+        "lead_time": "27 weeks",
+        "weight_kg": 106.98,
+        "dimensions_m": "1.12x0.4x4.42m"
+    },
+    {
+        "part_number": "RR-98280-52",
+        "description": "Environmental Control component for Bombardier CRJ900",
+        "compatible_aircraft_types": [
+            "Boeing 747"
+        ],
+        "category": "Environmental Control",
+        "criticality_level": "Low",
+        "lead_time": "97 weeks",
+        "weight_kg": 109.97,
+        "dimensions_m": "3.25x0.29x4.74m"
+    },
+    {
+        "part_number": "AIR-77517-56",
+        "description": "Electrical System component for Boeing 737",
+        "compatible_aircraft_types": [
+            "Airbus A320",
+            "Airbus A330"
+        ],
+        "category": "Electrical System",
+        "criticality_level": "Medium",
+        "lead_time": "44 weeks",
+        "weight_kg": 471.52,
+        "dimensions_m": "4.39x4.55x2.76m"
+    },
+    {
+        "part_number": "HON-42528-60",
+        "description": "Landing Gear component for ATR 72",
+        "compatible_aircraft_types": [
+            "ATR 72",
+            "Boeing 787"
+        ],
+        "category": "Landing Gear",
+        "criticality_level": "Medium",
+        "lead_time": "76 days",
+        "weight_kg": 126.51,
+        "dimensions_m": "4.3x1.73x1.46m"
+    },
+    {
+        "part_number": "HON-83624-60",
+        "description": "Avionics component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Boeing 767"
+        ],
+        "category": "Avionics",
+        "criticality_level": "Critical",
+        "lead_time": "38 days",
+        "weight_kg": 447.79,
+        "dimensions_m": "1.49x4.45x3.05m"
+    },
+    {
+        "part_number": "BOE-11679-67",
+        "description": "Avionics component for Boeing 747",
+        "compatible_aircraft_types": [
+            "Airbus A380",
+            "Embraer E190"
+        ],
+        "category": "Avionics",
+        "criticality_level": "Critical",
+        "lead_time": "50 weeks",
+        "weight_kg": 20.68,
+        "dimensions_m": "2.52x2.37x1.75m"
+    },
+    {
+        "part_number": "UTC-77389-23",
+        "description": "Hydraulics component for Boeing 737",
+        "compatible_aircraft_types": [
+            "Boeing 777",
+            "Embraer E190",
+            "Boeing 747"
+        ],
+        "category": "Hydraulics",
+        "criticality_level": "High",
+        "lead_time": "29 weeks",
+        "weight_kg": 61.67,
+        "dimensions_m": "4.77x0.1x2.07m"
+    },
+    {
+        "part_number": "PRATT-13752-67",
+        "description": "Fuel System component for Airbus A330",
+        "compatible_aircraft_types": [
+            "Boeing 747",
+            "Boeing 787"
+        ],
+        "category": "Fuel System",
+        "criticality_level": "Critical",
+        "lead_time": "99 hours",
+        "weight_kg": 72.28,
+        "dimensions_m": "2.67x2.94x0.25m"
+    },
+    {
+        "part_number": "HON-47934-63",
+        "description": "Environmental Control component for Boeing 737",
+        "compatible_aircraft_types": [
+            "Embraer E190",
+            "Boeing 747",
+            "Boeing 767"
+        ],
+        "category": "Environmental Control",
+        "criticality_level": "Medium",
+        "lead_time": "70 weeks",
+        "weight_kg": 469.85,
+        "dimensions_m": "1.98x3.47x0.91m"
+    },
+    {
+        "part_number": "HON-32307-82",
+        "description": "Fuel System component for Bombardier CRJ900",
+        "compatible_aircraft_types": [
+            "Airbus A320"
+        ],
+        "category": "Fuel System",
+        "criticality_level": "High",
+        "lead_time": "18 weeks",
+        "weight_kg": 402.59,
+        "dimensions_m": "0.32x3.53x0.56m"
+    },
+    {
+        "part_number": "SAFR-38080-39",
+        "description": "Landing Gear component for Airbus A340",
+        "compatible_aircraft_types": [
+            "ATR 72"
+        ],
+        "category": "Landing Gear",
+        "criticality_level": "High",
+        "lead_time": "72 days",
+        "weight_kg": 451.79,
+        "dimensions_m": "3.14x4.34x2.1m"
+    },
+    {
+        "part_number": "UTC-32799-60",
+        "description": "Electrical System component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Airbus A320"
+        ],
+        "category": "Electrical System",
+        "criticality_level": "Medium",
+        "lead_time": "4 weeks",
+        "weight_kg": 99.69,
+        "dimensions_m": "1.21x2.97x4.53m"
+    },
+    {
+        "part_number": "SAFR-46646-30",
+        "description": "Navigation component for Boeing 747",
+        "compatible_aircraft_types": [
+            "ATR 72",
+            "Embraer E190"
+        ],
+        "category": "Navigation",
+        "criticality_level": "High",
+        "lead_time": "16 days",
+        "weight_kg": 415.98,
+        "dimensions_m": "0.75x2.89x4.39m"
+    },
+    {
+        "part_number": "RR-66453-96",
+        "description": "Engine component for Boeing 747",
+        "compatible_aircraft_types": [
+            "Airbus A380"
+        ],
+        "category": "Engine",
+        "criticality_level": "High",
+        "lead_time": "5 days",
+        "weight_kg": 307.84,
+        "dimensions_m": "4.7x3.53x1.85m"
+    },
+    {
+        "part_number": "HON-91106-71",
+        "description": "APU component for Airbus A320",
+        "compatible_aircraft_types": [
+            "Boeing 777"
+        ],
+        "category": "APU",
+        "criticality_level": "High",
+        "lead_time": "86 weeks",
+        "weight_kg": 413.39,
+        "dimensions_m": "1.68x0.48x3.78m"
+    },
+    {
+        "part_number": "GEA-54070-76",
+        "description": "Hydraulics component for Embraer E190",
+        "compatible_aircraft_types": [
+            "Boeing 787",
+            "Bombardier CRJ900",
+            "Airbus A350"
+        ],
+        "category": "Hydraulics",
+        "criticality_level": "Critical",
+        "lead_time": "68 hours",
+        "weight_kg": 274.15,
+        "dimensions_m": "3.34x4.06x2.49m"
+    },
+    {
+        "part_number": "PRATT-59195-40",
+        "description": "APU component for Bombardier CRJ900",
+        "compatible_aircraft_types": [
+            "Airbus A380",
+            "ATR 72",
+            "Boeing 767"
+        ],
+        "category": "APU",
+        "criticality_level": "Medium",
+        "lead_time": "99 weeks",
+        "weight_kg": 345.66,
+        "dimensions_m": "0.68x3.31x3.11m"
+    },
+    {
+        "part_number": "GEA-57254-55",
+        "description": "Structures component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Embraer E190",
+            "Airbus A340"
+        ],
+        "category": "Structures",
+        "criticality_level": "Low",
+        "lead_time": "37 weeks",
+        "weight_kg": 482.68,
+        "dimensions_m": "1.24x4.29x0.87m"
+    },
+    {
+        "part_number": "HON-90223-60",
+        "description": "APU component for Embraer E190",
+        "compatible_aircraft_types": [
+            "Embraer E190",
+            "Airbus A330",
+            "ATR 72"
+        ],
+        "category": "APU",
+        "criticality_level": "Critical",
+        "lead_time": "93 weeks",
+        "weight_kg": 16.64,
+        "dimensions_m": "4.4x1.65x2.42m"
+    },
+    {
+        "part_number": "UTC-72419-30",
+        "description": "Fuel System component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Airbus A380"
+        ],
+        "category": "Fuel System",
+        "criticality_level": "Low",
+        "lead_time": "72 days",
+        "weight_kg": 400.14,
+        "dimensions_m": "0.26x3.28x4.6m"
+    },
+    {
+        "part_number": "ROC-47568-42",
+        "description": "Communication component for Bombardier CRJ900",
+        "compatible_aircraft_types": [
+            "Embraer E190"
+        ],
+        "category": "Communication",
+        "criticality_level": "Low",
+        "lead_time": "30 weeks",
+        "weight_kg": 274.47,
+        "dimensions_m": "3.54x1.18x0.6m"
+    },
+    {
+        "part_number": "GEA-73646-58",
+        "description": "Navigation component for Airbus A350",
+        "compatible_aircraft_types": [
+            "Airbus A320",
+            "ATR 72"
+        ],
+        "category": "Navigation",
+        "criticality_level": "Medium",
+        "lead_time": "60 days",
+        "weight_kg": 236.16,
+        "dimensions_m": "1.81x0.22x0.99m"
+    },
+    {
+        "part_number": "GEA-12078-16",
+        "description": "Landing Gear component for Boeing 747",
+        "compatible_aircraft_types": [
+            "Boeing 747"
+        ],
+        "category": "Landing Gear",
+        "criticality_level": "Medium",
+        "lead_time": "72 hours",
+        "weight_kg": 253.51,
+        "dimensions_m": "2.96x3.28x0.17m"
+    },
+    {
+        "part_number": "BOE-48396-81",
+        "description": "Landing Gear component for Boeing 767",
+        "compatible_aircraft_types": [
+            "ATR 72",
+            "Boeing 767",
+            "Boeing 787"
+        ],
+        "category": "Landing Gear",
+        "criticality_level": "Medium",
+        "lead_time": "54 weeks",
+        "weight_kg": 159.68,
+        "dimensions_m": "1.94x1.93x3.31m"
+    },
+    {
+        "part_number": "PRATT-66813-49",
+        "description": "Flight Controls component for Airbus A340",
+        "compatible_aircraft_types": [
+            "Embraer E190"
+        ],
+        "category": "Flight Controls",
+        "criticality_level": "Critical",
+        "lead_time": "47 days",
+        "weight_kg": 456.45,
+        "dimensions_m": "2.11x1.42x4.33m"
+    },
+    {
+        "part_number": "PRATT-93564-99",
+        "description": "Avionics component for Airbus A340",
+        "compatible_aircraft_types": [
+            "Embraer E190"
+        ],
+        "category": "Avionics",
+        "criticality_level": "Critical",
+        "lead_time": "15 weeks",
+        "weight_kg": 90.24,
+        "dimensions_m": "1.4x2.7x0.19m"
+    },
+    {
+        "part_number": "HON-80357-77",
+        "description": "Cabin Interior component for Boeing 747",
+        "compatible_aircraft_types": [
+            "Airbus A380",
+            "Boeing 787"
+        ],
+        "category": "Cabin Interior",
+        "criticality_level": "Medium",
+        "lead_time": "26 days",
+        "weight_kg": 243.63,
+        "dimensions_m": "2.26x0.81x0.9m"
+    },
+    {
+        "part_number": "PRATT-97800-41",
+        "description": "Environmental Control component for Airbus A320",
+        "compatible_aircraft_types": [
+            "Boeing 737",
+            "Bombardier CRJ900"
+        ],
+        "category": "Environmental Control",
+        "criticality_level": "Low",
+        "lead_time": "85 hours",
+        "weight_kg": 356.36,
+        "dimensions_m": "4.69x3.3x0.2m"
+    },
+    {
+        "part_number": "SAFR-70155-68",
+        "description": "Electrical System component for Airbus A340",
+        "compatible_aircraft_types": [
+            "Airbus A380",
+            "Embraer E190",
+            "Boeing 747"
+        ],
+        "category": "Electrical System",
+        "criticality_level": "Medium",
+        "lead_time": "60 days",
+        "weight_kg": 171.83,
+        "dimensions_m": "2.09x1.84x2.99m"
+    },
+    {
+        "part_number": "PRATT-60079-11",
+        "description": "Fuel System component for ATR 72",
+        "compatible_aircraft_types": [
+            "Airbus A380",
+            "Airbus A350",
+            "Boeing 737"
+        ],
+        "category": "Fuel System",
+        "criticality_level": "High",
+        "lead_time": "94 hours",
+        "weight_kg": 141.39,
+        "dimensions_m": "1.38x3.41x0.72m"
+    },
+    {
+        "part_number": "SAFR-72704-80",
+        "description": "Environmental Control component for Airbus A380",
+        "compatible_aircraft_types": [
+            "Boeing 747"
+        ],
+        "category": "Environmental Control",
+        "criticality_level": "High",
+        "lead_time": "8 days",
+        "weight_kg": 203.16,
+        "dimensions_m": "3.84x0.21x1.64m"
+    },
+    {
+        "part_number": "RR-37470-84",
+        "description": "Fuel System component for Boeing 737",
+        "compatible_aircraft_types": [
+            "Bombardier CRJ900",
+            "Boeing 787"
+        ],
+        "category": "Fuel System",
+        "criticality_level": "Medium",
+        "lead_time": "10 hours",
+        "weight_kg": 42.63,
+        "dimensions_m": "1.18x3.67x2.59m"
+    },
+    {
+        "part_number": "AIR-26695-36",
+        "description": "Environmental Control component for Airbus A320",
+        "compatible_aircraft_types": [
+            "Boeing 787"
+        ],
+        "category": "Environmental Control",
+        "criticality_level": "Medium",
+        "lead_time": "100 hours",
+        "weight_kg": 371.25,
+        "dimensions_m": "1.91x2.61x3.57m"
+    }
+]

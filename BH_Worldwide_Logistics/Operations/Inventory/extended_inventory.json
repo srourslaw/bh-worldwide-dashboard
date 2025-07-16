@@ -1,0 +1,851 @@
+{
+  "critical_inventory": [
+    {
+      "part_number": "EN50712-91",
+      "description": "Engine Fan Blade - Engine Components",
+      "category": "Engine Components",
+      "aircraft_types": [
+        "Boeing 777-200",
+        "Airbus A321",
+        "Dash 8-400",
+        "Boeing 747-400"
+      ],
+      "current_stock": {
+        "london": 0,
+        "frankfurt": 3,
+        "dubai": 2,
+        "singapore": 5,
+        "new york": 8,
+        "hong kong": 3
+      },
+      "unit_cost": "\u20ac125,000",
+      "lead_time_days": 45,
+      "criticality": "High",
+      "monthly_demand": 23,
+      "suppliers": [
+        "Liebherr"
+      ],
+      "weight_kg": 230,
+      "shelf_life_months": null,
+      "certification": "Both"
+    },
+    {
+      "part_number": "EN46778-74",
+      "description": "Turbine Blade - Engine Components",
+      "category": "Engine Components",
+      "aircraft_types": [
+        "Boeing 777-200",
+        "Airbus A380",
+        "ATR 72",
+        "Airbus A220"
+      ],
+      "current_stock": {
+        "london": 7,
+        "frankfurt": 6,
+        "dubai": 6,
+        "singapore": 6,
+        "new york": 3,
+        "hong kong": 3
+      },
+      "unit_cost": "\u20ac95,000",
+      "lead_time_days": 35,
+      "criticality": "High",
+      "monthly_demand": 16,
+      "suppliers": [
+        "Thales",
+        "Liebherr",
+        "Boeing Commercial"
+      ],
+      "weight_kg": 313,
+      "shelf_life_months": 24,
+      "certification": "Both"
+    },
+    {
+      "part_number": "EN21227-50",
+      "description": "Fuel Injector - Engine Components",
+      "category": "Engine Components",
+      "aircraft_types": [
+        "Airbus A330-200",
+        "Boeing 777-300ER",
+        "Dash 8-400",
+        "Boeing 787-8",
+        "Boeing 747-400",
+        "Airbus A220"
+      ],
+      "current_stock": {
+        "london": 7,
+        "frankfurt": 8,
+        "dubai": 3,
+        "singapore": 6,
+        "new york": 5,
+        "hong kong": 2
+      },
+      "unit_cost": "\u20ac45,000",
+      "lead_time_days": 21,
+      "criticality": "Medium",
+      "monthly_demand": 15,
+      "suppliers": [
+        "Rolls-Royce"
+      ],
+      "weight_kg": 208,
+      "shelf_life_months": 120,
+      "certification": "Both"
+    },
+    {
+      "part_number": "EN15426-75",
+      "description": "Compressor Blade - Engine Components",
+      "category": "Engine Components",
+      "aircraft_types": [
+        "Dash 8-400",
+        "Airbus A319"
+      ],
+      "current_stock": {
+        "london": 3,
+        "frankfurt": 0,
+        "dubai": 8,
+        "singapore": 4,
+        "new york": 7,
+        "hong kong": 8
+      },
+      "unit_cost": "\u20ac75,000",
+      "lead_time_days": 30,
+      "criticality": "High",
+      "monthly_demand": 23,
+      "suppliers": [
+        "Pratt & Whitney"
+      ],
+      "weight_kg": 500,
+      "shelf_life_months": 120,
+      "certification": "Both"
+    },
+    {
+      "part_number": "EN91667-95",
+      "description": "Engine Control Unit - Engine Components",
+      "category": "Engine Components",
+      "aircraft_types": [
+        "Bombardier CRJ900",
+        "Boeing 777-300ER",
+        "Airbus A330-200"
+      ],
+      "current_stock": {
+        "london": 7,
+        "frankfurt": 6,
+        "dubai": 0,
+        "singapore": 2,
+        "new york": 1,
+        "hong kong": 0
+      },
+      "unit_cost": "\u20ac180,000",
+      "lead_time_days": 60,
+      "criticality": "Critical",
+      "monthly_demand": 10,
+      "suppliers": [
+        "Safran",
+        "Honeywell",
+        "Collins Aerospace"
+      ],
+      "weight_kg": 207,
+      "shelf_life_months": 60,
+      "certification": "FAA"
+    },
+    {
+      "part_number": "EN85433-68",
+      "description": "Thrust Reverser - Engine Components",
+      "category": "Engine Components",
+      "aircraft_types": [
+        "Boeing 747-8F",
+        "Boeing 737 MAX 9",
+        "Boeing 777-200",
+        "Airbus A321",
+        "Bombardier CRJ900"
+      ],
+      "current_stock": {
+        "london": 2,
+        "frankfurt": 6,
+        "dubai": 2,
+        "singapore": 4,
+        "new york": 8,
+        "hong kong": 2
+      },
+      "unit_cost": "\u20ac220,000",
+      "lead_time_days": 90,
+      "criticality": "Medium",
+      "monthly_demand": 12,
+      "suppliers": [
+        "Safran",
+        "Thales"
+      ],
+      "weight_kg": 361,
+      "shelf_life_months": 36,
+      "certification": "EASA"
+    },
+    {
+      "part_number": "EN90502-85",
+      "description": "Oil Pump - Engine Components",
+      "category": "Engine Components",
+      "aircraft_types": [
+        "Boeing 747-8F",
+        "Airbus A350-900"
+      ],
+      "current_stock": {
+        "london": 4,
+        "frankfurt": 8,
+        "dubai": 3,
+        "singapore": 5,
+        "new york": 4,
+        "hong kong": 1
+      },
+      "unit_cost": "\u20ac35,000",
+      "lead_time_days": 14,
+      "criticality": "Medium",
+      "monthly_demand": 4,
+      "suppliers": [
+        "GE Aviation",
+        "Honeywell",
+        "Airbus Industries"
+      ],
+      "weight_kg": 212,
+      "shelf_life_months": null,
+      "certification": "EASA"
+    },
+    {
+      "part_number": "LA54964-88",
+      "description": "Landing Gear Actuator - Landing Gear",
+      "category": "Landing Gear",
+      "aircraft_types": [
+        "Boeing 787-8",
+        "Airbus A319",
+        "Airbus A330-300",
+        "Embraer E175"
+      ],
+      "current_stock": {
+        "london": 5,
+        "frankfurt": 1,
+        "dubai": 8,
+        "singapore": 6,
+        "new york": 1,
+        "hong kong": 6
+      },
+      "unit_cost": "\u20ac89,000",
+      "lead_time_days": 30,
+      "criticality": "High",
+      "monthly_demand": 4,
+      "suppliers": [
+        "Thales"
+      ],
+      "weight_kg": 173,
+      "shelf_life_months": 36,
+      "certification": "FAA"
+    },
+    {
+      "part_number": "LA54598-94",
+      "description": "Brake Assembly - Landing Gear",
+      "category": "Landing Gear",
+      "aircraft_types": [
+        "Airbus A220",
+        "Boeing 737-800",
+        "Boeing 747-8F",
+        "Airbus A321",
+        "Embraer E175"
+      ],
+      "current_stock": {
+        "london": 6,
+        "frankfurt": 0,
+        "dubai": 8,
+        "singapore": 8,
+        "new york": 2,
+        "hong kong": 6
+      },
+      "unit_cost": "\u20ac125,000",
+      "lead_time_days": 25,
+      "criticality": "Critical",
+      "monthly_demand": 11,
+      "suppliers": [
+        "Parker Hannifin"
+      ],
+      "weight_kg": 130,
+      "shelf_life_months": 120,
+      "certification": "Both"
+    },
+    {
+      "part_number": "LA31111-28",
+      "description": "Tire - Landing Gear",
+      "category": "Landing Gear",
+      "aircraft_types": [
+        "ATR 72",
+        "Dash 8-400",
+        "Airbus A380",
+        "Airbus A321",
+        "Boeing 787-9"
+      ],
+      "current_stock": {
+        "london": 0,
+        "frankfurt": 0,
+        "dubai": 2,
+        "singapore": 6,
+        "new york": 6,
+        "hong kong": 0
+      },
+      "unit_cost": "\u20ac8,500",
+      "lead_time_days": 7,
+      "criticality": "Medium",
+      "monthly_demand": 25,
+      "suppliers": [
+        "Parker Hannifin",
+        "Collins Aerospace"
+      ],
+      "weight_kg": 96,
+      "shelf_life_months": null,
+      "certification": "Both"
+    },
+    {
+      "part_number": "LA74341-59",
+      "description": "Shock Strut - Landing Gear",
+      "category": "Landing Gear",
+      "aircraft_types": [
+        "Boeing 777-300ER",
+        "Airbus A320",
+        "Airbus A220",
+        "ATR 72",
+        "Dash 8-400"
+      ],
+      "current_stock": {
+        "london": 1,
+        "frankfurt": 4,
+        "dubai": 4,
+        "singapore": 2,
+        "new york": 0,
+        "hong kong": 8
+      },
+      "unit_cost": "\u20ac165,000",
+      "lead_time_days": 45,
+      "criticality": "High",
+      "monthly_demand": 15,
+      "suppliers": [
+        "Parker Hannifin",
+        "Airbus Industries",
+        "Pratt & Whitney"
+      ],
+      "weight_kg": 323,
+      "shelf_life_months": 120,
+      "certification": "FAA"
+    },
+    {
+      "part_number": "LA60325-66",
+      "description": "Wheel Hub - Landing Gear",
+      "category": "Landing Gear",
+      "aircraft_types": [
+        "Boeing 787-9",
+        "Boeing 737-900"
+      ],
+      "current_stock": {
+        "london": 2,
+        "frankfurt": 8,
+        "dubai": 5,
+        "singapore": 0,
+        "new york": 6,
+        "hong kong": 1
+      },
+      "unit_cost": "\u20ac45,000",
+      "lead_time_days": 21,
+      "criticality": "Medium",
+      "monthly_demand": 16,
+      "suppliers": [
+        "Pratt & Whitney"
+      ],
+      "weight_kg": 128,
+      "shelf_life_months": 24,
+      "certification": "EASA"
+    },
+    {
+      "part_number": "LA52745-70",
+      "description": "Gear Door - Landing Gear",
+      "category": "Landing Gear",
+      "aircraft_types": [
+        "Dash 8-400",
+        "Boeing 737-800",
+        "Boeing 777-300ER",
+        "Airbus A350-1000"
+      ],
+      "current_stock": {
+        "london": 7,
+        "frankfurt": 7,
+        "dubai": 3,
+        "singapore": 3,
+        "new york": 3,
+        "hong kong": 7
+      },
+      "unit_cost": "\u20ac75,000",
+      "lead_time_days": 35,
+      "criticality": "Low",
+      "monthly_demand": 14,
+      "suppliers": [
+        "Rolls-Royce"
+      ],
+      "weight_kg": 446,
+      "shelf_life_months": 36,
+      "certification": "EASA"
+    },
+    {
+      "part_number": "AV20721-76",
+      "description": "Flight Management Computer - Avionics",
+      "category": "Avionics",
+      "aircraft_types": [
+        "Boeing 737 MAX 8",
+        "Embraer E175",
+        "Boeing 787-9",
+        "Boeing 737 MAX 9",
+        "Airbus A350-900",
+        "Boeing 787-8"
+      ],
+      "current_stock": {
+        "london": 8,
+        "frankfurt": 1,
+        "dubai": 3,
+        "singapore": 3,
+        "new york": 8,
+        "hong kong": 6
+      },
+      "unit_cost": "\u20ac285,000",
+      "lead_time_days": 60,
+      "criticality": "Critical",
+      "monthly_demand": 10,
+      "suppliers": [
+        "Collins Aerospace"
+      ],
+      "weight_kg": 402,
+      "shelf_life_months": 24,
+      "certification": "Both"
+    },
+    {
+      "part_number": "AV49155-50",
+      "description": "Navigation Display - Avionics",
+      "category": "Avionics",
+      "aircraft_types": [
+        "Boeing 737 MAX 8",
+        "Airbus A350-900",
+        "Embraer E190",
+        "Boeing 787-9",
+        "Airbus A330-300"
+      ],
+      "current_stock": {
+        "london": 2,
+        "frankfurt": 1,
+        "dubai": 6,
+        "singapore": 6,
+        "new york": 2,
+        "hong kong": 6
+      },
+      "unit_cost": "\u20ac125,000",
+      "lead_time_days": 30,
+      "criticality": "High",
+      "monthly_demand": 23,
+      "suppliers": [
+        "Airbus Industries",
+        "Parker Hannifin",
+        "Liebherr"
+      ],
+      "weight_kg": 122,
+      "shelf_life_months": 36,
+      "certification": "EASA"
+    },
+    {
+      "part_number": "AV44767-54",
+      "description": "Transponder - Avionics",
+      "category": "Avionics",
+      "aircraft_types": [
+        "Boeing 777-200",
+        "Airbus A350-900",
+        "Airbus A330-300",
+        "Boeing 737 MAX 8"
+      ],
+      "current_stock": {
+        "london": 0,
+        "frankfurt": 4,
+        "dubai": 7,
+        "singapore": 6,
+        "new york": 0,
+        "hong kong": 7
+      },
+      "unit_cost": "\u20ac45,000",
+      "lead_time_days": 14,
+      "criticality": "High",
+      "monthly_demand": 17,
+      "suppliers": [
+        "Safran"
+      ],
+      "weight_kg": 434,
+      "shelf_life_months": 60,
+      "certification": "EASA"
+    },
+    {
+      "part_number": "AV50773-53",
+      "description": "Weather Radar - Avionics",
+      "category": "Avionics",
+      "aircraft_types": [
+        "Boeing 747-400",
+        "ATR 72",
+        "Boeing 777-200",
+        "Airbus A330-200"
+      ],
+      "current_stock": {
+        "london": 8,
+        "frankfurt": 4,
+        "dubai": 3,
+        "singapore": 1,
+        "new york": 5,
+        "hong kong": 2
+      },
+      "unit_cost": "\u20ac195,000",
+      "lead_time_days": 45,
+      "criticality": "Medium",
+      "monthly_demand": 16,
+      "suppliers": [
+        "Safran",
+        "Rolls-Royce"
+      ],
+      "weight_kg": 314,
+      "shelf_life_months": 36,
+      "certification": "Both"
+    },
+    {
+      "part_number": "AV57734-16",
+      "description": "Radio Altimeter - Avionics",
+      "category": "Avionics",
+      "aircraft_types": [
+        "Boeing 737 MAX 9",
+        "Airbus A321",
+        "Airbus A320",
+        "Boeing 737-900",
+        "Airbus A380",
+        "Boeing 787-9"
+      ],
+      "current_stock": {
+        "london": 4,
+        "frankfurt": 8,
+        "dubai": 0,
+        "singapore": 5,
+        "new york": 4,
+        "hong kong": 4
+      },
+      "unit_cost": "\u20ac85,000",
+      "lead_time_days": 21,
+      "criticality": "High",
+      "monthly_demand": 10,
+      "suppliers": [
+        "Liebherr",
+        "Collins Aerospace"
+      ],
+      "weight_kg": 276,
+      "shelf_life_months": 60,
+      "certification": "Both"
+    },
+    {
+      "part_number": "AV93482-60",
+      "description": "TCAS Unit - Avionics",
+      "category": "Avionics",
+      "aircraft_types": [
+        "Embraer E175",
+        "Boeing 747-8F"
+      ],
+      "current_stock": {
+        "london": 5,
+        "frankfurt": 4,
+        "dubai": 4,
+        "singapore": 1,
+        "new york": 0,
+        "hong kong": 8
+      },
+      "unit_cost": "\u20ac165,000",
+      "lead_time_days": 35,
+      "criticality": "Critical",
+      "monthly_demand": 19,
+      "suppliers": [
+        "Airbus Industries"
+      ],
+      "weight_kg": 140,
+      "shelf_life_months": 36,
+      "certification": "FAA"
+    },
+    {
+      "part_number": "HY14094-45",
+      "description": "Hydraulic Pump - Hydraulics",
+      "category": "Hydraulics",
+      "aircraft_types": [
+        "Boeing 737 MAX 8",
+        "Boeing 747-8F",
+        "Embraer E190",
+        "Boeing 747-400",
+        "Bombardier CRJ900"
+      ],
+      "current_stock": {
+        "london": 2,
+        "frankfurt": 7,
+        "dubai": 6,
+        "singapore": 2,
+        "new york": 2,
+        "hong kong": 0
+      },
+      "unit_cost": "\u20ac72,000",
+      "lead_time_days": 25,
+      "criticality": "High",
+      "monthly_demand": 22,
+      "suppliers": [
+        "Liebherr",
+        "Thales"
+      ],
+      "weight_kg": 114,
+      "shelf_life_months": 120,
+      "certification": "EASA"
+    },
+    {
+      "part_number": "HY28337-93",
+      "description": "Actuator - Hydraulics",
+      "category": "Hydraulics",
+      "aircraft_types": [
+        "Airbus A330-300",
+        "Boeing 737-800",
+        "Bombardier CRJ900",
+        "Airbus A350-1000",
+        "Airbus A350-900",
+        "Boeing 787-9"
+      ],
+      "current_stock": {
+        "london": 3,
+        "frankfurt": 7,
+        "dubai": 2,
+        "singapore": 6,
+        "new york": 3,
+        "hong kong": 0
+      },
+      "unit_cost": "\u20ac45,000",
+      "lead_time_days": 18,
+      "criticality": "Medium",
+      "monthly_demand": 18,
+      "suppliers": [
+        "Liebherr",
+        "GE Aviation",
+        "Collins Aerospace"
+      ],
+      "weight_kg": 347,
+      "shelf_life_months": 36,
+      "certification": "EASA"
+    },
+    {
+      "part_number": "HY34591-70",
+      "description": "Filter - Hydraulics",
+      "category": "Hydraulics",
+      "aircraft_types": [
+        "Boeing 737 MAX 8",
+        "Airbus A330-300",
+        "Boeing 747-400",
+        "Airbus A350-1000",
+        "ATR 72"
+      ],
+      "current_stock": {
+        "london": 4,
+        "frankfurt": 0,
+        "dubai": 4,
+        "singapore": 8,
+        "new york": 1,
+        "hong kong": 0
+      },
+      "unit_cost": "\u20ac8,500",
+      "lead_time_days": 7,
+      "criticality": "Low",
+      "monthly_demand": 15,
+      "suppliers": [
+        "Honeywell"
+      ],
+      "weight_kg": 118,
+      "shelf_life_months": 24,
+      "certification": "EASA"
+    },
+    {
+      "part_number": "HY74922-77",
+      "description": "Reservoir - Hydraulics",
+      "category": "Hydraulics",
+      "aircraft_types": [
+        "Airbus A330-200",
+        "Airbus A320",
+        "Embraer E175"
+      ],
+      "current_stock": {
+        "london": 3,
+        "frankfurt": 2,
+        "dubai": 0,
+        "singapore": 8,
+        "new york": 7,
+        "hong kong": 1
+      },
+      "unit_cost": "\u20ac35,000",
+      "lead_time_days": 21,
+      "criticality": "Medium",
+      "monthly_demand": 10,
+      "suppliers": [
+        "Collins Aerospace",
+        "Airbus Industries",
+        "Parker Hannifin"
+      ],
+      "weight_kg": 264,
+      "shelf_life_months": 36,
+      "certification": "FAA"
+    },
+    {
+      "part_number": "HY80589-28",
+      "description": "Pressure Sensor - Hydraulics",
+      "category": "Hydraulics",
+      "aircraft_types": [
+        "Boeing 787-9",
+        "Dash 8-400",
+        "Boeing 737 MAX 8",
+        "Boeing 737 MAX 9",
+        "Airbus A350-900",
+        "Boeing 737-900"
+      ],
+      "current_stock": {
+        "london": 4,
+        "frankfurt": 5,
+        "dubai": 1,
+        "singapore": 5,
+        "new york": 1,
+        "hong kong": 0
+      },
+      "unit_cost": "\u20ac15,000",
+      "lead_time_days": 10,
+      "criticality": "Medium",
+      "monthly_demand": 12,
+      "suppliers": [
+        "GE Aviation"
+      ],
+      "weight_kg": 177,
+      "shelf_life_months": 120,
+      "certification": "EASA"
+    },
+    {
+      "part_number": "AP91703-65",
+      "description": "APU Starter - APU",
+      "category": "APU",
+      "aircraft_types": [
+        "Boeing 787-9",
+        "Airbus A330-200",
+        "Airbus A330-300"
+      ],
+      "current_stock": {
+        "london": 1,
+        "frankfurt": 2,
+        "dubai": 8,
+        "singapore": 4,
+        "new york": 0,
+        "hong kong": 3
+      },
+      "unit_cost": "\u20ac95,000",
+      "lead_time_days": 28,
+      "criticality": "High",
+      "monthly_demand": 19,
+      "suppliers": [
+        "Parker Hannifin",
+        "Rolls-Royce",
+        "Safran"
+      ],
+      "weight_kg": 151,
+      "shelf_life_months": 36,
+      "certification": "EASA"
+    },
+    {
+      "part_number": "AP26656-97",
+      "description": "Generator - APU",
+      "category": "APU",
+      "aircraft_types": [
+        "Airbus A330-300",
+        "Boeing 737-800",
+        "Boeing 787-8",
+        "Airbus A350-900",
+        "Boeing 787-9"
+      ],
+      "current_stock": {
+        "london": 1,
+        "frankfurt": 4,
+        "dubai": 5,
+        "singapore": 0,
+        "new york": 4,
+        "hong kong": 3
+      },
+      "unit_cost": "\u20ac145,000",
+      "lead_time_days": 35,
+      "criticality": "High",
+      "monthly_demand": 21,
+      "suppliers": [
+        "Eaton Corporation"
+      ],
+      "weight_kg": 66,
+      "shelf_life_months": 60,
+      "certification": "FAA"
+    },
+    {
+      "part_number": "AP20050-61",
+      "description": "Control Unit - APU",
+      "category": "APU",
+      "aircraft_types": [
+        "Boeing 737 MAX 8",
+        "Boeing 787-8",
+        "Airbus A330-200",
+        "Airbus A330-300",
+        "Dash 8-400",
+        "Boeing 777-300ER"
+      ],
+      "current_stock": {
+        "london": 6,
+        "frankfurt": 7,
+        "dubai": 4,
+        "singapore": 4,
+        "new york": 7,
+        "hong kong": 8
+      },
+      "unit_cost": "\u20ac125,000",
+      "lead_time_days": 40,
+      "criticality": "Critical",
+      "monthly_demand": 2,
+      "suppliers": [
+        "Liebherr",
+        "Eaton Corporation"
+      ],
+      "weight_kg": 266,
+      "shelf_life_months": 36,
+      "certification": "EASA"
+    },
+    {
+      "part_number": "AP77621-16",
+      "description": "Fuel Control - APU",
+      "category": "APU",
+      "aircraft_types": [
+        "Dash 8-400",
+        "Boeing 747-8F",
+        "Embraer E190",
+        "Airbus A330-200",
+        "Boeing 777-300ER",
+        "Airbus A380"
+      ],
+      "current_stock": {
+        "london": 1,
+        "frankfurt": 8,
+        "dubai": 2,
+        "singapore": 4,
+        "new york": 7,
+        "hong kong": 8
+      },
+      "unit_cost": "\u20ac85,000",
+      "lead_time_days": 25,
+      "criticality": "High",
+      "monthly_demand": 24,
+      "suppliers": [
+        "Eaton Corporation",
+        "GE Aviation",
+        "Rolls-Royce"
+      ],
+      "weight_kg": 87,
+      "shelf_life_months": 36,
+      "certification": "FAA"
+    }
+  ]
+}
